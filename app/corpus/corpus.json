@@ -1,0 +1,4941 @@
+{
+    "movie_metadata": {
+        "m0": {
+            "title": "10 things i hate about you",
+            "url": "http://www.dailyscript.com/scripts/10Things.html",
+            "release_year": "1999",
+            "rating": "6.90",
+            "votes": "62847",
+            "genre": "['comedy', 'romance']"
+        },
+        "m1": {
+            "title": "1492: conquest of paradise",
+            "url": "http://www.hundland.org/scripts/1492-ConquestOfParadise.txt",
+            "release_year": "1992",
+            "rating": "6.20",
+            "votes": "10421",
+            "genre": "['adventure', 'biography', 'drama', 'history']"
+        },
+        "m2": {
+            "title": "15 minutes",
+            "url": "http://www.dailyscript.com/scripts/15minutes.html",
+            "release_year": "2001",
+            "rating": "6.10",
+            "votes": "25854",
+            "genre": "['action', 'crime', 'drama', 'thriller']"
+        },
+        "m3": {
+            "title": "2001: a space odyssey",
+            "url": "http://www.scifiscripts.com/scripts/2001.txt",
+            "release_year": "1968",
+            "rating": "8.40",
+            "votes": "163227",
+            "genre": "['adventure', 'mystery', 'sci-fi']"
+        },
+        "m4": {
+            "title": "48 hrs.",
+            "url": "http://www.awesomefilm.com/script/48hours.txt",
+            "release_year": "1982",
+            "rating": "6.90",
+            "votes": "22289",
+            "genre": "['action', 'comedy', 'crime', 'drama', 'thriller']"
+        },
+        "m5": {
+            "title": "the fifth element",
+            "url": "http://www.scifiscripts.com/scripts/5thelement.txt",
+            "release_year": "1997",
+            "rating": "7.50",
+            "votes": "133756",
+            "genre": "['action', 'adventure', 'romance', 'sci-fi', 'thriller']"
+        },
+        "m6": {
+            "title": "8mm",
+            "url": "http://www.dailyscript.com/scripts/eight-millimeter.html",
+            "release_year": "1999",
+            "rating": "6.30",
+            "votes": "48212",
+            "genre": "['crime', 'mystery', 'thriller']"
+        },
+        "m7": {
+            "title": "a nightmare on elm street 4: the dream master",
+            "url": "http://www.hundland.org/scripts/A-Nightmare-on-Elm-Street-4.txt",
+            "release_year": "1988",
+            "rating": "5.20",
+            "votes": "13590",
+            "genre": "['fantasy', 'horror', 'thriller']"
+        },
+        "m8": {
+            "title": "a nightmare on elm street: the dream child",
+            "url": "http://www.hundland.org/scripts/A-Nightmare-on-Elm-Street-5.txt",
+            "release_year": "1989",
+            "rating": "4.70",
+            "votes": "11092",
+            "genre": "['fantasy', 'horror', 'thriller']"
+        },
+        "m9": {
+            "title": "the atomic submarine",
+            "url": "http://leonscripts.tripod.com/scripts/ATOMICSUB.htm",
+            "release_year": "1959",
+            "rating": "4.90",
+            "votes": "513",
+            "genre": "['sci-fi', 'thriller']"
+        },
+        "m10": {
+            "title": "affliction",
+            "url": "http://www.dailyscript.com/scripts/Affliction.txt",
+            "release_year": "1997",
+            "rating": "6.90",
+            "votes": "7252",
+            "genre": "['drama', 'mystery', 'thriller']"
+        },
+        "m11": {
+            "title": "air force one",
+            "url": "http://www.dailyscript.com/scripts/AirForceOne_TXT.html",
+            "release_year": "1997",
+            "rating": "6.30",
+            "votes": "61978",
+            "genre": "['action', 'drama', 'thriller']"
+        },
+        "m12": {
+            "title": "airplane ii: the sequel",
+            "url": "http://www.dailyscript.com/scripts/Airplane2_script.htm",
+            "release_year": "1982",
+            "rating": "5.80",
+            "votes": "15210",
+            "genre": "['comedy', 'romance', 'sci-fi']"
+        },
+        "m13": {
+            "title": "airplane!",
+            "url": "http://www.dailyscript.com/scripts/Airplane_script.htm",
+            "release_year": "1980",
+            "rating": "7.80",
+            "votes": "57692",
+            "genre": "['comedy', 'romance']"
+        },
+        "m14": {
+            "title": "alien nation",
+            "url": "http://www.dailyscript.com/scripts/Alien_Nation_Bannon_Cameron_October_1987.html",
+            "release_year": "1988",
+            "rating": "6.10",
+            "votes": "5590",
+            "genre": "['crime', 'drama', 'sci-fi', 'thriller']"
+        },
+        "m15": {
+            "title": "aliens",
+            "url": "http://www.horrorlair.com/scripts/aliens.html",
+            "release_year": "1986",
+            "rating": "8.50",
+            "votes": "173518",
+            "genre": "['action', 'sci-fi', 'thriller']"
+        },
+        "m16": {
+            "title": "amadeus",
+            "url": "http://www.dailyscript.com/scripts/Amadeus.txt",
+            "release_year": "1984",
+            "rating": "8.40",
+            "votes": "99138",
+            "genre": "['biography', 'drama', 'music']"
+        },
+        "m17": {
+            "title": "an american werewolf in london",
+            "url": "http://www.dailyscript.com/scripts/American%20Werewolf%20In%20London,%20An.txt",
+            "release_year": "1981",
+            "rating": "7.50",
+            "votes": "24443",
+            "genre": "['horror', 'romance']"
+        },
+        "m18": {
+            "title": "american madness",
+            "url": "http://www.dailyscript.com/scripts/American_Madness.html",
+            "release_year": "1932",
+            "rating": "7.40",
+            "votes": "702",
+            "genre": "['drama']"
+        },
+        "m19": {
+            "title": "american outlaws",
+            "url": "http://www.dailyscript.com/scripts/American_Outlaws.html",
+            "release_year": "2001",
+            "rating": "5.70",
+            "votes": "7425",
+            "genre": "['action', 'western']"
+        },
+        "m20": {
+            "title": "american psycho",
+            "url": "http://www.dailyscript.com/scripts/american_psycho_unproduced.html",
+            "release_year": "2000",
+            "rating": "7.40",
+            "votes": "101357",
+            "genre": "['drama', 'thriller']"
+        },
+        "m21": {
+            "title": "antitrust",
+            "url": "http://www.dailyscript.com/scripts/Antitrust.txt",
+            "release_year": "2001",
+            "rating": "6.00",
+            "votes": "16453",
+            "genre": "['drama', 'thriller']"
+        },
+        "m22": {
+            "title": "austin powers: international man of mystery",
+            "url": "http://www.dailyscript.com/scripts/Austin%20Powers%20-%20International%20Man%20Of%20Mystery.txt",
+            "release_year": "1997",
+            "rating": "7.10",
+            "votes": "75240",
+            "genre": "['action', 'adventure', 'comedy', 'crime']"
+        },
+        "m23": {
+            "title": "the avengers",
+            "url": "http://www.dailyscript.com/scripts/Avengers.html",
+            "release_year": "1998",
+            "rating": "3.40",
+            "votes": "21519",
+            "genre": "['action', 'adventure', 'thriller']"
+        },
+        "m24": {
+            "title": "bachelor party",
+            "url": "http://www.dailyscript.com/scripts/Bachelor%20Party.txt",
+            "release_year": "1984",
+            "rating": "5.90",
+            "votes": "14050",
+            "genre": "['comedy', 'romance']"
+        },
+        "m25": {
+            "title": "backdraft",
+            "url": "http://www.dailyscript.com/scripts/Backdraft%20(1991).txt",
+            "release_year": "1991",
+            "rating": "6.60",
+            "votes": "28541",
+            "genre": "['action', 'crime', 'drama', 'mystery', 'thriller']"
+        },
+        "m26": {
+            "title": "bad lieutenant",
+            "url": "http://www.dailyscript.com/scripts/Bad%20Lieutenant.txt",
+            "release_year": "1992",
+            "rating": "6.90",
+            "votes": "13908",
+            "genre": "['crime', 'drama']"
+        },
+        "m27": {
+            "title": "bamboozled",
+            "url": "http://www.awesomefilm.com/script/Bamboozled.txt",
+            "release_year": "2000",
+            "rating": "6.30",
+            "votes": "5995",
+            "genre": "['comedy', 'drama', 'music']"
+        },
+        "m28": {
+            "title": "barry lyndon",
+            "url": "http://www.dailyscript.com/scripts/BarryLyndon.html",
+            "release_year": "1975",
+            "rating": "8.10",
+            "votes": "40622",
+            "genre": "['drama', 'romance', 'war']"
+        },
+        "m29": {
+            "title": "basic",
+            "url": "http://www.dailyscript.com/scripts/Basic.txt",
+            "release_year": "2003",
+            "rating": "6.30",
+            "votes": "26295",
+            "genre": "['crime', 'drama', 'mystery', 'thriller']"
+        },
+        "m30": {
+            "title": "big fish",
+            "url": "http://www.dailyscript.com/scripts/Big+Fish.txt",
+            "release_year": "2003",
+            "rating": "8.10",
+            "votes": "144264",
+            "genre": "['adventure', 'drama', 'fantasy']"
+        },
+        "m31": {
+            "title": "birthday girl",
+            "url": "http://www.dailyscript.com/scripts/Birthday+Girl.txt",
+            "release_year": "2001",
+            "rating": "6.00",
+            "votes": "13497",
+            "genre": "['comedy', 'crime', 'romance', 'thriller']"
+        },
+        "m32": {
+            "title": "black snake moan",
+            "url": "http://www.dailyscript.com/scripts/Black%20Snake%20Moan.txt",
+            "release_year": "2006",
+            "rating": "7.10",
+            "votes": "28509",
+            "genre": "['drama']"
+        },
+        "m33": {
+            "title": "black rain",
+            "url": "http://www.angelfire.com/movies/ridleyscott/script/BlackRain.txt",
+            "release_year": "1989/I",
+            "rating": "6.40",
+            "votes": "16249",
+            "genre": "['action', 'crime', 'drama', 'thriller']"
+        },
+        "m34": {
+            "title": "blade runner",
+            "url": "http://www.dailyscript.com/scripts/blade-runner_shooting.html",
+            "release_year": "1982",
+            "rating": "8.30",
+            "votes": "188735",
+            "genre": "['drama', 'sci-fi', 'thriller']"
+        },
+        "m35": {
+            "title": "blast from the past",
+            "url": "http://www.hundland.org/scripts/Blast-from-the-Past.htm",
+            "release_year": "1999",
+            "rating": "6.40",
+            "votes": "23489",
+            "genre": "['comedy', 'drama', 'romance']"
+        },
+        "m36": {
+            "title": "blue velvet",
+            "url": "http://www.dailyscript.com/scripts/Blue+Velvet.txt",
+            "release_year": "1986",
+            "rating": "7.80",
+            "votes": "54576",
+            "genre": "['crime', 'mystery', 'thriller']"
+        },
+        "m37": {
+            "title": "the boondock saints",
+            "url": "http://www.dailyscript.com/scripts/Boondock%20Saints,%20The.txt",
+            "release_year": "1999",
+            "rating": "7.80",
+            "votes": "87895",
+            "genre": "['action', 'crime', 'drama', 'thriller']"
+        },
+        "m38": {
+            "title": "bottle rocket",
+            "url": "http://www.dailyscript.com/scripts/Bottle+Rocket.txt",
+            "release_year": "1996",
+            "rating": "7.20",
+            "votes": "22303",
+            "genre": "['comedy', 'crime']"
+        },
+        "m39": {
+            "title": "the bourne supremacy",
+            "url": "http://www.dailyscript.com/scripts/Bourne+Supremacy,+The.txt",
+            "release_year": "2004",
+            "rating": "7.60",
+            "votes": "106349",
+            "genre": "['action', 'adventure', 'mystery', 'thriller']"
+        },
+        "m40": {
+            "title": "braveheart",
+            "url": "http://www.dailyscript.com/scripts/Braveheart.txt",
+            "release_year": "1995",
+            "rating": "8.40",
+            "votes": "245652",
+            "genre": "['action', 'biography', 'drama', 'history', 'war']"
+        },
+        "m41": {
+            "title": "the butterfly effect",
+            "url": "http://www.dailyscript.com/scripts/Butterfly+Effect,+The.txt",
+            "release_year": "2004",
+            "rating": "7.80",
+            "votes": "104917",
+            "genre": "['drama', 'mystery', 'sci-fi', 'thriller']"
+        },
+        "m42": {
+            "title": "casablanca",
+            "url": "http://www.dailyscript.com/scripts/Casablanca.txt",
+            "release_year": "1942",
+            "rating": "8.80",
+            "votes": "170874",
+            "genre": "['drama', 'romance', 'war']"
+        },
+        "m43": {
+            "title": "cast away",
+            "url": "http://www.hundland.org/scripts/CastAway.txt",
+            "release_year": "2000",
+            "rating": "7.50",
+            "votes": "104477",
+            "genre": "['adventure', 'drama']"
+        },
+        "m44": {
+            "title": "the cider house rules",
+            "url": "http://www.dailyscript.com/scripts/Cider%20House%20Rules,%20The.txt",
+            "release_year": "1999",
+            "rating": "7.50",
+            "votes": "38836",
+            "genre": "['drama', 'romance']"
+        },
+        "m45": {
+            "title": "confidence",
+            "url": "http://www.dailyscript.com/scripts/Confidence.txt",
+            "release_year": "2003",
+            "rating": "6.80",
+            "votes": "17235",
+            "genre": "['crime', 'thriller']"
+        },
+        "m46": {
+            "title": "croupier",
+            "url": "http://www.dailyscript.com/scripts/Croupier.txt",
+            "release_year": "1998",
+            "rating": "7.20",
+            "votes": "9060",
+            "genre": "['crime', 'drama']"
+        },
+        "m47": {
+            "title": "dark star",
+            "url": "http://www.dailyscript.com/scripts/Dark+Star.txt",
+            "release_year": "1974",
+            "rating": "6.50",
+            "votes": "8303",
+            "genre": "['comedy', 'sci-fi', 'thriller']"
+        },
+        "m48": {
+            "title": "dark angel",
+            "url": "http://www.hundland.org/scripts/DarkAngel.txt",
+            "release_year": "1990",
+            "rating": "5.30",
+            "votes": "3452",
+            "genre": "['action', 'crime', 'drama', 'horror', 'sci-fi', 'thriller']"
+        },
+        "m49": {
+            "title": "detroit rock city",
+            "url": "http://www.dailyscript.com/scripts/Detroit+Rock+City.txt",
+            "release_year": "1999",
+            "rating": "6.50",
+            "votes": "14666",
+            "genre": "['comedy', 'music']"
+        },
+        "m50": {
+            "title": "donnie darko",
+            "url": "http://www.dailyscript.com/scripts/Donnie+Darko.txt",
+            "release_year": "2001",
+            "rating": "8.30",
+            "votes": "215194",
+            "genre": "['drama', 'mystery', 'sci-fi']"
+        },
+        "m51": {
+            "title": "drop dead gorgeous",
+            "url": "http://www.dailyscript.com/scripts/Drop+Dead+Gorgeous.txt",
+            "release_year": "1999",
+            "rating": "6.30",
+            "votes": "16417",
+            "genre": "['comedy', 'adult']"
+        },
+        "m52": {
+            "title": "duck soup",
+            "url": "http://www.dailyscript.com/scripts/Duck%20Soup.txt",
+            "release_year": "1933",
+            "rating": "8.10",
+            "votes": "27112",
+            "genre": "['comedy', 'musical']"
+        },
+        "m53": {
+            "title": "the elephant man",
+            "url": "http://www.dailyscript.com/scripts/Elephant+Man,+The.txt",
+            "release_year": "1980",
+            "rating": "8.40",
+            "votes": "59625",
+            "genre": "['biography', 'drama', 'history']"
+        },
+        "m54": {
+            "title": "erik the viking",
+            "url": "http://www.dailyscript.com/scripts/Erik+The+Viking.txt",
+            "release_year": "1989",
+            "rating": "5.90",
+            "votes": "5889",
+            "genre": "['comedy', 'adventure', 'fantasy']"
+        },
+        "m55": {
+            "title": "eternal sunshine of the spotless mind",
+            "url": "http://www.dailyscript.com/scripts/Eternal+Sunshine+Of+The+Spotless+Mind.txt",
+            "release_year": "2004",
+            "rating": "8.50",
+            "votes": "224838",
+            "genre": "['drama', 'romance', 'sci-fi']"
+        },
+        "m56": {
+            "title": "even cowgirls get the blues",
+            "url": "http://www.dailyscript.com/scripts/Even%20Cowgirls%20Get%20The%20Blues.txt",
+            "release_year": "1993",
+            "rating": "4.00",
+            "votes": "3947",
+            "genre": "['comedy', 'drama', 'romance', 'western']"
+        },
+        "m57": {
+            "title": "event horizon",
+            "url": "http://www.dailyscript.com/scripts/Event%20Horizon.txt",
+            "release_year": "1997",
+            "rating": "6.40",
+            "votes": "45497",
+            "genre": "['horror', 'mystery', 'mystery', 'sci-fi', 'sci-fi']"
+        },
+        "m58": {
+            "title": "fantastic four",
+            "url": "http://www.dailyscript.com/scripts/Fantastic+Four.txt",
+            "release_year": "2005",
+            "rating": "5.70",
+            "votes": "72581",
+            "genre": "['action', 'adventure', 'fantasy', 'sci-fi', 'fantasy']"
+        },
+        "m59": {
+            "title": "fast times at ridgemont high",
+            "url": "http://www.dailyscript.com/scripts/Fast+Times+At+Ridgemont+High.txt",
+            "release_year": "1982",
+            "rating": "7.20",
+            "votes": "31710",
+            "genre": "['comedy', 'drama', 'romance']"
+        },
+        "m60": {
+            "title": "fear and loathing in las vegas",
+            "url": "http://www.dailyscript.com/scripts/Fear+&+Loathing+In+Las+Vegas.txt",
+            "release_year": "1998",
+            "rating": "7.60",
+            "votes": "82748",
+            "genre": "['drama', 'fantasy']"
+        },
+        "m61": {
+            "title": "feast",
+            "url": "http://www.dailyscript.com/scripts/Feast%20-%20Revised%20Draft.txt",
+            "release_year": "2005",
+            "rating": "6.40",
+            "votes": "12248",
+            "genre": "['action', 'comedy', 'horror', 'thriller']"
+        },
+        "m62": {
+            "title": "frances",
+            "url": "http://www.dailyscript.com/scripts/Frances.txt",
+            "release_year": "1982",
+            "rating": "7.20",
+            "votes": "2756",
+            "genre": "['biography', 'drama']"
+        },
+        "m63": {
+            "title": "frankenstein",
+            "url": "http://www.dailyscript.com/scripts/Frankenstein+(1994).txt",
+            "release_year": "1931",
+            "rating": "8.00",
+            "votes": "23522",
+            "genre": "['drama', 'horror', 'sci-fi']"
+        },
+        "m64": {
+            "title": "friday the 13th",
+            "url": "http://www.dailyscript.com/scripts/Friday%20The%2013th.txt",
+            "release_year": "2009",
+            "rating": "5.60",
+            "votes": "27499",
+            "genre": "['horror']"
+        },
+        "m65": {
+            "title": "from dusk till dawn",
+            "url": "http://www.dailyscript.com/scripts/From%20Dusk%20Till%20Dawn.txt",
+            "release_year": "1996",
+            "rating": "7.10",
+            "votes": "81559",
+            "genre": "['action', 'crime', 'horror', 'thriller']"
+        },
+        "m66": {
+            "title": "g.i. jane",
+            "url": "http://www.angelfire.com/movies/ridleyscott/script/GIJane.txt",
+            "release_year": "1997",
+            "rating": "5.60",
+            "votes": "24068",
+            "genre": "['action', 'drama']"
+        },
+        "m67": {
+            "title": "godzilla",
+            "url": "http://www.scifiscripts.com/scripts/GODZILLAfirst.txt",
+            "release_year": "1998",
+            "rating": "4.90",
+            "votes": "60310",
+            "genre": "['action', 'horror', 'sci-fi', 'thriller']"
+        },
+        "m68": {
+            "title": "galaxy quest",
+            "url": "http://www.scifiscripts.com/scripts/GalaxyQuest.txt",
+            "release_year": "1999",
+            "rating": "7.20",
+            "votes": "53004",
+            "genre": "['action', 'adventure', 'comedy', 'sci-fi']"
+        },
+        "m69": {
+            "title": "george washington",
+            "url": "http://www.fortunecity.com/tattooine/clarke/38/scripts/GeorgeWashington.txt",
+            "release_year": "2000",
+            "rating": "7.50",
+            "votes": "3142",
+            "genre": "['drama']"
+        },
+        "m70": {
+            "title": "get shorty",
+            "url": "http://www.dailyscript.com/scripts/Get+Shorty.txt",
+            "release_year": "1995",
+            "rating": "6.90",
+            "votes": "33588",
+            "genre": "['comedy', 'crime', 'thriller']"
+        },
+        "m71": {
+            "title": "ghost ship",
+            "url": "http://www.whiskeyloosetongue.com/scripts/ghostship.html",
+            "release_year": "2002",
+            "rating": "5.30",
+            "votes": "26413",
+            "genre": "['horror', 'mystery', 'thriller']"
+        },
+        "m72": {
+            "title": "ghost world",
+            "url": "http://www.dailyscript.com/scripts/Ghost%20World.txt",
+            "release_year": "2001",
+            "rating": "7.70",
+            "votes": "43550",
+            "genre": "['comedy', 'drama']"
+        },
+        "m73": {
+            "title": "the ghost and the darkness",
+            "url": "http://www.dailyscript.com/scripts/Ghost%20And%20The%20Darkness,%20The.txt",
+            "release_year": "1996",
+            "rating": "6.60",
+            "votes": "19954",
+            "genre": "['adventure', 'drama', 'thriller']"
+        },
+        "m74": {
+            "title": "ghostbusters ii",
+            "url": "http://www.scifiscripts.com/scripts/Ghostbusters-2.txt",
+            "release_year": "1989",
+            "rating": "6.10",
+            "votes": "45450",
+            "genre": "['action', 'adventure', 'comedy', 'fantasy', 'sci-fi', 'action', 'adventure', 'comedy', 'sci-fi']"
+        },
+        "m75": {
+            "title": "ghostbusters",
+            "url": "http://www.scifiscripts.com/scripts/Ghostbusters.txt",
+            "release_year": "1986",
+            "rating": "6.90",
+            "votes": "237",
+            "genre": "['animation', 'comedy', 'fantasy', 'sci-fi', 'horror']"
+        },
+        "m76": {
+            "title": "gladiator",
+            "url": "http://www.angelfire.com/movies/ridleyscott/script/gladiator_seconddraft.txt",
+            "release_year": "2000",
+            "rating": "8.40",
+            "votes": "286067",
+            "genre": "['action', 'adventure', 'drama']"
+        },
+        "m77": {
+            "title": "the graduate",
+            "url": "http://www.dailyscript.com/scripts/Graduate,+The.txt",
+            "release_year": "1967",
+            "rating": "8.20",
+            "votes": "79677",
+            "genre": "['comedy', 'drama', 'romance']"
+        },
+        "m78": {
+            "title": "grand hotel",
+            "url": "http://www.dailyscript.com/scripts/Grand%20Hotel.txt",
+            "release_year": "1932",
+            "rating": "7.70",
+            "votes": "6088",
+            "genre": "['drama', 'romance']"
+        },
+        "m79": {
+            "title": "the grifters",
+            "url": "http://www.dailyscript.com/scripts/Grifters_Westlake.html",
+            "release_year": "1990",
+            "rating": "7.00",
+            "votes": "11481",
+            "genre": "['crime', 'drama', 'thriller']"
+        },
+        "m80": {
+            "title": "halloween h20: 20 years later",
+            "url": "http://www.horrorlair.com/scripts/H20.txt",
+            "release_year": "1998",
+            "rating": "5.40",
+            "votes": "22353",
+            "genre": "['drama', 'horror', 'thriller']"
+        },
+        "m81": {
+            "title": "halloween: the curse of michael myers",
+            "url": "http://www.dailyscript.com/scripts/Halloween_6_The_Curse_of_Michael_Myers.html",
+            "release_year": "1995",
+            "rating": "4.50",
+            "votes": "8743",
+            "genre": "['horror', 'thriller']"
+        },
+        "m82": {
+            "title": "happy birthday, wanda june",
+            "url": "http://www.dailyscript.com/scripts/Happy_Birthday_Wanda_JUne.html",
+            "release_year": "1971",
+            "rating": "5.80",
+            "votes": "144",
+            "genre": "['comedy', 'drama']"
+        },
+        "m83": {
+            "title": "hardcore",
+            "url": "http://www.dailyscript.com/scripts/Hardcore.txt",
+            "release_year": "1979",
+            "rating": "6.70",
+            "votes": "2455",
+            "genre": "['drama']"
+        },
+        "m84": {
+            "title": "harold and maude",
+            "url": "http://home.online.no/~bhundlan/scripts/Harold-and-Maude.htm",
+            "release_year": "1971",
+            "rating": "8.10",
+            "votes": "28689",
+            "genre": "['comedy', 'romance']"
+        },
+        "m85": {
+            "title": "hellbound: hellraiser ii",
+            "url": "http://www.dailyscript.com/scripts/Hellbound+-+Hellraiser+II.txt",
+            "release_year": "1988",
+            "rating": "6.20",
+            "votes": "11273",
+            "genre": "['drama', 'horror', 'thriller']"
+        },
+        "m86": {
+            "title": "hellboy",
+            "url": "http://www.dailyscript.com/scripts/Hellboy.txt",
+            "release_year": "2004",
+            "rating": "6.80",
+            "votes": "68619",
+            "genre": "['action', 'adventure', 'fantasy']"
+        },
+        "m87": {
+            "title": "hellraiser",
+            "url": "http://www.dailyscript.com/scripts/Hellraiser.txt",
+            "release_year": "1987",
+            "rating": "7.00",
+            "votes": "22922",
+            "genre": "['horror']"
+        },
+        "m88": {
+            "title": "high fidelity",
+            "url": "http://www.dailyscript.com/scripts/High%20Fidelity.txt",
+            "release_year": "2000",
+            "rating": "7.60",
+            "votes": "70464",
+            "genre": "['comedy', 'drama', 'music', 'romance']"
+        },
+        "m89": {
+            "title": "highlander",
+            "url": "http://www.scifiscripts.com/scripts/Highlander_final.txt",
+            "release_year": "1986",
+            "rating": "7.20",
+            "votes": "41243",
+            "genre": "['action', 'fantasy']"
+        },
+        "m90": {
+            "title": "his girl friday",
+            "url": "http://www.dailyscript.com/scripts/His%20Girl%20Friday.txt",
+            "release_year": "1940",
+            "rating": "8.10",
+            "votes": "20870",
+            "genre": "['comedy', 'drama', 'romance']"
+        },
+        "m91": {
+            "title": "hope and glory",
+            "url": "http://www.dailyscript.com/scripts/Hope+And+Glory.txt",
+            "release_year": "1987",
+            "rating": "7.40",
+            "votes": "4965",
+            "genre": "['drama', 'war']"
+        },
+        "m92": {
+            "title": "house of 1000 corpses",
+            "url": "http://www.dailyscript.com/scripts/House%20Of%201000%20Corpses.txt",
+            "release_year": "2003",
+            "rating": "5.60",
+            "votes": "27033",
+            "genre": "['horror']"
+        },
+        "m93": {
+            "title": "human nature",
+            "url": "http://www.dailyscript.com/scripts/Human+Nature.txt",
+            "release_year": "2001",
+            "rating": "6.30",
+            "votes": "10017",
+            "genre": "['comedy', 'drama']"
+        },
+        "m94": {
+            "title": "the hustler",
+            "url": "http://www.dailyscript.com/scripts/Hustler,+The.txt",
+            "release_year": "1961",
+            "rating": "8.20",
+            "votes": "25871",
+            "genre": "['drama', 'romance', 'sport']"
+        },
+        "m95": {
+            "title": "i am legend",
+            "url": "http://www.horrorlair.com/scripts/legend.txt",
+            "release_year": "2007",
+            "rating": "7.10",
+            "votes": "156084",
+            "genre": "['drama', 'sci-fi', 'thriller']"
+        },
+        "m96": {
+            "title": "invaders from mars",
+            "url": "http://leonscripts.tripod.com/scripts/INVADERSold.htm",
+            "release_year": "1953",
+            "rating": "6.40",
+            "votes": "2115",
+            "genre": "['horror', 'sci-fi']"
+        },
+        "m97": {
+            "title": "independence day",
+            "url": "http://www.dailyscript.com/scripts/Independence+Day.txt",
+            "release_year": "1996",
+            "rating": "6.60",
+            "votes": "151698",
+            "genre": "['action', 'adventure', 'sci-fi', 'thriller']"
+        },
+        "m98": {
+            "title": "indiana jones and the last crusade",
+            "url": "http://www.dailyscript.com/scripts/Indiana%20Jones%20And%20The%20Last%20Crusade.txt",
+            "release_year": "1989",
+            "rating": "8.30",
+            "votes": "174947",
+            "genre": "['action', 'adventure', 'thriller', 'action', 'adventure', 'fantasy']"
+        },
+        "m99": {
+            "title": "indiana jones and the temple of doom",
+            "url": "http://www.dailyscript.com/scripts/Indiana%20Jones%20And%20The%20Temple%20Of%20Doom.txt",
+            "release_year": "1984",
+            "rating": "7.50",
+            "votes": "112054",
+            "genre": "['action', 'adventure']"
+        },
+        "m100": {
+            "title": "innerspace",
+            "url": "http://www.scifiscripts.com/scripts/InnerSpace.txt",
+            "release_year": "1987",
+            "rating": "6.50",
+            "votes": "16854",
+            "genre": "['action', 'adventure', 'comedy', 'crime', 'sci-fi']"
+        },
+        "m101": {
+            "title": "the insider",
+            "url": "http://www.dailyscript.com/scripts/Insider,+The.txt",
+            "release_year": "1999",
+            "rating": "8.00",
+            "votes": "69660",
+            "genre": "['biography', 'drama', 'thriller']"
+        },
+        "m102": {
+            "title": "intolerable cruelty",
+            "url": "http://www.dailyscript.com/scripts/Intolerable%20Cruelty.txt",
+            "release_year": "2003",
+            "rating": "6.40",
+            "votes": "36739",
+            "genre": "['comedy', 'romance', 'crime']"
+        },
+        "m103": {
+            "title": "it happened one night",
+            "url": "http://www.dailyscript.com/scripts/It+Happened+One+Night.txt",
+            "release_year": "1934",
+            "rating": "8.30",
+            "votes": "25577",
+            "genre": "['comedy', 'romance']"
+        },
+        "m104": {
+            "title": "jfk",
+            "url": "http://www.dailyscript.com/scripts/JFK.txt",
+            "release_year": "1991",
+            "rating": "8.00",
+            "votes": "60406",
+            "genre": "['biography', 'drama', 'history', 'mystery', 'thriller']"
+        },
+        "m105": {
+            "title": "jackie brown",
+            "url": "http://www.dailyscript.com/scripts/Jackie+Brown.txt",
+            "release_year": "1997",
+            "rating": "7.60",
+            "votes": "85496",
+            "genre": "['crime', 'drama', 'thriller']"
+        },
+        "m106": {
+            "title": "jacob's ladder",
+            "url": "http://www.dailyscript.com/scripts/Jacobs+Ladder.txt",
+            "release_year": "1990/I",
+            "rating": "7.50",
+            "votes": "29182",
+            "genre": "['drama', 'mystery', 'thriller']"
+        },
+        "m107": {
+            "title": "jason x",
+            "url": "http://www.dailyscript.com/scripts/Jason+X.txt",
+            "release_year": "2001",
+            "rating": "4.40",
+            "votes": "18199",
+            "genre": "['horror', 'sci-fi']"
+        },
+        "m108": {
+            "title": "jaws",
+            "url": "http://www.dailyscript.com/scripts/Jaws.txt",
+            "release_year": "1975",
+            "rating": "8.30",
+            "votes": "140982",
+            "genre": "['thriller']"
+        },
+        "m109": {
+            "title": "juno",
+            "url": "http://www.dailyscript.com/scripts/Juno.txt",
+            "release_year": "2007",
+            "rating": "7.90",
+            "votes": "152436",
+            "genre": "['comedy', 'drama']"
+        },
+        "m110": {
+            "title": "kalifornia",
+            "url": "http://www.dailyscript.com/scripts/Kalifornia.txt",
+            "release_year": "1993",
+            "rating": "6.70",
+            "votes": "21830",
+            "genre": "['crime', 'drama', 'thriller']"
+        },
+        "m111": {
+            "title": "kids",
+            "url": "http://www.dailyscript.com/scripts/Kids.txt",
+            "release_year": "1995",
+            "rating": "6.80",
+            "votes": "26546",
+            "genre": "['crime', 'drama']"
+        },
+        "m112": {
+            "title": "knight moves",
+            "url": "http://www.scifiscripts.com/msol/Knight_m.txt",
+            "release_year": "1992",
+            "rating": "5.80",
+            "votes": "3272",
+            "genre": "['mystery', 'thriller']"
+        },
+        "m113": {
+            "title": "krull",
+            "url": "http://www.dailyscript.com/scripts/Krull.html",
+            "release_year": "1983",
+            "rating": "5.90",
+            "votes": "8246",
+            "genre": "['fantasy', 'action', 'adventure', 'sci-fi']"
+        },
+        "m114": {
+            "title": "lon",
+            "url": "http://www.scifiscripts.com/msol/LEON.txt",
+            "release_year": "1994",
+            "rating": "8.60",
+            "votes": "204901",
+            "genre": "['crime', 'drama', 'thriller']"
+        },
+        "m115": {
+            "title": "labor of love",
+            "url": "http://www.fortunecity.com/tattooine/clarke/38/scripts/LaborOfLove.txt",
+            "release_year": "1998",
+            "rating": "4.50",
+            "votes": "45",
+            "genre": "[]"
+        },
+        "m116": {
+            "title": "leaving las vegas",
+            "url": "http://www.dailyscript.com/scripts/Leaving+Las+Vegas.txt",
+            "release_year": "1995",
+            "rating": "7.60",
+            "votes": "42919",
+            "genre": "['drama', 'romance']"
+        },
+        "m117": {
+            "title": "legally blonde",
+            "url": "http://www.dailyscript.com/scripts/Legally%20Blonde.txt",
+            "release_year": "2001",
+            "rating": "6.20",
+            "votes": "44558",
+            "genre": "['comedy']"
+        },
+        "m118": {
+            "title": "legend",
+            "url": "http://www.angelfire.com/movies/ridleyscott/script/LegendOfDarkness.txt",
+            "release_year": "1985",
+            "rating": "6.20",
+            "votes": "20907",
+            "genre": "['fantasy', 'adventure', 'romance']"
+        },
+        "m119": {
+            "title": "life as a house",
+            "url": "http://www.dailyscript.com/scripts/LifeAsAHouse.html",
+            "release_year": "2001",
+            "rating": "7.50",
+            "votes": "19468",
+            "genre": "['drama', 'romance']"
+        },
+        "m120": {
+            "title": "the life of david gale",
+            "url": "http://www.dailyscript.com/scripts/Life.txt",
+            "release_year": "2003",
+            "rating": "7.30",
+            "votes": "38237",
+            "genre": "['drama', 'crime', 'thriller']"
+        },
+        "m121": {
+            "title": "little nicky",
+            "url": "http://www.dailyscript.com/scripts/Little+Nicky.txt",
+            "release_year": "2000",
+            "rating": "5.00",
+            "votes": "35489",
+            "genre": "['fantasy', 'comedy', 'romance', 'animation', 'comedy', 'fantasy', 'horror']"
+        },
+        "m122": {
+            "title": "logan's run",
+            "url": "http://www.dailyscript.com/scripts/Logans+Run.txt",
+            "release_year": "1976",
+            "rating": "6.70",
+            "votes": "15152",
+            "genre": "['action', 'sci-fi']"
+        },
+        "m123": {
+            "title": "lost highway",
+            "url": "http://www.dailyscript.com/scripts/Lost+Highway.txt",
+            "release_year": "1997",
+            "rating": "7.60",
+            "votes": "42998",
+            "genre": "['drama', 'horror', 'mystery', 'thriller']"
+        },
+        "m124": {
+            "title": "lost horizon",
+            "url": "http://www.dailyscript.com/scripts/Lost_Horizon.html",
+            "release_year": "1937",
+            "rating": "7.80",
+            "votes": "5509",
+            "genre": "['adventure', 'drama', 'fantasy', 'mystery']"
+        },
+        "m125": {
+            "title": "men in black",
+            "url": "http://www.dailyscript.com/scripts/Men+In+Black.txt",
+            "release_year": "1997",
+            "rating": "7.00",
+            "votes": "121719",
+            "genre": "['action', 'adventure', 'comedy', 'sci-fi']"
+        },
+        "m126": {
+            "title": "minority report",
+            "url": "http://www.dailyscript.com/scripts/Minority%20Report.txt",
+            "release_year": "2002",
+            "rating": "7.70",
+            "votes": "137009",
+            "genre": "['action', 'crime', 'mystery', 'sci-fi', 'thriller', 'action', 'animation', 'drama', 'mystery', 'sci-fi', 'thriller']"
+        },
+        "m127": {
+            "title": "made",
+            "url": "http://www.dailyscript.com/scripts/Made.txt",
+            "release_year": "2001",
+            "rating": "6.40",
+            "votes": "9774",
+            "genre": "['comedy', 'crime', 'drama', 'thriller']"
+        },
+        "m128": {
+            "title": "malcolm x",
+            "url": "http://www.dailyscript.com/scripts/Malcolm+X.txt",
+            "release_year": "1992",
+            "rating": "7.70",
+            "votes": "23317",
+            "genre": "['biography', 'drama', 'history']"
+        },
+        "m129": {
+            "title": "man on fire",
+            "url": "http://www.dailyscript.com/scripts/Man+On+Fire.txt",
+            "release_year": "2004",
+            "rating": "7.70",
+            "votes": "76517",
+            "genre": "['action', 'crime', 'drama', 'thriller']"
+        },
+        "m130": {
+            "title": "marty",
+            "url": "http://www.dailyscript.com/scripts/Marty.txt",
+            "release_year": "1955",
+            "rating": "7.70",
+            "votes": "6379",
+            "genre": "['drama', 'romance']"
+        },
+        "m131": {
+            "title": "mash",
+            "url": "http://www.dailyscript.com/scripts/MASH.txt",
+            "release_year": "1970",
+            "rating": "7.80",
+            "votes": "29358",
+            "genre": "['comedy', 'war', 'drama']"
+        },
+        "m132": {
+            "title": "meet john doe",
+            "url": "http://www.dailyscript.com/scripts/Meet_John_Doe.html",
+            "release_year": "1941",
+            "rating": "7.70",
+            "votes": "4841",
+            "genre": "['comedy', 'drama', 'romance']"
+        },
+        "m133": {
+            "title": "metro",
+            "url": "http://www.dailyscript.com/scripts/Metro.txt",
+            "release_year": "1997",
+            "rating": "5.30",
+            "votes": "9601",
+            "genre": "['action', 'comedy', 'crime', 'drama', 'thriller']"
+        },
+        "m134": {
+            "title": "metropolis",
+            "url": "http://www.angelfire.com/movies/ridleyscott/script/Metropolis.txt",
+            "release_year": "1927",
+            "rating": "8.40",
+            "votes": "40730",
+            "genre": "['adventure', 'drama', 'sci-fi']"
+        },
+        "m135": {
+            "title": "mighty morphin power rangers",
+            "url": "http://www.hundland.org/scripts/MightyMorphinPowerRangers.txt",
+            "release_year": "1994",
+            "rating": "8.20",
+            "votes": "35",
+            "genre": "['action', 'family']"
+        },
+        "m136": {
+            "title": "mobsters",
+            "url": "http://www.dailyscript.com/scripts/Mobsters.txt",
+            "release_year": "1991",
+            "rating": "5.50",
+            "votes": "3574",
+            "genre": "['crime', 'drama']"
+        },
+        "m137": {
+            "title": "monkeybone",
+            "url": "http://www.dailyscript.com/scripts/MonkeyBone_script.htm",
+            "release_year": "2001",
+            "rating": "4.50",
+            "votes": "8258",
+            "genre": "['animation', 'comedy', 'fantasy', 'romance']"
+        },
+        "m138": {
+            "title": "my mother dreams the satan's disciples in new york",
+            "url": "http://www.moviemalls.com/papers/MotherDreamsFD.txt",
+            "release_year": "1998",
+            "rating": "6.70",
+            "votes": "70",
+            "genre": "['short']"
+        },
+        "m139": {
+            "title": "mr. smith goes to washington",
+            "url": "http://www.dailyscript.com/scripts/Mr%20Smith%20Goes%20To%20Washington.txt",
+            "release_year": "1939",
+            "rating": "8.40",
+            "votes": "33984",
+            "genre": "['drama']"
+        },
+        "m140": {
+            "title": "mr. deeds goes to town",
+            "url": "http://www.dailyscript.com/scripts/Mr._Deeds_Goes_to_Town.html",
+            "release_year": "1936",
+            "rating": "8.00",
+            "votes": "7594",
+            "genre": "['comedy', 'romance']"
+        },
+        "m141": {
+            "title": "mumford",
+            "url": "http://www.dailyscript.com/scripts/Mumford.txt",
+            "release_year": "1999",
+            "rating": "6.80",
+            "votes": "6333",
+            "genre": "['comedy', 'drama']"
+        },
+        "m142": {
+            "title": "the mummy",
+            "url": "http://www.dailyscript.com/scripts/Mummy,+The.txt",
+            "release_year": "1999",
+            "rating": "6.90",
+            "votes": "96736",
+            "genre": "['action', 'adventure', 'fantasy']"
+        },
+        "m143": {
+            "title": "mystery men",
+            "url": "http://www.dailyscript.com/scripts/Mystery+Men.txt",
+            "release_year": "1999",
+            "rating": "5.90",
+            "votes": "31817",
+            "genre": "['action', 'comedy', 'fantasy']"
+        },
+        "m144": {
+            "title": "napoleon",
+            "url": "http://web.archive.org/web/20010625040837/www.interlink.es/cookies/guion/Napoleon.txt",
+            "release_year": "1995",
+            "rating": "5.50",
+            "votes": "486",
+            "genre": "['family', 'adventure']"
+        },
+        "m145": {
+            "title": "next friday",
+            "url": "http://www.dailyscript.com/scripts/Next_Friday.html",
+            "release_year": "2000",
+            "rating": "5.40",
+            "votes": "10267",
+            "genre": "['comedy']"
+        },
+        "m146": {
+            "title": "nick of time",
+            "url": "http://www.dailyscript.com/scripts/Nick-Of-Time-script.html",
+            "release_year": "1995",
+            "rating": "6.20",
+            "votes": "15945",
+            "genre": "['crime', 'drama', 'thriller']"
+        },
+        "m147": {
+            "title": "the night of the hunter",
+            "url": "http://www.dailyscript.com/scripts/Night+Of+The+Hunter,+The.txt",
+            "release_year": "1955",
+            "rating": "8.20",
+            "votes": "26211",
+            "genre": "['drama', 'film-noir', 'thriller']"
+        },
+        "m148": {
+            "title": "a nightmare on elm street",
+            "url": "http://www.dailyscript.com/scripts/Nightmare+On+Elm+Street,+A.txt",
+            "release_year": "1984",
+            "rating": "7.40",
+            "votes": "47161",
+            "genre": "['horror']"
+        },
+        "m149": {
+            "title": "ninotchka",
+            "url": "http://www.dailyscript.com/scripts/Ninotchka.txt",
+            "release_year": "1939",
+            "rating": "7.90",
+            "votes": "6951",
+            "genre": "['comedy', 'romance']"
+        },
+        "m150": {
+            "title": "nixon",
+            "url": "http://home.online.no/~bhundlan/scripts/Nixon.txt",
+            "release_year": "1995",
+            "rating": "7.10",
+            "votes": "13878",
+            "genre": "['biography', 'drama']"
+        },
+        "m151": {
+            "title": "no country for old men",
+            "url": "http://www.dailyscript.com/scripts/No%20Country%20For%20Old%20Men%20(Shooting).txt",
+            "release_year": "2007",
+            "rating": "8.30",
+            "votes": "202649",
+            "genre": "['crime', 'drama', 'mystery', 'thriller', 'western']"
+        },
+        "m152": {
+            "title": "nurse betty",
+            "url": "http://www.dailyscript.com/scripts/Nurse%20Betty.txt",
+            "release_year": "2000",
+            "rating": "6.40",
+            "votes": "20473",
+            "genre": "['comedy', 'crime', 'romance', 'thriller']"
+        },
+        "m153": {
+            "title": "o brother, where art thou?",
+            "url": "http://www.dailyscript.com/scripts/O%20Brother%20Where%20Art%20Thou.txt",
+            "release_year": "2000",
+            "rating": "7.80",
+            "votes": "95628",
+            "genre": "['comedy', 'adventure', 'crime', 'music']"
+        },
+        "m154": {
+            "title": "an officer and a gentleman",
+            "url": "http://www.dailyscript.com/scripts/Officer+And+A+Gentleman,+An.txt",
+            "release_year": "1982",
+            "rating": "6.80",
+            "votes": "16883",
+            "genre": "['drama', 'romance']"
+        },
+        "m155": {
+            "title": "panic room",
+            "url": "http://www.dailyscript.com/scripts/Panic_Room_Koepp.html",
+            "release_year": "2002",
+            "rating": "6.90",
+            "votes": "69824",
+            "genre": "['thriller']"
+        },
+        "m156": {
+            "title": "panther",
+            "url": "http://www.dailyscript.com/scripts/Panther.txt",
+            "release_year": "1995/I",
+            "rating": "5.90",
+            "votes": "1129",
+            "genre": "['drama']"
+        },
+        "m157": {
+            "title": "the patriot",
+            "url": "http://www.dailyscript.com/scripts/Patriot_1999.html",
+            "release_year": "2000",
+            "rating": "6.90",
+            "votes": "79207",
+            "genre": "['action', 'drama', 'war']"
+        },
+        "m158": {
+            "title": "pet sematary",
+            "url": "http://www.dailyscript.com/scripts/Pet-Sematary.html",
+            "release_year": "1989",
+            "rating": "6.30",
+            "votes": "19851",
+            "genre": "['drama', 'fantasy', 'horror', 'mystery', 'thriller']"
+        },
+        "m159": {
+            "title": "pirates of the caribbean",
+            "url": "http://www.wordplayer.com/archives/PIRATES.cover.html",
+            "release_year": "2003",
+            "rating": "7.20",
+            "votes": "329",
+            "genre": "['adventure', 'fantasy', 'horror']"
+        },
+        "m160": {
+            "title": "plastic man",
+            "url": "http://www.scifiscripts.com/scripts/PlasticMan.txt",
+            "release_year": "1999",
+            "rating": "6.70",
+            "votes": "29",
+            "genre": "['drama']"
+        },
+        "m161": {
+            "title": "platinum blonde",
+            "url": "http://www.dailyscript.com/scripts/Platinum_Blonde.html",
+            "release_year": "1931",
+            "rating": "6.90",
+            "votes": "1119",
+            "genre": "['comedy', 'romance']"
+        },
+        "m162": {
+            "title": "pleasantville",
+            "url": "http://www.hundland.org/scripts/Pleasantville.htm",
+            "release_year": "1998",
+            "rating": "7.50",
+            "votes": "49669",
+            "genre": "['comedy', 'drama', 'fantasy']"
+        },
+        "m163": {
+            "title": "punch-drunk love",
+            "url": "http://www.dailyscript.com/scripts/Punch-Drunk_Love.html",
+            "release_year": "2002",
+            "rating": "7.40",
+            "votes": "50312",
+            "genre": "['comedy', 'drama', 'romance']"
+        },
+        "m164": {
+            "title": "quills",
+            "url": "http://www.dailyscript.com/scripts/Quills.txt",
+            "release_year": "2000",
+            "rating": "7.30",
+            "votes": "22657",
+            "genre": "['biography', 'drama', 'history', 'romance']"
+        },
+        "m165": {
+            "title": "rko 281",
+            "url": "http://www.dailyscript.com/scripts/RKO218.html",
+            "release_year": "1999",
+            "rating": "7.10",
+            "votes": "3543",
+            "genre": "['biography', 'drama']"
+        },
+        "m166": {
+            "title": "raging bull",
+            "url": "http://www.dailyscript.com/scripts/Raging+Bull.txt",
+            "release_year": "1980",
+            "rating": "8.40",
+            "votes": "91851",
+            "genre": "['biography', 'drama', 'sport']"
+        },
+        "m167": {
+            "title": "rear window",
+            "url": "http://www.dailyscript.com/scripts/Rear+Window.txt",
+            "release_year": "1954",
+            "rating": "8.70",
+            "votes": "121165",
+            "genre": "['crime', 'mystery', 'romance', 'thriller']"
+        },
+        "m168": {
+            "title": "rebel without a cause",
+            "url": "http://www.dailyscript.com/scripts/Rebel_Without_A_Cause.html",
+            "release_year": "1955",
+            "rating": "7.90",
+            "votes": "27791",
+            "genre": "['drama', 'romance']"
+        },
+        "m169": {
+            "title": "reindeer games",
+            "url": "http://www.dailyscript.com/scripts/Reindeer+Games.txt",
+            "release_year": "2000",
+            "rating": "5.50",
+            "votes": "16951",
+            "genre": "['action', 'crime', 'drama', 'thriller']"
+        },
+        "m170": {
+            "title": "reservoir dogs",
+            "url": "http://www.dailyscript.com/scripts/Reservoir+Dogs.txt",
+            "release_year": "1992",
+            "rating": "8.40",
+            "votes": "217185",
+            "genre": "['crime', 'mystery', 'thriller']"
+        },
+        "m171": {
+            "title": "roughshod",
+            "url": "http://www.dailyscript.com/scripts/Roughshod.txt",
+            "release_year": "1949",
+            "rating": "6.90",
+            "votes": "115",
+            "genre": "['action', 'drama', 'romance', 'western']"
+        },
+        "m172": {
+            "title": "scary movie 2",
+            "url": "http://www.dailyscript.com/scripts/Scary+Movie+2.txt",
+            "release_year": "2001",
+            "rating": "4.70",
+            "votes": "44511",
+            "genre": "['comedy']"
+        },
+        "m173": {
+            "title": "serial mom",
+            "url": "http://www.dailyscript.com/scripts/Serial+Mom.txt",
+            "release_year": "1994",
+            "rating": "6.40",
+            "votes": "11077",
+            "genre": "['comedy', 'thriller']"
+        },
+        "m174": {
+            "title": "the seventh victim",
+            "url": "http://www.dailyscript.com/scripts/SeventhVictim.htm",
+            "release_year": "1943",
+            "rating": "6.90",
+            "votes": "1596",
+            "genre": "['drama', 'horror', 'thriller']"
+        },
+        "m175": {
+            "title": "sex, lies, and videotape",
+            "url": "http://www.dailyscript.com/scripts/Sex+Lies+And+Videotape.txt",
+            "release_year": "1989",
+            "rating": "7.10",
+            "votes": "18505",
+            "genre": "['drama']"
+        },
+        "m176": {
+            "title": "shivers",
+            "url": "http://www.dailyscript.com/scripts/Shivers.txt",
+            "release_year": "1975",
+            "rating": "6.50",
+            "votes": "4940",
+            "genre": "['horror', 'sci-fi']"
+        },
+        "m177": {
+            "title": "shock treatment",
+            "url": "http://www.horrorlair.com/scripts/ShockTreatmentShootingScript.txt",
+            "release_year": "1981",
+            "rating": "5.40",
+            "votes": "1884",
+            "genre": "['comedy', 'musical']"
+        },
+        "m178": {
+            "title": "sideways",
+            "url": "http://www.dailyscript.com/scripts/Sideways.txt",
+            "release_year": "2004",
+            "rating": "7.80",
+            "votes": "70349",
+            "genre": "['comedy', 'drama', 'romance']"
+        },
+        "m179": {
+            "title": "signs",
+            "url": "http://www.dailyscript.com/scripts/Signs.txt",
+            "release_year": "2002",
+            "rating": "6.90",
+            "votes": "113119",
+            "genre": "['drama', 'mystery', 'sci-fi', 'thriller']"
+        },
+        "m180": {
+            "title": "silverado",
+            "url": "http://www.dailyscript.com/scripts/Silverado.txt",
+            "release_year": "1985",
+            "rating": "7.00",
+            "votes": "14355",
+            "genre": "['action', 'western']"
+        },
+        "m181": {
+            "title": "simone",
+            "url": "http://www.dailyscript.com/scripts/Simone_Andrew_Niccol.html",
+            "release_year": "2010",
+            "rating": "8.30",
+            "votes": "9",
+            "genre": "['short', 'drama', 'horror', 'thriller']"
+        },
+        "m182": {
+            "title": "the sixth sense",
+            "url": "http://www.dailyscript.com/scripts/Sixth%20Sense,%20The.txt",
+            "release_year": "1999",
+            "rating": "8.20",
+            "votes": "244162",
+            "genre": "['drama', 'mystery', 'thriller']"
+        },
+        "m183": {
+            "title": "slash",
+            "url": "http://www.dailyscript.com/scripts/Slash.txt",
+            "release_year": "2002",
+            "rating": "4.20",
+            "votes": "899",
+            "genre": "['comedy', 'horror', 'thriller']"
+        },
+        "m184": {
+            "title": "slither",
+            "url": "http://www.dailyscript.com/scripts/SliTHER.html",
+            "release_year": "2006",
+            "rating": "6.60",
+            "votes": "26497",
+            "genre": "['comedy', 'horror', 'sci-fi']"
+        },
+        "m185": {
+            "title": "smokey and the bandit",
+            "url": "http://www.dailyscript.com/scripts/Smokey%20And%20The%20Bandit.txt",
+            "release_year": "1977",
+            "rating": "6.60",
+            "votes": "14147",
+            "genre": "['action', 'comedy', 'crime', 'romance']"
+        },
+        "m186": {
+            "title": "smokin' aces",
+            "url": "http://www.dailyscript.com/scripts/Smokin'+Aces.txt",
+            "release_year": "2006",
+            "rating": "6.60",
+            "votes": "58048",
+            "genre": "['action', 'crime', 'drama', 'thriller']"
+        },
+        "m187": {
+            "title": "solaris",
+            "url": "http://www.dailyscript.com/scripts/Solaris.txt",
+            "release_year": "2002",
+            "rating": "6.20",
+            "votes": "33541",
+            "genre": "['drama', 'mystery', 'romance', 'sci-fi']"
+        },
+        "m188": {
+            "title": "someone to watch over me",
+            "url": "http://www.angelfire.com/movies/ridleyscott/script/SomeoneToWatchOverMe.txt",
+            "release_year": "1987",
+            "rating": "6.10",
+            "votes": "3909",
+            "genre": "['action', 'crime', 'drama', 'romance', 'thriller']"
+        },
+        "m189": {
+            "title": "spider-man",
+            "url": "http://www.dailyscript.com/scripts/Spider-Man%20(Unproduced).txt",
+            "release_year": "2002",
+            "rating": "7.40",
+            "votes": "169898",
+            "genre": "['action', 'adventure', 'fantasy', 'sci-fi', 'action', 'adventure', 'sci-fi', 'thriller']"
+        },
+        "m190": {
+            "title": "stalag 17",
+            "url": "http://www.dailyscript.com/scripts/Stalag%2017.txt",
+            "release_year": "1953",
+            "rating": "8.20",
+            "votes": "21182",
+            "genre": "['drama', 'war']"
+        },
+        "m191": {
+            "title": "star trek: generations",
+            "url": "http://www.scifiscripts.com/scripts/StarTrekGenerations.txt",
+            "release_year": "1994",
+            "rating": "6.50",
+            "votes": "26662",
+            "genre": "['action', 'mystery', 'sci-fi', 'thriller']"
+        },
+        "m192": {
+            "title": "star trek iii: the search for spock",
+            "url": "http://www.scifiscripts.com/scripts/Trek/Star_Trek_III.htm",
+            "release_year": "1984",
+            "rating": "6.50",
+            "votes": "22466",
+            "genre": "['action', 'adventure', 'sci-fi', 'thriller']"
+        },
+        "m193": {
+            "title": "star trek: the wrath of khan",
+            "url": "http://www.scifiscripts.com/scripts/startrek2_wrathofkhan.txt",
+            "release_year": "1982",
+            "rating": "7.80",
+            "votes": "36503",
+            "genre": "['action', 'adventure', 'sci-fi', 'thriller']"
+        },
+        "m194": {
+            "title": "star trek iv: the voyage home",
+            "url": "http://www.scifiscripts.com/scripts/Trek/Star_Trek_IV.htm",
+            "release_year": "1986",
+            "rating": "7.30",
+            "votes": "26423",
+            "genre": "['adventure', 'comedy', 'sci-fi']"
+        },
+        "m195": {
+            "title": "star trek: insurrection",
+            "url": "http://www.scifiscripts.com/scripts/Trek/Star_Trek_IX.htm",
+            "release_year": "1998",
+            "rating": "6.30",
+            "votes": "26728",
+            "genre": "['action', 'adventure', 'sci-fi', 'thriller']"
+        },
+        "m196": {
+            "title": "star trek: first contact",
+            "url": "http://www.scifiscripts.com/scripts/Trek/Star_Trek_VIII.htm",
+            "release_year": "1996",
+            "rating": "7.60",
+            "votes": "45429",
+            "genre": "['action', 'adventure', 'sci-fi', 'thriller']"
+        },
+        "m197": {
+            "title": "star trek vi: the undiscovered country",
+            "url": "http://www.scifiscripts.com/scripts/StarTrek6-TheUndiscoveredCountry.txt",
+            "release_year": "1991",
+            "rating": "7.20",
+            "votes": "23751",
+            "genre": "['action', 'mystery', 'sci-fi', 'thriller']"
+        },
+        "m198": {
+            "title": "star trek: nemesis",
+            "url": "http://www.scifiscripts.com/scripts/Trek/Star_Trek_X.htm",
+            "release_year": "2002",
+            "rating": "6.40",
+            "votes": "28682",
+            "genre": "['action', 'sci-fi', 'thriller']"
+        },
+        "m199": {
+            "title": "starman",
+            "url": "http://www.dailyscript.com/scripts/Starman.txt",
+            "release_year": "1984",
+            "rating": "6.90",
+            "votes": "14204",
+            "genre": "['adventure', 'drama', 'romance', 'sci-fi']"
+        },
+        "m200": {
+            "title": "strange days",
+            "url": "http://www.scifiscripts.com/scripts/StrangeDays.txt",
+            "release_year": "1995",
+            "rating": "7.10",
+            "votes": "27744",
+            "genre": "['action', 'crime', 'drama', 'fantasy', 'music', 'mystery', 'sci-fi', 'thriller']"
+        },
+        "m201": {
+            "title": "suspect zero",
+            "url": "http://www.dailyscript.com/scripts/Suspect%20Zero%20(Unproduced).txt",
+            "release_year": "2004",
+            "rating": "5.80",
+            "votes": "9914",
+            "genre": "['crime', 'horror', 'sci-fi', 'thriller']"
+        },
+        "m202": {
+            "title": "swingers",
+            "url": "http://www.dailyscript.com/scripts/Swingers.txt",
+            "release_year": "1996",
+            "rating": "7.60",
+            "votes": "32427",
+            "genre": "['comedy', 'drama']"
+        },
+        "m203": {
+            "title": "the godfather",
+            "url": "http://www.dailyscript.com/scripts/Godfather,%20The.txt",
+            "release_year": "1972",
+            "rating": "9.20",
+            "votes": "419312",
+            "genre": "['crime', 'drama', 'thriller']"
+        },
+        "m204": {
+            "title": "the talented mr. ripley",
+            "url": "http://www.dailyscript.com/scripts/Talented%20Mr%20Ripley,%20The.txt",
+            "release_year": "1999",
+            "rating": "7.20",
+            "votes": "64055",
+            "genre": "['crime', 'drama', 'thriller']"
+        },
+        "m205": {
+            "title": "taxi driver",
+            "url": "http://www.dailyscript.com/scripts/Taxi%20Driver.txt",
+            "release_year": "1976",
+            "rating": "8.60",
+            "votes": "159525",
+            "genre": "['drama', 'thriller']"
+        },
+        "m206": {
+            "title": "the rock",
+            "url": "http://www.awesomefilm.com/script/The-Rock.txt",
+            "release_year": "1996",
+            "rating": "7.30",
+            "votes": "109533",
+            "genre": "['action', 'adventure', 'thriller']"
+        },
+        "m207": {
+            "title": "the majestic",
+            "url": "http://www.dailyscript.com/scripts/Majestic,+The.txt",
+            "release_year": "2001",
+            "rating": "6.80",
+            "votes": "25057",
+            "genre": "['drama', 'romance']"
+        },
+        "m208": {
+            "title": "the birds",
+            "url": "http://www.dailyscript.com/scripts/Birds,%20The.txt",
+            "release_year": "1963",
+            "rating": "7.90",
+            "votes": "53233",
+            "genre": "['horror', 'romance', 'thriller']"
+        },
+        "m209": {
+            "title": "the body snatcher",
+            "url": "http://www.dailyscript.com/scripts/TheBodySnatcher.htm",
+            "release_year": "1945",
+            "rating": "7.40",
+            "votes": "2927",
+            "genre": "['drama', 'horror', 'thriller']"
+        },
+        "m210": {
+            "title": "the crow: salvation",
+            "url": "http://www.hundland.org/scripts/TheCrowSalvation.htm",
+            "release_year": "2000",
+            "rating": "4.70",
+            "votes": "4566",
+            "genre": "['action', 'crime', 'fantasy', 'mystery', 'thriller']"
+        },
+        "m211": {
+            "title": "the day the earth stood still",
+            "url": "http://www.dailyscript.com/scripts/Day%20The%20Earth%20Stood%20Still,%20The.txt",
+            "release_year": "2008",
+            "rating": "5.50",
+            "votes": "52489",
+            "genre": "['drama', 'sci-fi', 'thriller']"
+        },
+        "m212": {
+            "title": "the lost boys",
+            "url": "http://home.online.no/~bhundlan/scripts/TheLostBoys.htm",
+            "release_year": "1987",
+            "rating": "7.00",
+            "votes": "34826",
+            "genre": "['comedy', 'fantasy', 'horror', 'thriller']"
+        },
+        "m213": {
+            "title": "the thing",
+            "url": "http://www.dailyscript.com/scripts/Thing,+The.txt",
+            "release_year": "1982",
+            "rating": "8.20",
+            "votes": "80904",
+            "genre": "['horror', 'mystery', 'sci-fi', 'thriller']"
+        },
+        "m214": {
+            "title": "the time machine",
+            "url": "http://www.dailyscript.com/scripts/TheTimeMachine_1959.html",
+            "release_year": "2002",
+            "rating": "5.70",
+            "votes": "32900",
+            "genre": "['sci-fi', 'adventure', 'action']"
+        },
+        "m215": {
+            "title": "the jacket",
+            "url": "http://www.dailyscript.com/scripts/The_Jacket.html",
+            "release_year": "2005",
+            "rating": "7.10",
+            "votes": "36581",
+            "genre": "['drama', 'fantasy', 'mystery', 'sci-fi', 'thriller']"
+        },
+        "m216": {
+            "title": "thelma & louise",
+            "url": "http://www.dailyscript.com/scripts/Thelma%20And%20Louise.txt",
+            "release_year": "1991",
+            "rating": "7.30",
+            "votes": "44372",
+            "genre": "['crime', 'drama', 'thriller']"
+        },
+        "m217": {
+            "title": "there's something about mary",
+            "url": "http://www.dailyscript.com/scripts/There's+Something+About+Mary.txt",
+            "release_year": "1998",
+            "rating": "7.20",
+            "votes": "97546",
+            "genre": "['comedy', 'romance']"
+        },
+        "m218": {
+            "title": "thirteen days",
+            "url": "http://www.dailyscript.com/scripts/Thirteen+Days.txt",
+            "release_year": "2000",
+            "rating": "7.30",
+            "votes": "23732",
+            "genre": "['drama', 'history', 'thriller']"
+        },
+        "m219": {
+            "title": "thunderheart",
+            "url": "http://www.dailyscript.com/scripts/Thunderheart.txt",
+            "release_year": "1992",
+            "rating": "6.60",
+            "votes": "6662",
+            "genre": "['crime', 'mystery', 'thriller', 'western']"
+        },
+        "m220": {
+            "title": "top gun",
+            "url": "http://www.dailyscript.com/scripts/TopGun.html",
+            "release_year": "1986",
+            "rating": "6.50",
+            "votes": "81087",
+            "genre": "['action', 'drama', 'romance']"
+        },
+        "m221": {
+            "title": "total recall",
+            "url": "http://www.scifiscripts.com/scripts/totalrecall_5th_draft.txt",
+            "release_year": "1990",
+            "rating": "7.40",
+            "votes": "71383",
+            "genre": "['action', 'adventure', 'sci-fi', 'thriller']"
+        },
+        "m222": {
+            "title": "tremors",
+            "url": "http://home.online.no/~bhundlan/scripts/Tremors.htm",
+            "release_year": "1990",
+            "rating": "7.10",
+            "votes": "30553",
+            "genre": "['action', 'comedy', 'horror', 'thriller']"
+        },
+        "m223": {
+            "title": "true believer",
+            "url": "http://www.dailyscript.com/scripts/True%20Believer.txt",
+            "release_year": "1989",
+            "rating": "6.70",
+            "votes": "1801",
+            "genre": "['drama', 'crime']"
+        },
+        "m224": {
+            "title": "twin peaks: fire walk with me",
+            "url": "http://www.dailyscript.com/scripts/Twin+Peaks+-+Fire+Walk+With+Me.txt",
+            "release_year": "1992",
+            "rating": "7.00",
+            "votes": "21274",
+            "genre": "['drama', 'horror', 'mystery', 'thriller']"
+        },
+        "m225": {
+            "title": "the verdict",
+            "url": "http://www.dailyscript.com/scripts/Verdict,+The.txt",
+            "release_year": "1982",
+            "rating": "7.70",
+            "votes": "10991",
+            "genre": "['drama']"
+        },
+        "m226": {
+            "title": "the war of the worlds",
+            "url": "http://www.scifiscripts.com/scripts/WARWORLDS.txt",
+            "release_year": "1953",
+            "rating": "7.10",
+            "votes": "12239",
+            "genre": "['action', 'horror', 'sci-fi', 'thriller']"
+        },
+        "m227": {
+            "title": "new nightmare",
+            "url": "http://www.hundland.org/scripts/WesCravensNewNightmare.txt",
+            "release_year": "1994",
+            "rating": "6.30",
+            "votes": "14975",
+            "genre": "['fantasy', 'horror', 'mystery', 'thriller']"
+        },
+        "m228": {
+            "title": "white squall",
+            "url": "http://www.angelfire.com/movies/ridleyscott/script/WhiteSquall.txt",
+            "release_year": "1996",
+            "rating": "6.40",
+            "votes": "8465",
+            "genre": "['adventure', 'drama']"
+        },
+        "m229": {
+            "title": "wild at heart",
+            "url": "http://www.dailyscript.com/scripts/Wild+At+Heart.txt",
+            "release_year": "1990",
+            "rating": "7.20",
+            "votes": "29388",
+            "genre": "['crime', 'romance', 'thriller']"
+        },
+        "m230": {
+            "title": "wonder boys",
+            "url": "http://www.dailyscript.com/scripts/Wonder+Boys.txt",
+            "release_year": "2000",
+            "rating": "7.50",
+            "votes": "31853",
+            "genre": "['drama', 'comedy']"
+        },
+        "m231": {
+            "title": "the woodsman",
+            "url": "http://www.dailyscript.com/scripts/Woodsman,+The.txt",
+            "release_year": "2004",
+            "rating": "7.40",
+            "votes": "16090",
+            "genre": "['drama']"
+        },
+        "m232": {
+            "title": "the abyss",
+            "url": "http://www.dailyscript.com/scripts/abyss.html",
+            "release_year": "1989",
+            "rating": "7.60",
+            "votes": "51699",
+            "genre": "['action', 'adventure', 'drama', 'sci-fi', 'thriller']"
+        },
+        "m233": {
+            "title": "l'avventura",
+            "url": "http://www.aellea.com/script/adventure.txt",
+            "release_year": "1960",
+            "rating": "7.90",
+            "votes": "6963",
+            "genre": "['drama', 'mystery']"
+        },
+        "m234": {
+            "title": "agnes of god",
+            "url": "http://www.awesomefilm.com/script/agnesofgod.txt",
+            "release_year": "1985",
+            "rating": "6.50",
+            "votes": "3490",
+            "genre": "['drama', 'mystery', 'thriller']"
+        },
+        "m235": {
+            "title": "a hard day's night",
+            "url": "http://www.dailyscript.com/scripts/Hard+Day's+Night,+A.txt",
+            "release_year": "1964",
+            "rating": "7.60",
+            "votes": "15431",
+            "genre": "['comedy', 'music']"
+        },
+        "m236": {
+            "title": "alien",
+            "url": "http://www.horrorlair.com/scripts/alien.html",
+            "release_year": "1979",
+            "rating": "8.50",
+            "votes": "184471",
+            "genre": "['adventure', 'horror', 'sci-fi', 'thriller']"
+        },
+        "m237": {
+            "title": "alien vs. predator",
+            "url": "http://www.scifiscripts.com/scripts/aliens_vs_predator.txt",
+            "release_year": "1993",
+            "rating": "7.80",
+            "votes": "116",
+            "genre": "['action', 'adventure', 'sci-fi']"
+        },
+        "m238": {
+            "title": "all about eve",
+            "url": "http://www.dailyscript.com/scripts/All%20About%20Eve.txt",
+            "release_year": "1950",
+            "rating": "8.50",
+            "votes": "35597",
+            "genre": "['drama']"
+        },
+        "m239": {
+            "title": "all the president's men",
+            "url": "http://www.dailyscript.com/scripts/All%20The%20President's%20Men.txt",
+            "release_year": "1976",
+            "rating": "8.00",
+            "votes": "32717",
+            "genre": "['drama', 'history', 'thriller']"
+        },
+        "m240": {
+            "title": "american pie",
+            "url": "http://www.dailyscript.com/scripts/american-pie_production.html",
+            "release_year": "1999",
+            "rating": "6.90",
+            "votes": "107961",
+            "genre": "['comedy', 'romance']"
+        },
+        "m241": {
+            "title": "an american werewolf in paris",
+            "url": "http://www.scifiscripts.com/scripts/american_werewolf_paris.txt",
+            "release_year": "1997",
+            "rating": "4.90",
+            "votes": "10158",
+            "genre": "['horror', 'romance', 'thriller', 'comedy']"
+        },
+        "m242": {
+            "title": "anastasia",
+            "url": "http://www.moviescriptsandscreenplays.com/johncusack/scripts/anastasia.txt",
+            "release_year": "1997",
+            "rating": "6.60",
+            "votes": "16844",
+            "genre": "['animation', 'adventure', 'drama', 'family', 'musical', 'animation', 'family']"
+        },
+        "m243": {
+            "title": "annie hall",
+            "url": "http://www.dailyscript.com/scripts/Annie%20Hall.txt",
+            "release_year": "1977",
+            "rating": "8.30",
+            "votes": "66781",
+            "genre": "['comedy', 'drama', 'romance']"
+        },
+        "m244": {
+            "title": "the anniversary party",
+            "url": "http://www.dailyscript.com/scripts/anniversaryparty.html",
+            "release_year": "2001",
+            "rating": "6.20",
+            "votes": "5809",
+            "genre": "['drama', 'comedy']"
+        },
+        "m245": {
+            "title": "antz",
+            "url": "http://www.dailyscript.com/scripts/antz.html",
+            "release_year": "1998",
+            "rating": "6.80",
+            "votes": "37825",
+            "genre": "['animation', 'adventure', 'comedy', 'family']"
+        },
+        "m246": {
+            "title": "the apartment",
+            "url": "http://www.dailyscript.com/scripts/apartment.html",
+            "release_year": "1960",
+            "rating": "8.40",
+            "votes": "37301",
+            "genre": "['romance', 'comedy', 'drama']"
+        },
+        "m247": {
+            "title": "apocalypse now",
+            "url": "http://www.dailyscript.com/scripts/apocalypsenowredux.html",
+            "release_year": "1979",
+            "rating": "8.60",
+            "votes": "176465",
+            "genre": "['drama', 'war']"
+        },
+        "m248": {
+            "title": "arctic blue",
+            "url": "http://www.awesomefilm.com/script/arcticblue.txt",
+            "release_year": "1993",
+            "rating": "4.80",
+            "votes": "464",
+            "genre": "['action', 'thriller']"
+        },
+        "m249": {
+            "title": "as good as it gets",
+            "url": "http://www.dailyscript.com/scripts/As+Good+As+It+Gets.txt",
+            "release_year": "1997",
+            "rating": "7.80",
+            "votes": "93201",
+            "genre": "['comedy', 'drama', 'romance']"
+        },
+        "m250": {
+            "title": "assassins",
+            "url": "http://www.dailyscript.com/scripts/assassins_shooting.html",
+            "release_year": "1995",
+            "rating": "6.00",
+            "votes": "23681",
+            "genre": "['action', 'thriller', 'crime']"
+        },
+        "m251": {
+            "title": "asylum",
+            "url": "http://www.awesomefilm.com/script/asylum.txt",
+            "release_year": "2005",
+            "rating": "6.10",
+            "votes": "2395",
+            "genre": "['drama', 'romance', 'thriller']"
+        },
+        "m252": {
+            "title": "a walk to remember",
+            "url": "http://www.dailyscript.com/scripts/awalktoremember.html",
+            "release_year": "2002",
+            "rating": "7.10",
+            "votes": "38751",
+            "genre": "['drama', 'romance']"
+        },
+        "m253": {
+            "title": "back to the future",
+            "url": "http://www.scifiscripts.com/scripts/backtothefuture_early.txt",
+            "release_year": "1985",
+            "rating": "8.40",
+            "votes": "207376",
+            "genre": "['adventure', 'family', 'sci-fi']"
+        },
+        "m254": {
+            "title": "badlands",
+            "url": "http://www.dailyscript.com/scripts/Badlands.txt",
+            "release_year": "1973",
+            "rating": "7.90",
+            "votes": "16753",
+            "genre": "['crime', 'drama', 'romance', 'thriller']"
+        },
+        "m255": {
+            "title": "the adventures of buckaroo banzai across the 8th dimension",
+            "url": "http://www.scifiscripts.com/scripts/banzai_script.txt",
+            "release_year": "1984",
+            "rating": "6.00",
+            "votes": "10046",
+            "genre": "['adventure', 'romance', 'comedy', 'sci-fi']"
+        },
+        "m256": {
+            "title": "barton fink",
+            "url": "http://www.dailyscript.com/scripts/Barton%20Fink.txt",
+            "release_year": "1991",
+            "rating": "7.80",
+            "votes": "33119",
+            "genre": "['drama', 'mystery', 'thriller']"
+        },
+        "m257": {
+            "title": "basic instinct",
+            "url": "http://www.dailyscript.com/scripts/basic_instinct.html",
+            "release_year": "1992",
+            "rating": "6.90",
+            "votes": "57615",
+            "genre": "['mystery', 'romance', 'thriller']"
+        },
+        "m258": {
+            "title": "basquiat",
+            "url": "http://www.awesomefilm.com/script/basquiat.txt",
+            "release_year": "1996",
+            "rating": "6.70",
+            "votes": "8016",
+            "genre": "['biography', 'drama']"
+        },
+        "m259": {
+            "title": "batman returns",
+            "url": "http://www.dailyscript.com/scripts/batman-returns_shooting.html",
+            "release_year": "1992",
+            "rating": "6.90",
+            "votes": "79770",
+            "genre": "['action', 'crime', 'fantasy', 'thriller', 'animation', 'crime', 'fantasy', 'action', 'thriller']"
+        },
+        "m260": {
+            "title": "batman and robin",
+            "url": "http://www.scifiscripts.com/scripts/batmanandrobin.txt",
+            "release_year": "1949",
+            "rating": "6.50",
+            "votes": "443",
+            "genre": "['action', 'adventure', 'crime', 'drama', 'sci-fi']"
+        },
+        "m261": {
+            "title": "batman forever",
+            "url": "http://www.scifiscripts.com/scripts/batmanforever.txt",
+            "release_year": "1995",
+            "rating": "5.40",
+            "votes": "77223",
+            "genre": "['action', 'crime', 'fantasy', 'thriller']"
+        },
+        "m262": {
+            "title": "batman",
+            "url": "http://www.scifiscripts.com/scripts/batmanscript1.txt",
+            "release_year": "1989",
+            "rating": "7.60",
+            "votes": "112731",
+            "genre": "['crime', 'drama', 'thriller', 'action', 'adventure', 'crime']"
+        },
+        "m263": {
+            "title": "bean",
+            "url": "http://www.awesomefilm.com/script/bean.html",
+            "release_year": "1997",
+            "rating": "5.80",
+            "votes": "27131",
+            "genre": "['comedy', 'family']"
+        },
+        "m264": {
+            "title": "beavis and butt-head do america",
+            "url": "http://www.dailyscript.com/scripts/beavis_and_butthead_do_america.html",
+            "release_year": "1996",
+            "rating": "6.60",
+            "votes": "23149",
+            "genre": "['animation', 'adventure', 'comedy', 'crime']"
+        },
+        "m265": {
+            "title": "beetle juice",
+            "url": "http://www.dailyscript.com/scripts/beetlejuice_skaaren_final.html",
+            "release_year": "1988",
+            "rating": "7.30",
+            "votes": "62164",
+            "genre": "['comedy', 'fantasy']"
+        },
+        "m266": {
+            "title": "being there",
+            "url": "http://www.dailyscript.com/scripts/Being+There.txt",
+            "release_year": "1979",
+            "rating": "8.00",
+            "votes": "25085",
+            "genre": "['drama', 'comedy']"
+        },
+        "m267": {
+            "title": "being john malkovich",
+            "url": "http://www.dailyscript.com/scripts/beingjohnmalkovich.html",
+            "release_year": "1999",
+            "rating": "7.90",
+            "votes": "115008",
+            "genre": "['comedy', 'drama', 'fantasy', 'romance']"
+        },
+        "m268": {
+            "title": "beloved",
+            "url": "http://www.dailyscript.com/scripts/beloved_lagravenese.html",
+            "release_year": "1998/I",
+            "rating": "5.60",
+            "votes": "4014",
+            "genre": "['drama', 'mystery']"
+        },
+        "m269": {
+            "title": "the big lebowski",
+            "url": "http://www.dailyscript.com/scripts/Big%20Lebowski,%20The.txt",
+            "release_year": "1998",
+            "rating": "8.20",
+            "votes": "182170",
+            "genre": "['comedy', 'crime', 'mystery']"
+        },
+        "m270": {
+            "title": "the black dahlia",
+            "url": "http://www.dailyscript.com/scripts/black-dahlia_early.html",
+            "release_year": "2006",
+            "rating": "5.60",
+            "votes": "35706",
+            "genre": "['crime', 'drama', 'history', 'mystery', 'thriller']"
+        },
+        "m271": {
+            "title": "blade ii",
+            "url": "http://www.horrorlair.com/scripts/blade2.html",
+            "release_year": "2002",
+            "rating": "6.60",
+            "votes": "51826",
+            "genre": "['action', 'fantasy', 'horror', 'thriller', 'action', 'adventure', 'horror']"
+        },
+        "m272": {
+            "title": "blade",
+            "url": "http://www.horrorlair.com/scripts/blade.html",
+            "release_year": "1998",
+            "rating": "7.00",
+            "votes": "65885",
+            "genre": "['action', 'adventure', 'fantasy', 'horror', 'thriller']"
+        },
+        "m273": {
+            "title": "book of shadows: blair witch 2",
+            "url": "http://www.dailyscript.com/scripts/blair-witch-2.html",
+            "release_year": "2000",
+            "rating": "4.10",
+            "votes": "16285",
+            "genre": "['crime', 'horror', 'mystery', 'thriller']"
+        },
+        "m274": {
+            "title": "blood simple.",
+            "url": "http://www.dailyscript.com/scripts/Blood%20Simple.txt",
+            "release_year": "1984",
+            "rating": "7.80",
+            "votes": "28901",
+            "genre": "['crime', 'drama', 'thriller']"
+        },
+        "m275": {
+            "title": "bloodmoon",
+            "url": "http://www.horrorlair.com/scripts/bloodmoon.html",
+            "release_year": "1997",
+            "rating": "4.50",
+            "votes": "269",
+            "genre": "['action', 'thriller']"
+        },
+        "m276": {
+            "title": "blow",
+            "url": "http://www.dailyscript.com/scripts/blow.html",
+            "release_year": "2001",
+            "rating": "7.40",
+            "votes": "71334",
+            "genre": "['biography', 'crime', 'drama']"
+        },
+        "m277": {
+            "title": "la battaglia di algeri",
+            "url": "http://www.dailyscript.com/scripts/boa.html",
+            "release_year": "1966",
+            "rating": "8.20",
+            "votes": "14339",
+            "genre": "['drama', 'history', 'war']"
+        },
+        "m278": {
+            "title": "body of evidence",
+            "url": "http://www.awesomefilm.com/script/bodyofevidence.txt",
+            "release_year": "1993",
+            "rating": "4.10",
+            "votes": "6052",
+            "genre": "['drama', 'romance', 'thriller']"
+        },
+        "m279": {
+            "title": "the bridges of madison county",
+            "url": "http://www.awesomefilm.com/script/bomc.txt",
+            "release_year": "1995",
+            "rating": "7.20",
+            "votes": "22252",
+            "genre": "['drama', 'romance']"
+        },
+        "m280": {
+            "title": "bones",
+            "url": "http://www.horrorlair.com/HorrorWorld/newyork/bones.html",
+            "release_year": "2001",
+            "rating": "4.00",
+            "votes": "3525",
+            "genre": "['crime', 'horror']"
+        },
+        "m281": {
+            "title": "bound",
+            "url": "http://www.hundland.org/scripts/Bound_FirstDraft.txt",
+            "release_year": "1996",
+            "rating": "7.50",
+            "votes": "23772",
+            "genre": "['crime', 'drama', 'thriller']"
+        },
+        "m282": {
+            "title": "the bourne identity",
+            "url": "http://www.dailyscript.com/scripts/Bourne+Identity,+The.txt",
+            "release_year": "2002",
+            "rating": "7.70",
+            "votes": "124918",
+            "genre": "['action', 'adventure', 'mystery', 'thriller']"
+        },
+        "m283": {
+            "title": "brazil",
+            "url": "http://www.scifiscripts.com/scripts/brazil.txt",
+            "release_year": "1985",
+            "rating": "8.00",
+            "votes": "77350",
+            "genre": "['drama', 'fantasy', 'sci-fi']"
+        },
+        "m284": {
+            "title": "bringing out the dead",
+            "url": "http://www.dailyscript.com/scripts/Bringing+Out+The+Dead.txt",
+            "release_year": "1999",
+            "rating": "6.80",
+            "votes": "31285",
+            "genre": "['drama', 'thriller']"
+        },
+        "m285": {
+            "title": "broadcast news",
+            "url": "http://www.dailyscript.com/scripts/broadc_news.html",
+            "release_year": "1987",
+            "rating": "7.10",
+            "votes": "10559",
+            "genre": "['comedy', 'drama', 'romance']"
+        },
+        "m286": {
+            "title": "a bucket of blood",
+            "url": "http://www.scifiscripts.com/msol/bucket_of_blood.txt",
+            "release_year": "1959",
+            "rating": "6.80",
+            "votes": "1892",
+            "genre": "['comedy', 'horror']"
+        },
+        "m287": {
+            "title": "buffy the vampire slayer",
+            "url": "http://www.dailyscript.com/scripts/buffy_the_vampire_slayer.html",
+            "release_year": "1992",
+            "rating": "5.30",
+            "votes": "16206",
+            "genre": "['horror', 'comedy', 'action']"
+        },
+        "m288": {
+            "title": "bull durham",
+            "url": "http://www.dailyscript.com/scripts/Bull+Durham.txt",
+            "release_year": "1988",
+            "rating": "7.00",
+            "votes": "18941",
+            "genre": "['comedy', 'romance', 'sport']"
+        },
+        "m289": {
+            "title": "casino",
+            "url": "http://www.dailyscript.com/scripts/Casino.txt",
+            "release_year": "1995",
+            "rating": "8.10",
+            "votes": "111223",
+            "genre": "['biography', 'crime', 'drama']"
+        },
+        "m290": {
+            "title": "catwoman",
+            "url": "http://www.scifiscripts.com/scripts/catwoman.txt",
+            "release_year": "2004",
+            "rating": "3.20",
+            "votes": "35065",
+            "genre": "['action', 'crime', 'fantasy']"
+        },
+        "m291": {
+            "title": "cellular",
+            "url": "http://www.dailyscript.com/scripts/cellular_cohen.html",
+            "release_year": "2004",
+            "rating": "6.50",
+            "votes": "32920",
+            "genre": "['action', 'crime', 'thriller']"
+        },
+        "m292": {
+            "title": "the crying game",
+            "url": "http://www.dailyscript.com/scripts/Crying%20Game,%20The.txt",
+            "release_year": "1992",
+            "rating": "7.30",
+            "votes": "21394",
+            "genre": "['drama', 'thriller']"
+        },
+        "m293": {
+            "title": "charade",
+            "url": "http://www.dailyscript.com/scripts/Charade.txt",
+            "release_year": "1963",
+            "rating": "8.00",
+            "votes": "22815",
+            "genre": "['comedy', 'mystery', 'romance', 'thriller']"
+        },
+        "m294": {
+            "title": "cherry falls",
+            "url": "http://www.scifiscripts.com/msol/cherryfalls.txt",
+            "release_year": "2000",
+            "rating": "4.80",
+            "votes": "5669",
+            "genre": "['horror', 'mystery', 'thriller']"
+        },
+        "m295": {
+            "title": "chill factor",
+            "url": "http://www.awesomefilm.com/script/chillfactor.html",
+            "release_year": "1999",
+            "rating": "4.90",
+            "votes": "5381",
+            "genre": "['action', 'adventure', 'comedy', 'thriller']"
+        },
+        "m296": {
+            "title": "chinatown",
+            "url": "http://www.dailyscript.com/scripts/Chinatown.txt",
+            "release_year": "1974",
+            "rating": "8.50",
+            "votes": "80698",
+            "genre": "['crime', 'drama', 'mystery', 'thriller']"
+        },
+        "m297": {
+            "title": "nuovo cinema paradiso",
+            "url": "http://www.dailyscript.com/scripts/cinema_paradiso.html",
+            "release_year": "1988",
+            "rating": "8.50",
+            "votes": "46801",
+            "genre": "['comedy', 'drama', 'romance']"
+        },
+        "m298": {
+            "title": "citizen kane",
+            "url": "http://www.aellea.com/script/citizenkane_script.txt",
+            "release_year": "1941",
+            "rating": "8.60",
+            "votes": "140517",
+            "genre": "['drama', 'mystery']"
+        },
+        "m299": {
+            "title": "clerks.",
+            "url": "http://www.dailyscript.com/scripts/Clerks.txt",
+            "release_year": "1994",
+            "rating": "8.00",
+            "votes": "90972",
+            "genre": "['comedy']"
+        },
+        "m300": {
+            "title": "cliffhanger",
+            "url": "http://www.dailyscript.com/scripts/cliffhanger_stallone.html",
+            "release_year": "1993",
+            "rating": "6.20",
+            "votes": "34880",
+            "genre": "['action', 'adventure', 'thriller']"
+        },
+        "m301": {
+            "title": "a clockwork orange",
+            "url": "http://www.scifiscripts.com/scripts/clockwork.txt",
+            "release_year": "1971",
+            "rating": "8.50",
+            "votes": "197372",
+            "genre": "['crime', 'drama', 'sci-fi']"
+        },
+        "m302": {
+            "title": "collateral",
+            "url": "http://www.dailyscript.com/scripts/collateral_darabont.html",
+            "release_year": "2004",
+            "rating": "7.80",
+            "votes": "106866",
+            "genre": "['crime', 'drama', 'thriller']"
+        },
+        "m303": {
+            "title": "conspiracy theory",
+            "url": "http://www.dailyscript.com/scripts/conspiracy-theory.html",
+            "release_year": "1997",
+            "rating": "6.50",
+            "votes": "36045",
+            "genre": "['action', 'crime', 'mystery', 'romance', 'thriller']"
+        },
+        "m304": {
+            "title": "contact",
+            "url": "http://www.scifiscripts.com/scripts/contact.txt",
+            "release_year": "1997",
+            "rating": "7.40",
+            "votes": "75043",
+            "genre": "['drama', 'mystery', 'sci-fi', 'thriller']"
+        },
+        "m305": {
+            "title": "cool hand luke",
+            "url": "http://www.aellea.com/script/cool_hand_luke.html",
+            "release_year": "1967",
+            "rating": "8.30",
+            "votes": "46514",
+            "genre": "['crime', 'drama']"
+        },
+        "m306": {
+            "title": "copycat",
+            "url": "http://www.dailyscript.com/scripts/copycat.html",
+            "release_year": "1995",
+            "rating": "6.50",
+            "votes": "17335",
+            "genre": "['crime', 'mystery', 'thriller']"
+        },
+        "m307": {
+            "title": "crash",
+            "url": "http://www.dailyscript.com/scripts/Crash+(1996).txt",
+            "release_year": "2004/I",
+            "rating": "8.00",
+            "votes": "174003",
+            "genre": "['crime', 'drama']"
+        },
+        "m308": {
+            "title": "crazy love",
+            "url": "http://www.dailyscript.com/scripts/crazy_love.html",
+            "release_year": "2007/I",
+            "rating": "7.00",
+            "votes": "944",
+            "genre": "['documentary']"
+        },
+        "m309": {
+            "title": "crime spree",
+            "url": "http://www.dailyscript.com/scripts/crimespree.html",
+            "release_year": "2003",
+            "rating": "6.40",
+            "votes": "3129",
+            "genre": "['action', 'comedy', 'crime']"
+        },
+        "m310": {
+            "title": "crouching tiger, hidden dragon",
+            "url": "http://www.awesomefilm.com/script/crouchingtiger.txt",
+            "release_year": "2003",
+            "rating": "8.00",
+            "votes": "1091",
+            "genre": "['action']"
+        },
+        "m311": {
+            "title": "the crow",
+            "url": "http://www.horrorlair.com/scripts/crow.txt",
+            "release_year": "1994",
+            "rating": "7.60",
+            "votes": "55886",
+            "genre": "['action', 'crime', 'fantasy', 'thriller']"
+        },
+        "m312": {
+            "title": "cruel intentions",
+            "url": "http://www.dailyscript.com/scripts/cruel-intentions.html",
+            "release_year": "1999",
+            "rating": "6.70",
+            "votes": "67532",
+            "genre": "['drama', 'romance', 'thriller']"
+        },
+        "m313": {
+            "title": "the curse of the cat people",
+            "url": "http://www.dailyscript.com/scripts/cursecat.htm",
+            "release_year": "1944",
+            "rating": "6.90",
+            "votes": "2067",
+            "genre": "['drama', 'fantasy', 'horror']"
+        },
+        "m314": {
+            "title": "the curse",
+            "url": "http://www.horrorlair.com/scripts/cursethe.txt",
+            "release_year": "1987",
+            "rating": "4.50",
+            "votes": "627",
+            "genre": "['sci-fi', 'horror']"
+        },
+        "m315": {
+            "title": "dark city",
+            "url": "http://www.dailyscript.com/scripts/dark-city_early-rewrite.html",
+            "release_year": "1998",
+            "rating": "7.80",
+            "votes": "64262",
+            "genre": "['mystery', 'sci-fi', 'thriller']"
+        },
+        "m316": {
+            "title": "dave",
+            "url": "http://www.scifiscripts.com/msol/dave.txt",
+            "release_year": "1993",
+            "rating": "6.80",
+            "votes": "20807",
+            "genre": "['comedy', 'romance']"
+        },
+        "m317": {
+            "title": "day of the dead",
+            "url": "http://www.horrorlair.com/scripts/dayofthedead.txt",
+            "release_year": "1985",
+            "rating": "7.00",
+            "votes": "22746",
+            "genre": "['horror', 'sci-fi']"
+        },
+        "m318": {
+            "title": "dead poets society",
+            "url": "http://www.dailyscript.com/scripts/Dead%20Poets%20Society.txt",
+            "release_year": "1989",
+            "rating": "7.80",
+            "votes": "90842",
+            "genre": "['drama']"
+        },
+        "m319": {
+            "title": "deep rising",
+            "url": "http://www.horrorlair.com/scripts/deeprising.txt",
+            "release_year": "1998",
+            "rating": "5.70",
+            "votes": "12638",
+            "genre": "['action', 'horror', 'sci-fi', 'thriller']"
+        },
+        "m320": {
+            "title": "the deer hunter",
+            "url": "http://www.dailyscript.com/scripts/deer_hunter.html",
+            "release_year": "1978",
+            "rating": "8.20",
+            "votes": "89841",
+            "genre": "['drama', 'war']"
+        },
+        "m321": {
+            "title": "demolition man",
+            "url": "http://www.dailyscript.com/scripts/demolition-man_production.html",
+            "release_year": "1993",
+            "rating": "6.30",
+            "votes": "46318",
+            "genre": "['action', 'crime', 'sci-fi']"
+        },
+        "m322": {
+            "title": "the devil and daniel webster",
+            "url": "http://www.aellea.com/script/devilanddanielwebster.txt",
+            "release_year": "2004",
+            "rating": "5.70",
+            "votes": "1824",
+            "genre": "['comedy', 'drama', 'fantasy']"
+        },
+        "m323": {
+            "title": "die hard",
+            "url": "http://www.awesomefilm.com/script/diehard.html",
+            "release_year": "1988",
+            "rating": "8.30",
+            "votes": "185430",
+            "genre": "['action', 'crime', 'thriller']"
+        },
+        "m324": {
+            "title": "dog day afternoon",
+            "url": "http://www.awesomefilm.com/script/dog_day_afternoon.txt",
+            "release_year": "1975",
+            "rating": "8.20",
+            "votes": "61120",
+            "genre": "['crime', 'drama']"
+        },
+        "m325": {
+            "title": "domino",
+            "url": "http://www.dailyscript.com/scripts/domino.html",
+            "release_year": "2005",
+            "rating": "5.90",
+            "votes": "32949",
+            "genre": "['action', 'crime', 'drama', 'thriller']"
+        },
+        "m326": {
+            "title": "do the right thing",
+            "url": "http://www.awesomefilm.com/script/dotherightthing.txt",
+            "release_year": "1989",
+            "rating": "7.90",
+            "votes": "27164",
+            "genre": "['drama']"
+        },
+        "m327": {
+            "title": "dumb and dumberer: when harry met lloyd",
+            "url": "http://web.archive.org/web/20040611014121/www.awesomefilm.com/script/dumbanddumberer.html",
+            "release_year": "2003",
+            "rating": "3.30",
+            "votes": "14984",
+            "genre": "['comedy']"
+        },
+        "m328": {
+            "title": "dune",
+            "url": "http://www.scifiscripts.com/scripts/dune.txt",
+            "release_year": "1984",
+            "rating": "6.50",
+            "votes": "38954",
+            "genre": "['action', 'adventure', 'sci-fi']"
+        },
+        "m329": {
+            "title": "ed wood",
+            "url": "http://www.dailyscript.com/scripts/ed-wood.html",
+            "release_year": "1994",
+            "rating": "8.10",
+            "votes": "75704",
+            "genre": "['biography', 'comedy', 'drama']"
+        },
+        "m330": {
+            "title": "edtv",
+            "url": "http://www.dailyscript.com/scripts/edtv.html",
+            "release_year": "1999",
+            "rating": "6.10",
+            "votes": "21865",
+            "genre": "['comedy']"
+        },
+        "m331": {
+            "title": "election",
+            "url": "http://www.dailyscript.com/scripts/election.html",
+            "release_year": "1999",
+            "rating": "7.40",
+            "votes": "37868",
+            "genre": "['comedy', 'drama']"
+        },
+        "m332": {
+            "title": "l.a. confidential",
+            "url": "http://www.dailyscript.com/scripts/LA%20Confidential.txt",
+            "release_year": "1997",
+            "rating": "8.40",
+            "votes": "168009",
+            "genre": "['crime', 'drama', 'mystery', 'thriller']"
+        },
+        "m333": {
+            "title": "enemy of the state",
+            "url": "http://www.dailyscript.com/scripts/enemyofthestate.html",
+            "release_year": "1998",
+            "rating": "7.20",
+            "votes": "67504",
+            "genre": "['action', 'drama', 'thriller']"
+        },
+        "m334": {
+            "title": "the english patient",
+            "url": "http://www.dailyscript.com/scripts/englishpatient.html",
+            "release_year": "1996",
+            "rating": "7.30",
+            "votes": "55247",
+            "genre": "['romance', 'drama', 'war']"
+        },
+        "m335": {
+            "title": "entrapment",
+            "url": "http://www.dailyscript.com/scripts/entrapment_production.html",
+            "release_year": "1999",
+            "rating": "6.10",
+            "votes": "41120",
+            "genre": "['action', 'crime', 'romance', 'thriller']"
+        },
+        "m336": {
+            "title": "erin brockovich",
+            "url": "http://www.dailyscript.com/scripts/Erin+Brockovich.txt",
+            "release_year": "2000",
+            "rating": "7.20",
+            "votes": "55641",
+            "genre": "['biography', 'drama', 'romance']"
+        },
+        "m337": {
+            "title": "star wars: the empire strikes back",
+            "url": "http://www.scifiscripts.com/scripts/esb_final.txt",
+            "release_year": "1982",
+            "rating": "8.00",
+            "votes": "42",
+            "genre": "['animation', 'adventure', 'action', 'fantasy']"
+        },
+        "m338": {
+            "title": "escape from the planet of the apes",
+            "url": "http://www.scifiscripts.com/scripts/escape_pota.txt",
+            "release_year": "1971",
+            "rating": "6.10",
+            "votes": "7754",
+            "genre": "['sci-fi', 'thriller']"
+        },
+        "m339": {
+            "title": "escape from l.a.",
+            "url": "http://www.scifiscripts.com/scripts/escapela.txt",
+            "release_year": "1996",
+            "rating": "5.30",
+            "votes": "23551",
+            "genre": "['action', 'adventure', 'sci-fi', 'thriller']"
+        },
+        "m340": {
+            "title": "excalibur",
+            "url": "http://www.dailyscript.com/scripts/Excalibur.txt",
+            "release_year": "1981",
+            "rating": "7.40",
+            "votes": "24550",
+            "genre": "['adventure', 'drama', 'fantasy']"
+        },
+        "m341": {
+            "title": "the exorcist",
+            "url": "http://www.horrorlair.com/scripts/exorcist.html",
+            "release_year": "1973",
+            "rating": "8.10",
+            "votes": "106383",
+            "genre": "['horror', 'thriller']"
+        },
+        "m342": {
+            "title": "the fabulous baker boys",
+            "url": "http://www.dailyscript.com/scripts/Fabulous_Baker_boys_final.html",
+            "release_year": "1989",
+            "rating": "6.70",
+            "votes": "9433",
+            "genre": "['drama', 'music', 'romance']"
+        },
+        "m343": {
+            "title": "face/off",
+            "url": "http://www.dailyscript.com/scripts/faceoff_production.html",
+            "release_year": "1997",
+            "rating": "7.30",
+            "votes": "103386",
+            "genre": "['action', 'crime', 'drama', 'sci-fi', 'thriller']"
+        },
+        "m344": {
+            "title": "the family man",
+            "url": "http://www.dailyscript.com/scripts/familyman.html",
+            "release_year": "2000",
+            "rating": "6.60",
+            "votes": "34509",
+            "genre": "['comedy', 'fantasy', 'drama', 'romance']"
+        },
+        "m345": {
+            "title": "the fantastic four",
+            "url": "http://www.dailyscript.com/scripts/fantasticfour.html",
+            "release_year": "1994",
+            "rating": "3.80",
+            "votes": "1472",
+            "genre": "['action', 'adventure', 'sci-fi', 'fantasy']"
+        },
+        "m346": {
+            "title": "fantastic voyage",
+            "url": "http://www.scifiscripts.com/scripts/fantasticvoyager.txt",
+            "release_year": "1966",
+            "rating": "6.80",
+            "votes": "5231",
+            "genre": "['adventure', 'sci-fi']"
+        },
+        "m347": {
+            "title": "fargo",
+            "url": "http://www.dailyscript.com/scripts/Fargo.txt",
+            "release_year": "1996",
+            "rating": "8.30",
+            "votes": "168176",
+            "genre": "['crime', 'drama', 'thriller']"
+        },
+        "m348": {
+            "title": "fight club",
+            "url": "http://www.scifiscripts.com/scripts/fight_club_shoot.txt",
+            "release_year": "1999",
+            "rating": "8.80",
+            "votes": "391697",
+            "genre": "['crime', 'drama', 'mystery', 'thriller']"
+        },
+        "m349": {
+            "title": "final destination 2",
+            "url": "http://www.dailyscript.com/scripts/final_destination2.html",
+            "release_year": "2003",
+            "rating": "6.40",
+            "votes": "36312",
+            "genre": "['horror', 'thriller']"
+        },
+        "m350": {
+            "title": "final destination",
+            "url": "http://www.horrorlair.com/scripts/finaldestination.txt",
+            "release_year": "2000",
+            "rating": "6.80",
+            "votes": "53422",
+            "genre": "['horror', 'thriller']"
+        },
+        "m351": {
+            "title": "rambo: first blood part ii",
+            "url": "http://www.dailyscript.com/scripts/rambo_first_blood_2.html",
+            "release_year": "1985",
+            "rating": "5.80",
+            "votes": "39147",
+            "genre": "['action', 'adventure', 'thriller']"
+        },
+        "m352": {
+            "title": "the fisher king",
+            "url": "http://www.dailyscript.com/scripts/fisher-king_shooting.html",
+            "release_year": "1991",
+            "rating": "7.50",
+            "votes": "28310",
+            "genre": "['comedy', 'drama', 'romance']"
+        },
+        "m353": {
+            "title": "five easy pieces",
+            "url": "http://www.dailyscript.com/scripts/fiveeasypieces.html",
+            "release_year": "1970",
+            "rating": "7.50",
+            "votes": "11969",
+            "genre": "['drama']"
+        },
+        "m354": {
+            "title": "five feet high and rising",
+            "url": "http://www.dailyscript.com/scripts/fivefeetandrising.html",
+            "release_year": "2000",
+            "rating": "6.50",
+            "votes": "326",
+            "genre": "['short']"
+        },
+        "m355": {
+            "title": "fletch",
+            "url": "http://www.dailyscript.com/scripts/Fletch.txt",
+            "release_year": "1985",
+            "rating": "6.70",
+            "votes": "17336",
+            "genre": "['comedy', 'crime', 'mystery']"
+        },
+        "m356": {
+            "title": "the adventures of ford fairlane",
+            "url": "http://www.dailyscript.com/scripts/ford-fairlane_early.html",
+            "release_year": "1990",
+            "rating": "5.60",
+            "votes": "9051",
+            "genre": "['action', 'adventure', 'comedy', 'music']"
+        },
+        "m357": {
+            "title": "the french connection",
+            "url": "http://www.dailyscript.com/scripts/frenchconnection.html",
+            "release_year": "1971",
+            "rating": "7.90",
+            "votes": "34062",
+            "genre": "['action', 'crime', 'thriller']"
+        },
+        "m358": {
+            "title": "frequency",
+            "url": "http://www.dailyscript.com/scripts/frequency.html",
+            "release_year": "2000",
+            "rating": "7.30",
+            "votes": "36396",
+            "genre": "['crime', 'drama', 'sci-fi', 'thriller']"
+        },
+        "m359": {
+            "title": "friday the 13th part iii",
+            "url": "http://www.horrorlair.com/scripts/friday13th3.txt",
+            "release_year": "1982",
+            "rating": "5.10",
+            "votes": "11718",
+            "genre": "['horror']"
+        },
+        "m360": {
+            "title": "jason lives: friday the 13th part vi",
+            "url": "http://www.horrorlair.com/scripts/friday13th6.txt",
+            "release_year": "1986",
+            "rating": "5.30",
+            "votes": "9919",
+            "genre": "['comedy', 'horror', 'thriller']"
+        },
+        "m361": {
+            "title": "jason goes to hell: the final friday",
+            "url": "http://www.horrorlair.com/scripts/friday13thjasongoestohell.txt",
+            "release_year": "1993",
+            "rating": "4.10",
+            "votes": "8894",
+            "genre": "['horror', 'thriller']"
+        },
+        "m362": {
+            "title": "friday the 13th part viii: jason takes manhattan",
+            "url": "http://www.dailyscript.com/scripts/friday_13_8.html",
+            "release_year": "1989",
+            "rating": "3.90",
+            "votes": "10288",
+            "genre": "['horror']"
+        },
+        "m363": {
+            "title": "game 6",
+            "url": "http://www.dailyscript.com/scripts/game_6.html",
+            "release_year": "2005",
+            "rating": "6.00",
+            "votes": "1414",
+            "genre": "['comedy', 'drama', 'sport']"
+        },
+        "m364": {
+            "title": "gandhi",
+            "url": "http://www.dailyscript.com/scripts/Gandhi.txt",
+            "release_year": "1982",
+            "rating": "8.20",
+            "votes": "52160",
+            "genre": "['biography', 'drama', 'history']"
+        },
+        "m365": {
+            "title": "gattaca",
+            "url": "http://www.dailyscript.com/scripts/gattaca_early.html",
+            "release_year": "1997",
+            "rating": "7.80",
+            "votes": "72063",
+            "genre": "['drama', 'romance', 'sci-fi', 'thriller']"
+        },
+        "m366": {
+            "title": "the getaway",
+            "url": "http://www.dailyscript.com/scripts/getaway.html",
+            "release_year": "1972",
+            "rating": "7.50",
+            "votes": "10151",
+            "genre": "['action', 'adventure', 'crime', 'thriller']"
+        },
+        "m367": {
+            "title": "get carter",
+            "url": "http://www.dailyscript.com/scripts/getcarter.html",
+            "release_year": "2000",
+            "rating": "4.80",
+            "votes": "14319",
+            "genre": "['action', 'crime', 'drama', 'thriller']"
+        },
+        "m368": {
+            "title": "glengarry glen ross",
+            "url": "http://www.dailyscript.com/scripts/glengarry.html",
+            "release_year": "1992",
+            "rating": "7.90",
+            "votes": "32882",
+            "genre": "['drama']"
+        },
+        "m369": {
+            "title": "the godfather: part ii",
+            "url": "http://www.dailyscript.com/scripts/godfather2.html",
+            "release_year": "1974",
+            "rating": "9.00",
+            "votes": "251290",
+            "genre": "['crime', 'drama', 'thriller']"
+        },
+        "m370": {
+            "title": "gods and monsters",
+            "url": "http://www.dailyscript.com/scripts/Gods%20And%20Monsters.txt",
+            "release_year": "1998",
+            "rating": "7.50",
+            "votes": "16063",
+            "genre": "['biography', 'drama']"
+        },
+        "m371": {
+            "title": "gone in sixty seconds",
+            "url": "http://www.dailyscript.com/scripts/gone_in_60_seconds.html",
+            "release_year": "2000",
+            "rating": "6.00",
+            "votes": "74474",
+            "genre": "['action', 'crime', 'thriller']"
+        },
+        "m372": {
+            "title": "goodfellas",
+            "url": "http://www.dailyscript.com/scripts/goodfellas.html",
+            "release_year": "1990",
+            "rating": "8.80",
+            "votes": "234582",
+            "genre": "['crime', 'drama', 'thriller']"
+        },
+        "m373": {
+            "title": "good will hunting",
+            "url": "http://www.moviescriptsandscreenplays.com/BenandMatt/goodwillhunting.txt",
+            "release_year": "1997",
+            "rating": "8.10",
+            "votes": "154419",
+            "genre": "['drama']"
+        },
+        "m374": {
+            "title": "the grapes of wrath",
+            "url": "http://www.dailyscript.com/scripts/Grapes%20Of%20Wrath,%20The.txt",
+            "release_year": "1940",
+            "rating": "8.30",
+            "votes": "23850",
+            "genre": "['drama']"
+        },
+        "m375": {
+            "title": "grosse pointe blank",
+            "url": "http://www.dailyscript.com/scripts/Grosse%20Pointe%20Blank.txt",
+            "release_year": "1997",
+            "rating": "7.40",
+            "votes": "41877",
+            "genre": "['comedy', 'crime', 'romance', 'thriller']"
+        },
+        "m376": {
+            "title": "the horse whisperer",
+            "url": "http://www.awesomefilm.com/script/h_whispr.txt",
+            "release_year": "1998",
+            "rating": "6.40",
+            "votes": "15953",
+            "genre": "['drama', 'romance', 'western']"
+        },
+        "m377": {
+            "title": "hackers",
+            "url": "http://www.scifiscripts.com/scripts/hackers.txt",
+            "release_year": "1995",
+            "rating": "5.80",
+            "votes": "27009",
+            "genre": "['action', 'crime', 'drama', 'thriller']"
+        },
+        "m378": {
+            "title": "halloween 4: the return of michael myers",
+            "url": "http://www.horrorlair.com/scripts/halloween4.txt",
+            "release_year": "1988",
+            "rating": "5.60",
+            "votes": "11315",
+            "genre": "['horror', 'thriller']"
+        },
+        "m379": {
+            "title": "halloween",
+            "url": "http://www.dailyscript.com/scripts/Halloween.txt",
+            "release_year": "1978",
+            "rating": "7.90",
+            "votes": "64690",
+            "genre": "['horror', 'thriller']"
+        },
+        "m380": {
+            "title": "hannah and her sisters",
+            "url": "http://www.dailyscript.com/scripts/Hannah%20And%20Her%20Sisters.txt",
+            "release_year": "1986",
+            "rating": "7.90",
+            "votes": "21088",
+            "genre": "['comedy', 'drama', 'romance']"
+        },
+        "m381": {
+            "title": "hannibal",
+            "url": "http://www.dailyscript.com/scripts/Hannibal%20-%20Zaillian.txt",
+            "release_year": "2001",
+            "rating": "6.40",
+            "votes": "75788",
+            "genre": "['crime', 'thriller']"
+        },
+        "m382": {
+            "title": "happy campers",
+            "url": "http://www.dailyscript.com/scripts/happy-campers_early.html",
+            "release_year": "2001",
+            "rating": "5.40",
+            "votes": "1785",
+            "genre": "['comedy']"
+        },
+        "m383": {
+            "title": "heathers",
+            "url": "http://www.dailyscript.com/scripts/heathers_shooting.html",
+            "release_year": "1989",
+            "rating": "7.30",
+            "votes": "25236",
+            "genre": "['comedy', 'crime']"
+        },
+        "m384": {
+            "title": "heavenly creatures",
+            "url": "http://www.awesomefilm.com/script/heavenlycreatures.html",
+            "release_year": "1994",
+            "rating": "7.60",
+            "votes": "27211",
+            "genre": "['crime', 'drama', 'fantasy', 'thriller']"
+        },
+        "m385": {
+            "title": "hellraiser: hellseeker",
+            "url": "http://www.horrorlair.com/scripts/hellraiser_hellseeker_orig.html",
+            "release_year": "2002",
+            "rating": "4.90",
+            "votes": "3400",
+            "genre": "['horror', 'mystery', 'thriller']"
+        },
+        "m386": {
+            "title": "hero",
+            "url": "http://www.dailyscript.com/scripts/hero1.html",
+            "release_year": "1992/I",
+            "rating": "6.30",
+            "votes": "10573",
+            "genre": "['comedy', 'drama']"
+        },
+        "m387": {
+            "title": "hider in the house",
+            "url": "http://www.dailyscript.com/scripts/hider-in-the-house.html",
+            "release_year": "1989",
+            "rating": "5.60",
+            "votes": "394",
+            "genre": "['thriller']"
+        },
+        "m388": {
+            "title": "highlander iii: the sorcerer",
+            "url": "http://www.scifiscripts.com/scripts/highlander3.txt",
+            "release_year": "1994",
+            "rating": "3.90",
+            "votes": "7831",
+            "genre": "['fantasy', 'sci-fi', 'action']"
+        },
+        "m389": {
+            "title": "hostage",
+            "url": "http://home.online.no/~bhundlan/scripts/hostage.htm",
+            "release_year": "2005/I",
+            "rating": "6.60",
+            "votes": "37868",
+            "genre": "['action', 'crime', 'drama', 'thriller']"
+        },
+        "m390": {
+            "title": "hotel rwanda",
+            "url": "http://www.dailyscript.com/scripts/hotel_rwanda.html",
+            "release_year": "2004",
+            "rating": "8.30",
+            "votes": "94404",
+            "genre": "['adventure', 'drama', 'history', 'thriller', 'war']"
+        },
+        "m391": {
+            "title": "house on haunted hill",
+            "url": "http://www.dailyscript.com/scripts/house-on-haunted-hill.html",
+            "release_year": "1999",
+            "rating": "5.30",
+            "votes": "23127",
+            "genre": "['horror', 'mystery', 'thriller']"
+        },
+        "m392": {
+            "title": "house of the damned",
+            "url": "http://www.horrorlair.com/scripts/houseOfTheDamned.txt",
+            "release_year": "1996",
+            "rating": "4.30",
+            "votes": "216",
+            "genre": "['action', 'horror', 'thriller']"
+        },
+        "m393": {
+            "title": "hellraiser iii: hell on earth",
+            "url": "http://www.cenobite.com/library/hr3-910701.txt",
+            "release_year": "1992",
+            "rating": "5.10",
+            "votes": "7716",
+            "genre": "['horror']"
+        },
+        "m394": {
+            "title": "hudson hawk",
+            "url": "http://www.dailyscript.com/scripts/hudson-hawk_early.html",
+            "release_year": "1991",
+            "rating": "5.40",
+            "votes": "22116",
+            "genre": "['action', 'adventure', 'comedy', 'action', 'adventure', 'comedy', 'crime']"
+        },
+        "m395": {
+            "title": "the hudsucker proxy",
+            "url": "http://www.dailyscript.com/scripts/Hudsucker%20Proxy,%20The.txt",
+            "release_year": "1994",
+            "rating": "7.40",
+            "votes": "32691",
+            "genre": "['comedy', 'drama', 'fantasy', 'romance']"
+        },
+        "m396": {
+            "title": "i walked with a zombie",
+            "url": "http://www.dailyscript.com/scripts/i-walked_with_a_zombie.html",
+            "release_year": "1943",
+            "rating": "7.30",
+            "votes": "3420",
+            "genre": "['horror']"
+        },
+        "m397": {
+            "title": "the ice storm",
+            "url": "http://www.dailyscript.com/scripts/icestorm.html",
+            "release_year": "1997",
+            "rating": "7.50",
+            "votes": "27724",
+            "genre": "['drama']"
+        },
+        "m398": {
+            "title": "insomnia",
+            "url": "http://www.dailyscript.com/scripts/insomnia.html",
+            "release_year": "2002/I",
+            "rating": "7.30",
+            "votes": "69635",
+            "genre": "['crime', 'drama', 'mystery', 'thriller']"
+        },
+        "m399": {
+            "title": "interview with the vampire: the vampire chronicles",
+            "url": "http://www.scifiscripts.com/scripts/interview.txt",
+            "release_year": "1994",
+            "rating": "7.40",
+            "votes": "80077",
+            "genre": "['drama', 'fantasy']"
+        },
+        "m400": {
+            "title": "i still know what you did last summer",
+            "url": "http://www.horrorlair.com/scripts/iskwydls.txt",
+            "release_year": "1998",
+            "rating": "4.10",
+            "votes": "23543",
+            "genre": "['horror', 'mystery', 'thriller']"
+        },
+        "m401": {
+            "title": "isle of the dead",
+            "url": "http://www.dailyscript.com/scripts/isleofthedead.htm",
+            "release_year": "1945",
+            "rating": "6.60",
+            "votes": "1405",
+            "genre": "['drama', 'horror', 'mystery', 'thriller']"
+        },
+        "m402": {
+            "title": "it's a wonderful life",
+            "url": "http://www.aellea.com/script/itsawonderfullife.txt",
+            "release_year": "1946",
+            "rating": "8.70",
+            "votes": "103290",
+            "genre": "['drama', 'fantasy', 'romance']"
+        },
+        "m403": {
+            "title": "jaws 2",
+            "url": "http://www.dailyscript.com/scripts/Jaws%202.txt",
+            "release_year": "1978",
+            "rating": "5.60",
+            "votes": "18995",
+            "genre": "['thriller']"
+        },
+        "m404": {
+            "title": "jaws 3-d",
+            "url": "http://www.horrorlair.com/scripts/jaws3_1st_draft.txt",
+            "release_year": "1983",
+            "rating": "3.30",
+            "votes": "12839",
+            "genre": "['thriller']"
+        },
+        "m405": {
+            "title": "jaws: the revenge",
+            "url": "http://www.horrorlair.com/scripts/jaws_the_revenge.txt",
+            "release_year": "1987",
+            "rating": "2.60",
+            "votes": "15727",
+            "genre": "['thriller']"
+        },
+        "m406": {
+            "title": "the jazz singer",
+            "url": "http://www.aellea.com/script/jazzsinger.txt",
+            "release_year": "1927",
+            "rating": "6.80",
+            "votes": "3252",
+            "genre": "['drama', 'music', 'romance']"
+        },
+        "m407": {
+            "title": "jennifer eight",
+            "url": "http://www.dailyscript.com/scripts/jennifer-eight-script.html",
+            "release_year": "1992",
+            "rating": "6.20",
+            "votes": "6224",
+            "genre": "['thriller', 'mystery']"
+        },
+        "m408": {
+            "title": "jerry maguire",
+            "url": "http://www.awesomefilm.com/script/jerryMaguire.txt",
+            "release_year": "1996",
+            "rating": "7.30",
+            "votes": "79706",
+            "genre": "['comedy', 'drama', 'romance', 'sport']"
+        },
+        "m409": {
+            "title": "jurassic park iii",
+            "url": "http://www.dailyscript.com/scripts/jp3.html",
+            "release_year": "2001",
+            "rating": "5.70",
+            "votes": "62564",
+            "genre": "['action', 'adventure', 'sci-fi', 'thriller']"
+        },
+        "m410": {
+            "title": "the lost world: jurassic park",
+            "url": "http://www.horrorlair.com/scripts/jurassic2_thw.txt",
+            "release_year": "1997",
+            "rating": "6.00",
+            "votes": "78169",
+            "genre": "['action', 'adventure', 'sci-fi', 'thriller', 'action', 'adventure', 'animation', 'horror', 'sci-fi', 'thriller']"
+        },
+        "m411": {
+            "title": "jurassic park",
+            "url": "http://www.scifiscripts.com/scripts/JurassicPark_1stDraft.txt",
+            "release_year": "1993",
+            "rating": "7.90",
+            "votes": "153737",
+            "genre": "['action', 'adventure', 'family', 'sci-fi', 'action', 'adventure', 'fantasy', 'sci-fi']"
+        },
+        "m412": {
+            "title": "freddy vs. jason",
+            "url": "http://www.horrorlair.com/scripts/jvsf_bm.txt",
+            "release_year": "2003",
+            "rating": "5.80",
+            "votes": "39850",
+            "genre": "['horror', 'thriller']"
+        },
+        "m413": {
+            "title": "kafka",
+            "url": "http://www.dailyscript.com/scripts/kafka.html",
+            "release_year": "1991",
+            "rating": "6.90",
+            "votes": "4467",
+            "genre": "['comedy', 'drama', 'mystery', 'sci-fi', 'thriller']"
+        },
+        "m414": {
+            "title": "king kong",
+            "url": "http://www.scifiscripts.com/scripts/kingkong.txt",
+            "release_year": "2005",
+            "rating": "7.60",
+            "votes": "134187",
+            "genre": "['adventure', 'drama', 'romance']"
+        },
+        "m415": {
+            "title": "klute",
+            "url": "http://www.dailyscript.com/scripts/klute.html",
+            "release_year": "1971",
+            "rating": "7.20",
+            "votes": "6901",
+            "genre": "['mystery', 'romance', 'thriller']"
+        },
+        "m416": {
+            "title": "kramer vs. kramer",
+            "url": "http://www.dailyscript.com/scripts/Kramer%20vs%20Kramer.txt",
+            "release_year": "1979",
+            "rating": "7.70",
+            "votes": "25836",
+            "genre": "['drama']"
+        },
+        "m417": {
+            "title": "kundun",
+            "url": "http://www.dailyscript.com/scripts/Kundun.txt",
+            "release_year": "1997",
+            "rating": "7.10",
+            "votes": "10378",
+            "genre": "['biography', 'drama', 'history', 'war']"
+        },
+        "m418": {
+            "title": "lake placid",
+            "url": "http://www.dailyscript.com/scripts/lake-placid.html",
+            "release_year": "1999",
+            "rating": "5.40",
+            "votes": "19621",
+            "genre": "['action', 'comedy', 'horror', 'thriller']"
+        },
+        "m419": {
+            "title": "the silence of the lambs",
+            "url": "http://www.horrorlair.com/scripts/lambsfinal.txt",
+            "release_year": "1991",
+            "rating": "8.70",
+            "votes": "251237",
+            "genre": "['crime', 'thriller']"
+        },
+        "m420": {
+            "title": "last of the mohicans",
+            "url": "http://www.dailyscript.com/scripts/last-of-the-mohicans-script.html",
+            "release_year": "1977",
+            "rating": "7.30",
+            "votes": "71",
+            "genre": "['action', 'adventure', 'war']"
+        },
+        "m421": {
+            "title": "leviathan",
+            "url": "http://www.dailyscript.com/scripts/leviathan_shooting.html",
+            "release_year": "1989",
+            "rating": "5.30",
+            "votes": "4751",
+            "genre": "['adventure', 'horror', 'mystery', 'sci-fi', 'thriller']"
+        },
+        "m422": {
+            "title": "lock, stock and two smoking barrels",
+            "url": "http://www.scifiscripts.com/msol/lockstock_screenplay.txt",
+            "release_year": "1998",
+            "rating": "8.20",
+            "votes": "129117",
+            "genre": "['crime', 'thriller']"
+        },
+        "m423": {
+            "title": "lone star",
+            "url": "http://www.dailyscript.com/scripts/Lone%20Star.txt",
+            "release_year": "1996",
+            "rating": "7.60",
+            "votes": "14666",
+            "genre": "['drama', 'mystery', 'romance', 'western']"
+        },
+        "m424": {
+            "title": "lord of illusions",
+            "url": "http://www.dailyscript.com/scripts/lordofillusions.html",
+            "release_year": "1995",
+            "rating": "5.60",
+            "votes": "5031",
+            "genre": "['fantasy', 'horror', 'mystery', 'thriller']"
+        },
+        "m425": {
+            "title": "lost in translation",
+            "url": "http://www.dailyscript.com/scripts/lost-in-translation-script.html",
+            "release_year": "2003",
+            "rating": "7.90",
+            "votes": "132645",
+            "genre": "['drama', 'romance']"
+        },
+        "m426": {
+            "title": "lost souls",
+            "url": "http://www.horrorlair.com/scripts/lostsouls.txt",
+            "release_year": "2000",
+            "rating": "4.60",
+            "votes": "6663",
+            "genre": "['drama', 'horror', 'thriller', 'romance']"
+        },
+        "m427": {
+            "title": "love & basketball",
+            "url": "http://www.dailyscript.com/scripts/love_and_basketball.html",
+            "release_year": "2000",
+            "rating": "6.70",
+            "votes": "5907",
+            "genre": "['drama', 'romance', 'sport']"
+        },
+        "m428": {
+            "title": "magnolia",
+            "url": "http://www.dailyscript.com/scripts/magnolia.html",
+            "release_year": "1999",
+            "rating": "8.00",
+            "votes": "123476",
+            "genre": "['drama']"
+        },
+        "m429": {
+            "title": "the man in the iron mask",
+            "url": "http://www.dailyscript.com/scripts/man_in_iron_mask_95.html",
+            "release_year": "1998/I",
+            "rating": "6.10",
+            "votes": "36684",
+            "genre": "['action', 'adventure', 'drama', 'history']"
+        },
+        "m430": {
+            "title": "manhunt",
+            "url": "http://www.awesomefilm.com/script/manhunt.html",
+            "release_year": "2003",
+            "rating": "8.70",
+            "votes": "736",
+            "genre": "['action', 'adventure', 'crime', 'horror', 'thriller']"
+        },
+        "m431": {
+            "title": "manhunter",
+            "url": "http://www.dailyscript.com/scripts/manhunter.html",
+            "release_year": "1986",
+            "rating": "7.20",
+            "votes": "21649",
+            "genre": "['crime', 'thriller']"
+        },
+        "m432": {
+            "title": "man on the moon",
+            "url": "http://www.scifiscripts.com/msol/manonthemoon.txt",
+            "release_year": "1999",
+            "rating": "7.40",
+            "votes": "49915",
+            "genre": "['biography', 'comedy', 'drama']"
+        },
+        "m433": {
+            "title": "the matrix",
+            "url": "http://www.scifiscripts.com/scripts/matrix_97_draft.txt",
+            "release_year": "1999",
+            "rating": "8.70",
+            "votes": "389480",
+            "genre": "['action', 'adventure', 'adventure', 'adventure', 'sci-fi']"
+        },
+        "m434": {
+            "title": "halloween iii: season of the witch",
+            "url": "http://www.dailyscript.com/scripts/meanstreet.html",
+            "release_year": "1982",
+            "rating": "3.80",
+            "votes": "13037",
+            "genre": "['horror', 'mystery', 'sci-fi']"
+        },
+        "m435": {
+            "title": "meet joe black",
+            "url": "http://www.awesomefilm.com/script/meetjoeblack.txt",
+            "release_year": "1998",
+            "rating": "6.90",
+            "votes": "56839",
+            "genre": "['drama', 'fantasy', 'mystery', 'romance']"
+        },
+        "m436": {
+            "title": "memento",
+            "url": "http://www.dailyscript.com/scripts/memento.html",
+            "release_year": "2000",
+            "rating": "8.70",
+            "votes": "281027",
+            "genre": "['crime', 'drama', 'mystery', 'thriller']"
+        },
+        "m437": {
+            "title": "miami vice",
+            "url": "http://www.dailyscript.com/scripts/miamivice.html",
+            "release_year": "2006",
+            "rating": "6.00",
+            "votes": "52448",
+            "genre": "['action', 'crime', 'drama', 'thriller']"
+        },
+        "m438": {
+            "title": "midnight cowboy",
+            "url": "http://www.dailyscript.com/scripts/Midnight%20Cowboy.txt",
+            "release_year": "1969",
+            "rating": "8.00",
+            "votes": "34405",
+            "genre": "['drama']"
+        },
+        "m439": {
+            "title": "midnight express",
+            "url": "http://www.dailyscript.com/scripts/midnightexpress.html",
+            "release_year": "1978",
+            "rating": "7.60",
+            "votes": "24103",
+            "genre": "['biography', 'crime', 'drama', 'thriller']"
+        },
+        "m440": {
+            "title": "mimic",
+            "url": "http://www.dailyscript.com/scripts/mimic_production.html",
+            "release_year": "1997",
+            "rating": "5.70",
+            "votes": "14916",
+            "genre": "['drama', 'horror', 'sci-fi']"
+        },
+        "m441": {
+            "title": "misery",
+            "url": "http://www.dailyscript.com/scripts/Misery.txt",
+            "release_year": "1990",
+            "rating": "7.80",
+            "votes": "41563",
+            "genre": "['thriller']"
+        },
+        "m442": {
+            "title": "mission: impossible ii",
+            "url": "http://www.dailyscript.com/scripts/mission-impossible-2_shoot.html",
+            "release_year": "2000",
+            "rating": "5.70",
+            "votes": "86452",
+            "genre": "['action', 'adventure', 'thriller']"
+        },
+        "m443": {
+            "title": "mission: impossible",
+            "url": "http://www.dailyscript.com/scripts/mission-impossible_shoot.html",
+            "release_year": "1996",
+            "rating": "6.90",
+            "votes": "87677",
+            "genre": "['action', 'adventure', 'thriller']"
+        },
+        "m444": {
+            "title": "moonstruck",
+            "url": "http://www.dailyscript.com/scripts/Moonstruck.txt",
+            "release_year": "1987",
+            "rating": "7.10",
+            "votes": "15879",
+            "genre": "['comedy', 'romance', 'drama']"
+        },
+        "m445": {
+            "title": "monty python and the holy grail",
+            "url": "http://www.angelfire.com/movies/closedcaptioned/mp-holy.txt",
+            "release_year": "1975",
+            "rating": "8.40",
+            "votes": "157683",
+            "genre": "['adventure', 'comedy']"
+        },
+        "m446": {
+            "title": "mrs brown",
+            "url": "http://www.dailyscript.com/scripts/mrs_brown.html",
+            "release_year": "1997",
+            "rating": "7.20",
+            "votes": "5701",
+            "genre": "['biography', 'drama', 'history', 'romance']"
+        },
+        "m447": {
+            "title": "arcade",
+            "url": "http://www.awesomefilm.com/script/ms_arcad.txt",
+            "release_year": "1993",
+            "rating": "4.60",
+            "votes": "668",
+            "genre": "['sci-fi']"
+        },
+        "m448": {
+            "title": "mulholland dr.",
+            "url": "http://www.dailyscript.com/scripts/mulholland_drive.html",
+            "release_year": "2001",
+            "rating": "8.00",
+            "votes": "105859",
+            "genre": "['drama', 'mystery', 'thriller']"
+        },
+        "m449": {
+            "title": "\"murderland\"",
+            "url": "http://www.awesomefilm.com/script/murderland.html",
+            "release_year": "2009",
+            "rating": "5.80",
+            "votes": "88",
+            "genre": "['crime', 'drama', 'mystery']"
+        },
+        "m450": {
+            "title": "my girl 2",
+            "url": "http://www.scifiscripts.com/msol/my_girl_2.html",
+            "release_year": "1994",
+            "rating": "4.80",
+            "votes": "5689",
+            "genre": "['comedy', 'drama', 'family', 'romance']"
+        },
+        "m451": {
+            "title": "my girl",
+            "url": "http://www.scifiscripts.com/msol/my_girl.html",
+            "release_year": "1991",
+            "rating": "6.40",
+            "votes": "17967",
+            "genre": "['comedy', 'drama', 'family', 'romance']"
+        },
+        "m452": {
+            "title": "my best friend's wedding",
+            "url": "http://www.awesomefilm.com/script/mybestfriendswedding.txt",
+            "release_year": "1997",
+            "rating": "6.20",
+            "votes": "37682",
+            "genre": "['comedy', 'romance']"
+        },
+        "m453": {
+            "title": "nashville",
+            "url": "http://www.dailyscript.com/scripts/nashville.html",
+            "release_year": "1975",
+            "rating": "7.70",
+            "votes": "9315",
+            "genre": "['drama', 'music']"
+        },
+        "m454": {
+            "title": "natural born killers",
+            "url": "http://www.dailyscript.com/scripts/natural-born-killers_shoot.html",
+            "release_year": "1994",
+            "rating": "7.10",
+            "votes": "73047",
+            "genre": "['action', 'crime', 'drama', 'romance', 'thriller']"
+        },
+        "m455": {
+            "title": "nothing but a man",
+            "url": "http://www.aellea.com/emruf3/nbam.html",
+            "release_year": "1964",
+            "rating": "7.80",
+            "votes": "448",
+            "genre": "['drama', 'romance']"
+        },
+        "m456": {
+            "title": "the negotiator",
+            "url": "http://www.angelfire.com/movies/moviefreak/negotiator.html",
+            "release_year": "1998",
+            "rating": "7.20",
+            "votes": "46983",
+            "genre": "['action', 'crime', 'drama', 'mystery', 'thriller']"
+        },
+        "m457": {
+            "title": "neuromancer",
+            "url": "http://www.scifiscripts.com/scripts/neuromancer.txt",
+            "release_year": "1988",
+            "rating": "9.30",
+            "votes": "48",
+            "genre": "['action', 'adventure', 'animation', 'sci-fi']"
+        },
+        "m458": {
+            "title": "never been kissed",
+            "url": "http://www.dailyscript.com/scripts/neverbeenkissed.html",
+            "release_year": "1999",
+            "rating": "5.70",
+            "votes": "27409",
+            "genre": "['comedy', 'drama', 'romance']"
+        },
+        "m459": {
+            "title": "the nightmare before christmas",
+            "url": "http://www.dailyscript.com/scripts/nightmare-b4-xmas_early.html",
+            "release_year": "1993",
+            "rating": "8.00",
+            "votes": "81753",
+            "genre": "['animation', 'family', 'fantasy', 'musical']"
+        },
+        "m460": {
+            "title": "a nightmare on elm street part 2: freddy's revenge",
+            "url": "http://www.horrorlair.com/scripts/nightmare_on_elm_street2.txt",
+            "release_year": "1985",
+            "rating": "4.90",
+            "votes": "16582",
+            "genre": "['fantasy', 'horror', 'thriller']"
+        },
+        "m461": {
+            "title": "a nightmare on elm street 3: dream warriors",
+            "url": "http://www.horrorlair.com/scripts/nightmare_on_elm_street3.txt",
+            "release_year": "1987",
+            "rating": "6.30",
+            "votes": "17734",
+            "genre": "['fantasy', 'horror', 'thriller']"
+        },
+        "m462": {
+            "title": "notting hill",
+            "url": "http://www.awesomefilm.com/script/nothill.txt",
+            "release_year": "1999",
+            "rating": "6.90",
+            "votes": "67217",
+            "genre": "['comedy', 'romance']"
+        },
+        "m463": {
+            "title": "one flew over the cuckoo's nest",
+            "url": "http://www.dailyscript.com/scripts/One%20Flew%20Over%20The%20Cuckoo's%20Nest.txt",
+            "release_year": "1975",
+            "rating": "8.90",
+            "votes": "219739",
+            "genre": "['drama']"
+        },
+        "m464": {
+            "title": "only you",
+            "url": "http://www.awesomefilm.com/script/onlyyou.html",
+            "release_year": "1994",
+            "rating": "6.20",
+            "votes": "6620",
+            "genre": "['comedy', 'romance']"
+        },
+        "m465": {
+            "title": "on the waterfront",
+            "url": "http://www.dailyscript.com/scripts/onthewaterfront.html",
+            "release_year": "1954",
+            "rating": "8.40",
+            "votes": "42010",
+            "genre": "['crime', 'drama', 'romance']"
+        },
+        "m466": {
+            "title": "orgy of the dead",
+            "url": "http://www.horrorlair.com/HorrorWorld/edwood/orgyofthedead.html",
+            "release_year": "1965",
+            "rating": "2.50",
+            "votes": "1395",
+            "genre": "['fantasy', 'horror']"
+        },
+        "m467": {
+            "title": "out of sight",
+            "url": "http://www.dailyscript.com/scripts/Out%20Of%20Sight.txt",
+            "release_year": "1998",
+            "rating": "7.20",
+            "votes": "38595",
+            "genre": "['comedy', 'crime', 'romance', 'thriller']"
+        },
+        "m468": {
+            "title": "pearl harbor",
+            "url": "http://www.dailyscript.com/scripts/pearl_harbor_early.html",
+            "release_year": "2001",
+            "rating": "5.40",
+            "votes": "97519",
+            "genre": "['action', 'drama', 'romance', 'war']"
+        },
+        "m469": {
+            "title": "peggy sue got married",
+            "url": "http://www.dailyscript.com/scripts/peggysue.html",
+            "release_year": "1986",
+            "rating": "6.30",
+            "votes": "12574",
+            "genre": "['comedy', 'drama', 'fantasy', 'romance']"
+        },
+        "m470": {
+            "title": "pet sematary ii",
+            "url": "http://www.dailyscript.com/scripts/petsemetaryii.html",
+            "release_year": "1992",
+            "rating": "4.20",
+            "votes": "6014",
+            "genre": "['action', 'horror', 'thriller']"
+        },
+        "m471": {
+            "title": "philadelphia",
+            "url": "http://www.dailyscript.com/scripts/philadelphia.html",
+            "release_year": "1993",
+            "rating": "7.60",
+            "votes": "54221",
+            "genre": "['drama']"
+        },
+        "m472": {
+            "title": "pitch black",
+            "url": "http://www.dailyscript.com/scripts/pitch-black_shooting.html",
+            "release_year": "2000",
+            "rating": "7.00",
+            "votes": "55982",
+            "genre": "['action', 'sci-fi', 'thriller']"
+        },
+        "m473": {
+            "title": "planet of the apes",
+            "url": "http://www.scifiscripts.com/scripts/POTA_Remake.txt",
+            "release_year": "2001",
+            "rating": "5.50",
+            "votes": "73596",
+            "genre": "['action', 'adventure', 'sci-fi', 'thriller', 'animation', 'action', 'adventure', 'sci-fi']"
+        },
+        "m474": {
+            "title": "platoon",
+            "url": "http://www.dailyscript.com/scripts/Platoon.txt",
+            "release_year": "1986",
+            "rating": "8.20",
+            "votes": "110867",
+            "genre": "['action', 'drama', 'war']"
+        },
+        "m475": {
+            "title": "playback",
+            "url": "http://www.dailyscript.com/scripts/playback.html",
+            "release_year": "1996",
+            "rating": "3.60",
+            "votes": "164",
+            "genre": "['thriller']"
+        },
+        "m476": {
+            "title": "the ploughman's lunch",
+            "url": "http://www.dailyscript.com/scripts/ploughmans_lunch.html",
+            "release_year": "1983",
+            "rating": "6.80",
+            "votes": "154",
+            "genre": "['drama']"
+        },
+        "m477": {
+            "title": "point break",
+            "url": "http://www.awesomefilm.com/script/pointbreak.html",
+            "release_year": "1991",
+            "rating": "6.90",
+            "votes": "37722",
+            "genre": "['action', 'adventure', 'crime', 'drama', 'sport', 'thriller']"
+        },
+        "m478": {
+            "title": "predator",
+            "url": "http://www.scifiscripts.com/scripts/predator.txt",
+            "release_year": "1987",
+            "rating": "7.80",
+            "votes": "90730",
+            "genre": "['action', 'adventure', 'sci-fi', 'thriller']"
+        },
+        "m479": {
+            "title": "pretty woman",
+            "url": "http://www.awesomefilm.com/script/prettywoman.html",
+            "release_year": "1990",
+            "rating": "6.70",
+            "votes": "61642",
+            "genre": "['comedy', 'romance']"
+        },
+        "m480": {
+            "title": "the princess bride",
+            "url": "http://www.dailyscript.com/scripts/Princess%20Bride,%20The.txt",
+            "release_year": "1987",
+            "rating": "8.10",
+            "votes": "125281",
+            "genre": "['adventure', 'comedy', 'family', 'fantasy', 'romance']"
+        },
+        "m481": {
+            "title": "the producers",
+            "url": "http://www.dailyscript.com/scripts/Producers,%20The.txt",
+            "release_year": "1968",
+            "rating": "7.70",
+            "votes": "19432",
+            "genre": "['comedy']"
+        },
+        "m482": {
+            "title": "psycho",
+            "url": "http://www.dailyscript.com/scripts/Psycho.txt",
+            "release_year": "1960",
+            "rating": "8.70",
+            "votes": "146915",
+            "genre": "['drama', 'horror', 'mystery', 'thriller', 'thriller']"
+        },
+        "m483": {
+            "title": "maniac",
+            "url": "http://www.aellea.com/script/qMANIAC.htm",
+            "release_year": "1980",
+            "rating": "6.20",
+            "votes": "3382",
+            "genre": "['drama', 'horror', 'thriller']"
+        },
+        "m484": {
+            "title": "vampyr",
+            "url": "http://www.aellea.com/script/qVAMPYR.htm",
+            "release_year": "1932",
+            "rating": "7.60",
+            "votes": "4005",
+            "genre": "['fantasy', 'horror']"
+        },
+        "m485": {
+            "title": "mystery of the wax museum",
+            "url": "http://www.aellea.com/script/qWAX.htm",
+            "release_year": "1933",
+            "rating": "6.80",
+            "votes": "1740",
+            "genre": "['horror', 'mystery', 'thriller']"
+        },
+        "m486": {
+            "title": "quantum project",
+            "url": "http://www.dailyscript.com/scripts/quantumproject.html",
+            "release_year": "2000",
+            "rating": "4.80",
+            "votes": "47",
+            "genre": "['short', 'adventure', 'drama', 'romance']"
+        },
+        "m487": {
+            "title": "rambling rose",
+            "url": "http://www.dailyscript.com/scripts/ramblingrose.html",
+            "release_year": "1991",
+            "rating": "6.60",
+            "votes": "2631",
+            "genre": "['drama']"
+        },
+        "m488": {
+            "title": "red white black & blue",
+            "url": "http://www.awesomefilm.com/script/redwhiteblackandblue.html",
+            "release_year": "2006",
+            "rating": "6.30",
+            "votes": "37",
+            "genre": "['documentary']"
+        },
+        "m489": {
+            "title": "star wars: episode vi - return of the jedi",
+            "url": "http://www.scifiscripts.com/scripts/revengeofthejedi.txt",
+            "release_year": "1983",
+            "rating": "8.30",
+            "votes": "215058",
+            "genre": "['action', 'adventure', 'fantasy', 'sci-fi']"
+        },
+        "m490": {
+            "title": "the rocky horror picture show",
+            "url": "http://www.horrorlair.com/scripts/rhps.txt",
+            "release_year": "1975",
+            "rating": "7.10",
+            "votes": "42713",
+            "genre": "['comedy', 'musical']"
+        },
+        "m491": {
+            "title": "rocky",
+            "url": "http://www.dailyscript.com/scripts/Rocky.txt",
+            "release_year": "1976",
+            "rating": "8.10",
+            "votes": "100022",
+            "genre": "['drama', 'romance', 'sport']"
+        },
+        "m492": {
+            "title": "who framed roger rabbit",
+            "url": "http://www.scifiscripts.com/cartoon/roger-rabbit.htm",
+            "release_year": "1988",
+            "rating": "7.60",
+            "votes": "54375",
+            "genre": "['animation', 'comedy', 'crime', 'family', 'fantasy', 'mystery', 'animation', 'adventure', 'action', 'fantasy']"
+        },
+        "m493": {
+            "title": "romeo and juliet",
+            "url": "http://www.awesomefilm.com/script/romeo+juliet.txt",
+            "release_year": "1968/I",
+            "rating": "7.80",
+            "votes": "12360",
+            "genre": "['drama', 'romance']"
+        },
+        "m494": {
+            "title": "ronin",
+            "url": "http://www.dailyscript.com/scripts/ronin_early.html",
+            "release_year": "1998",
+            "rating": "7.20",
+            "votes": "58201",
+            "genre": "['action', 'crime', 'thriller']"
+        },
+        "m495": {
+            "title": "route 9",
+            "url": "http://home.earthlink.net/~bhb1/scripts/rt9/route_9.html",
+            "release_year": "1998",
+            "rating": "6.00",
+            "votes": "557",
+            "genre": "['crime', 'drama']"
+        },
+        "m496": {
+            "title": "rush hour 2",
+            "url": "http://www.dailyscript.com/scripts/rush_hour_2.html",
+            "release_year": "2001",
+            "rating": "6.50",
+            "votes": "52716",
+            "genre": "['action', 'comedy', 'crime', 'thriller']"
+        },
+        "m497": {
+            "title": "rush hour",
+            "url": "http://www.dailyscript.com/scripts/RushHour.html",
+            "release_year": "1998",
+            "rating": "6.80",
+            "votes": "56376",
+            "genre": "['action', 'comedy', 'thriller', 'crime']"
+        },
+        "m498": {
+            "title": "runaway bride",
+            "url": "http://www.awesomefilm.com/script/rwbride.html",
+            "release_year": "1999",
+            "rating": "5.20",
+            "votes": "28793",
+            "genre": "['comedy', 'romance']"
+        },
+        "m499": {
+            "title": "sleepless in seattle",
+            "url": "http://www.awesomefilm.com/script/s_seatl.html",
+            "release_year": "1993",
+            "rating": "6.60",
+            "votes": "44179",
+            "genre": "['comedy', 'romance', 'drama']"
+        },
+        "m500": {
+            "title": "salt of the earth",
+            "url": "http://www.aellea.com/script/salt.txt",
+            "release_year": "1954",
+            "rating": "7.60",
+            "votes": "1085",
+            "genre": "['drama', 'history']"
+        },
+        "m501": {
+            "title": "the salton sea",
+            "url": "http://www.dailyscript.com/scripts/salton_sea.html",
+            "release_year": "2002",
+            "rating": "7.10",
+            "votes": "16669",
+            "genre": "['crime', 'drama', 'mystery', 'thriller']"
+        },
+        "m502": {
+            "title": "saving private ryan",
+            "url": "http://www.moviescriptsandscreenplays.com/BenandMatt/savingprivateryan.txt",
+            "release_year": "1998",
+            "rating": "8.50",
+            "votes": "275666",
+            "genre": "['action', 'drama', 'history', 'war']"
+        },
+        "m503": {
+            "title": "say anything...",
+            "url": "http://www.moviescriptsandscreenplays.com/johncusack/scripts/sayanything.txt",
+            "release_year": "1989",
+            "rating": "7.50",
+            "votes": "25220",
+            "genre": "['comedy', 'drama', 'romance']"
+        },
+        "m504": {
+            "title": "schindler's list",
+            "url": "http://www.awesomefilm.com/script/schindlerslist.txt",
+            "release_year": "1993",
+            "rating": "8.90",
+            "votes": "282473",
+            "genre": "['biography', 'drama', 'history', 'war']"
+        },
+        "m505": {
+            "title": "scream 2",
+            "url": "http://www.horrorlair.com/scripts/scream2.txt",
+            "release_year": "1997",
+            "rating": "5.90",
+            "votes": "48988",
+            "genre": "['horror', 'mystery', 'thriller']"
+        },
+        "m506": {
+            "title": "scream 3",
+            "url": "http://www.horrorlair.com/scripts/scream3_early_draft.txt",
+            "release_year": "2000",
+            "rating": "5.30",
+            "votes": "38870",
+            "genre": "['horror', 'mystery', 'thriller']"
+        },
+        "m507": {
+            "title": "scream",
+            "url": "http://www.dailyscript.com/scripts/Scream.txt",
+            "release_year": "1996/I",
+            "rating": "7.20",
+            "votes": "92543",
+            "genre": "['crime', 'horror', 'mystery', 'thriller']"
+        },
+        "m508": {
+            "title": "seven",
+            "url": "http://www.horrorlair.com/scripts/se7en.html",
+            "release_year": "1979",
+            "rating": "6.10",
+            "votes": "259",
+            "genre": "['action', 'drama']"
+        },
+        "m509": {
+            "title": "the searchers",
+            "url": "http://www.dailyscript.com/scripts/Searchers,%20The.txt",
+            "release_year": "1956",
+            "rating": "8.10",
+            "votes": "30138",
+            "genre": "['adventure', 'drama', 'western']"
+        },
+        "m510": {
+            "title": "seven days to live",
+            "url": "http://www.horrorlair.com/scripts/sevendaystolive_2nd.html",
+            "release_year": "2000",
+            "rating": "5.20",
+            "votes": "1150",
+            "genre": "['drama', 'horror', 'thriller']"
+        },
+        "m511": {
+            "title": "shakespeare in love",
+            "url": "http://www.dailyscript.com/scripts/Shakespeare%20In%20Love.txt",
+            "release_year": "1998",
+            "rating": "7.40",
+            "votes": "78654",
+            "genre": "['comedy', 'drama', 'romance']"
+        },
+        "m512": {
+            "title": "shallow grave",
+            "url": "http://www.horrorlair.com/scripts/shallow.txt",
+            "release_year": "1994",
+            "rating": "7.40",
+            "votes": "21611",
+            "genre": "['comedy', 'crime', 'drama', 'thriller']"
+        },
+        "m513": {
+            "title": "shampoo",
+            "url": "http://www.dailyscript.com/scripts/shampoo.html",
+            "release_year": "1975",
+            "rating": "6.20",
+            "votes": "4406",
+            "genre": "['drama', 'romance']"
+        },
+        "m514": {
+            "title": "the shining",
+            "url": "http://www.dailyscript.com/scripts/shining.html",
+            "release_year": "1980",
+            "rating": "8.50",
+            "votes": "182077",
+            "genre": "['horror', 'mystery', 'thriller']"
+        },
+        "m515": {
+            "title": "silver bullet",
+            "url": "http://www.dailyscript.com/scripts/silverbullet.html",
+            "release_year": "1985",
+            "rating": "5.90",
+            "votes": "6498",
+            "genre": "['adventure', 'drama', 'horror', 'mystery', 'thriller']"
+        },
+        "m516": {
+            "title": "sister act",
+            "url": "http://www.scifiscripts.com/msol/sister_act.txt",
+            "release_year": "1992",
+            "rating": "5.90",
+            "votes": "25196",
+            "genre": "['comedy', 'crime', 'music']"
+        },
+        "m517": {
+            "title": "sleepy hollow",
+            "url": "http://www.dailyscript.com/scripts/sleepy-hollow_shooting.html",
+            "release_year": "1999",
+            "rating": "7.50",
+            "votes": "108951",
+            "genre": "['fantasy', 'mystery', 'thriller']"
+        },
+        "m518": {
+            "title": "sling blade",
+            "url": "http://www.dailyscript.com/scripts/Sling%20Blade.txt",
+            "release_year": "1996",
+            "rating": "8.00",
+            "votes": "42087",
+            "genre": "['drama']"
+        },
+        "m519": {
+            "title": "smoke",
+            "url": "http://www.awesomefilm.com/script/smoke.txt",
+            "release_year": "1995",
+            "rating": "7.50",
+            "votes": "15482",
+            "genre": "['comedy', 'drama']"
+        },
+        "m520": {
+            "title": "snow falling on cedars",
+            "url": "http://www.dailyscript.com/scripts/snow-falling_shooting.html",
+            "release_year": "1999",
+            "rating": "6.70",
+            "votes": "8483",
+            "genre": "['drama', 'mystery', 'romance', 'thriller']"
+        },
+        "m521": {
+            "title": "soldier",
+            "url": "http://www.dailyscript.com/scripts/soldier.html",
+            "release_year": "1998/I",
+            "rating": "5.60",
+            "votes": "16446",
+            "genre": "['action', 'drama', 'sci-fi']"
+        },
+        "m522": {
+            "title": "some like it hot",
+            "url": "http://www.dailyscript.com/scripts/Some+Like+It+Hot.txt",
+            "release_year": "1959",
+            "rating": "8.40",
+            "votes": "68749",
+            "genre": "['comedy']"
+        },
+        "m523": {
+            "title": "the wedding date",
+            "url": "http://www.dailyscript.com/scripts/somethingborrowed.html",
+            "release_year": "2005",
+            "rating": "5.50",
+            "votes": "12340",
+            "genre": "['comedy', 'romance']"
+        },
+        "m524": {
+            "title": "sounder",
+            "url": "http://www.aellea.com/script/sounder.txt",
+            "release_year": "1972",
+            "rating": "7.80",
+            "votes": "1298",
+            "genre": "['drama']"
+        },
+        "m525": {
+            "title": "south park: bigger longer & uncut",
+            "url": "http://www.dailyscript.com/scripts/south-park.html",
+            "release_year": "1999",
+            "rating": "7.80",
+            "votes": "80257",
+            "genre": "['animation', 'comedy', 'musical']"
+        },
+        "m526": {
+            "title": "spacejacked",
+            "url": "http://www.scifiscripts.com/scripts/spaceJacked.txt",
+            "release_year": "1997",
+            "rating": "2.90",
+            "votes": "105",
+            "genre": "['action', 'sci-fi']"
+        },
+        "m527": {
+            "title": "spare me",
+            "url": "http://www.dailyscript.com/scripts/spareme.html",
+            "release_year": "1992",
+            "rating": "5.80",
+            "votes": "26",
+            "genre": "['thriller']"
+        },
+        "m528": {
+            "title": "sphere",
+            "url": "http://www.dailyscript.com/scripts/sphere_shooting.html",
+            "release_year": "1998",
+            "rating": "5.60",
+            "votes": "31924",
+            "genre": "['drama', 'horror', 'mystery', 'sci-fi', 'thriller']"
+        },
+        "m529": {
+            "title": "star wars",
+            "url": "http://www.scifiscripts.com/scripts/star_wars_3rd.txt",
+            "release_year": "1977",
+            "rating": "8.80",
+            "votes": "326619",
+            "genre": "['action', 'adventure', 'fantasy', 'sci-fi']"
+        },
+        "m530": {
+            "title": "starship troopers",
+            "url": "http://www.scifiscripts.com/scripts/starship_troopers.txt",
+            "release_year": "1997",
+            "rating": "7.10",
+            "votes": "84874",
+            "genre": "['action', 'adventure', 'sci-fi', 'thriller']"
+        },
+        "m531": {
+            "title": "star trek: the motion picture",
+            "url": "http://www.dailyscript.com/scripts/startrek01.html",
+            "release_year": "1979",
+            "rating": "6.20",
+            "votes": "25723",
+            "genre": "['adventure', 'fantasy', 'mystery', 'sci-fi']"
+        },
+        "m532": {
+            "title": "state and main",
+            "url": "http://www.dailyscript.com/scripts/State+And+Main.txt",
+            "release_year": "2000",
+            "rating": "6.80",
+            "votes": "13163",
+            "genre": "['comedy', 'drama']"
+        },
+        "m533": {
+            "title": "stepmom",
+            "url": "http://www.dailyscript.com/scripts/stepmom.html",
+            "release_year": "1998",
+            "rating": "6.20",
+            "votes": "18714",
+            "genre": "['comedy', 'drama']"
+        },
+        "m534": {
+            "title": "storytelling",
+            "url": "http://www.dailyscript.com/scripts/storytelling.html",
+            "release_year": "2001",
+            "rating": "6.70",
+            "votes": "9677",
+            "genre": "['comedy', 'drama']"
+        },
+        "m535": {
+            "title": "stranglehold",
+            "url": "http://www.horrorlair.com/scripts/strangehold.txt",
+            "release_year": "2007",
+            "rating": "8.60",
+            "votes": "907",
+            "genre": "['action', 'adventure', 'crime']"
+        },
+        "m536": {
+            "title": "dr. strangelove or: how i learned to stop worrying and love the bomb",
+            "url": "http://www.visual-memory.co.uk/amk/doc/0055.html",
+            "release_year": "1964",
+            "rating": "8.60",
+            "votes": "158529",
+            "genre": "['comedy', 'drama']"
+        },
+        "m537": {
+            "title": "suburbia",
+            "url": "http://www.awesomefilm.com/script/suburbia.html",
+            "release_year": "1996",
+            "rating": "6.50",
+            "votes": "4552",
+            "genre": "['comedy', 'drama']"
+        },
+        "m538": {
+            "title": "sugar & spice",
+            "url": "http://www.dailyscript.com/scripts/sugarandspice.html",
+            "release_year": "2001",
+            "rating": "5.20",
+            "votes": "6981",
+            "genre": "['comedy', 'crime']"
+        },
+        "m539": {
+            "title": "sunset blvd.",
+            "url": "http://www.dailyscript.com/scripts/sunset_bld_3_21_49.html",
+            "release_year": "1950",
+            "rating": "8.70",
+            "votes": "55994",
+            "genre": "['drama', 'film-noir']"
+        },
+        "m540": {
+            "title": "supergirl",
+            "url": "http://www.scifiscripts.com/scripts/supergirl.txt",
+            "release_year": "1984",
+            "rating": "4.10",
+            "votes": "6576",
+            "genre": "['action', 'adventure', 'sci-fi']"
+        },
+        "m541": {
+            "title": "superman iii",
+            "url": "http://www.scifiscripts.com/scripts/superman3_script.txt",
+            "release_year": "1983",
+            "rating": "4.70",
+            "votes": "18340",
+            "genre": "['action', 'adventure', 'comedy', 'fantasy', 'sci-fi']"
+        },
+        "m542": {
+            "title": "superman ii",
+            "url": "http://www.scifiscripts.com/scripts/supermanii_scriptment_2_76.txt",
+            "release_year": "1980",
+            "rating": "6.70",
+            "votes": "29941",
+            "genre": "['action', 'adventure', 'fantasy', 'romance', 'sci-fi']"
+        },
+        "m543": {
+            "title": "superman iv: the quest for peace",
+            "url": "http://www.scifiscripts.com/scripts/superman_IV.txt",
+            "release_year": "1987",
+            "rating": "3.40",
+            "votes": "15332",
+            "genre": "['action', 'adventure', 'family', 'fantasy', 'sci-fi']"
+        },
+        "m544": {
+            "title": "superman",
+            "url": "http://www.scifiscripts.com/scripts/superman_original.txt",
+            "release_year": "1978",
+            "rating": "7.30",
+            "votes": "51172",
+            "genre": "['action', 'family', 'sci-fi']"
+        },
+        "m545": {
+            "title": "the sweet hereafter",
+            "url": "http://www.dailyscript.com/scripts/sweethereafter.html",
+            "release_year": "1997",
+            "rating": "7.80",
+            "votes": "16463",
+            "genre": "['drama']"
+        },
+        "m546": {
+            "title": "sweet smell of success",
+            "url": "http://www.dailyscript.com/scripts/sweetsmell.html",
+            "release_year": "1957",
+            "rating": "8.20",
+            "votes": "9014",
+            "genre": "['drama', 'film-noir']"
+        },
+        "m547": {
+            "title": "terminator 2: judgment day",
+            "url": "http://www.scifiscripts.com/scripts/t2.txt",
+            "release_year": "1991",
+            "rating": "8.50",
+            "votes": "243230",
+            "genre": "['action', 'sci-fi', 'thriller']"
+        },
+        "m548": {
+            "title": "taking sides",
+            "url": "http://www.dailyscript.com/scripts/takingsides.html",
+            "release_year": "2001",
+            "rating": "7.20",
+            "votes": "1950",
+            "genre": "['drama', 'music', 'war']"
+        },
+        "m549": {
+            "title": "the terminator",
+            "url": "http://www.scifiscripts.com/scripts/terminator_1_4th_draft.txt",
+            "release_year": "1984",
+            "rating": "8.10",
+            "votes": "183538",
+            "genre": "['action', 'sci-fi', 'thriller']"
+        },
+        "m550": {
+            "title": "the game",
+            "url": "http://www.dailyscript.com/scripts/the-game-early.html",
+            "release_year": "1997",
+            "rating": "7.70",
+            "votes": "75861",
+            "genre": "['drama', 'mystery', 'thriller']"
+        },
+        "m551": {
+            "title": "the haunting",
+            "url": "http://www.dailyscript.com/scripts/the-haunting_production.html",
+            "release_year": "1999",
+            "rating": "4.60",
+            "votes": "32086",
+            "genre": "['horror', 'thriller', 'mystery']"
+        },
+        "m552": {
+            "title": "the limey",
+            "url": "http://www.dailyscript.com/scripts/the-limey.html",
+            "release_year": "1999",
+            "rating": "7.00",
+            "votes": "15465",
+            "genre": "['crime', 'drama', 'mystery', 'thriller']"
+        },
+        "m553": {
+            "title": "the man who wasn't there",
+            "url": "http://www.dailyscript.com/scripts/Man%20Who%20Wasn't%20There,%20The.txt",
+            "release_year": "2001",
+            "rating": "7.70",
+            "votes": "41452",
+            "genre": "['crime', 'drama']"
+        },
+        "m554": {
+            "title": "the relic",
+            "url": "http://www.dailyscript.com/scripts/the-relic_early.html",
+            "release_year": "1997",
+            "rating": "5.40",
+            "votes": "10340",
+            "genre": "['horror', 'mystery', 'thriller']"
+        },
+        "m555": {
+            "title": "the truman show",
+            "url": "http://www.dailyscript.com/scripts/the-truman-show_shooting.html",
+            "release_year": "1998",
+            "rating": "8.00",
+            "votes": "160825",
+            "genre": "['drama']"
+        },
+        "m556": {
+            "title": "the x files",
+            "url": "http://www.dailyscript.com/scripts/the-x-files_production.html",
+            "release_year": "1998",
+            "rating": "6.80",
+            "votes": "39090",
+            "genre": "['crime', 'horror', 'mystery', 'sci-fi', 'thriller']"
+        },
+        "m557": {
+            "title": "the cell",
+            "url": "http://www.dailyscript.com/scripts/the_cell.html",
+            "release_year": "2000",
+            "rating": "6.20",
+            "votes": "37417",
+            "genre": "['drama', 'fantasy', 'horror', 'sci-fi', 'thriller']"
+        },
+        "m558": {
+            "title": "the third man",
+            "url": "http://www.dailyscript.com/scripts/the_third_man.html",
+            "release_year": "1949",
+            "rating": "8.50",
+            "votes": "51872",
+            "genre": "['film-noir', 'mystery', 'thriller']"
+        },
+        "m559": {
+            "title": "the beach",
+            "url": "http://www.scifiscripts.com/msol/beach/script01_15.htm",
+            "release_year": "2000/I",
+            "rating": "6.30",
+            "votes": "55734",
+            "genre": "['adventure', 'drama', 'romance', 'thriller']"
+        },
+        "m560": {
+            "title": "the believer",
+            "url": "http://www.dailyscript.com/scripts/thebeliever.html",
+            "release_year": "2001",
+            "rating": "7.30",
+            "votes": "11345",
+            "genre": "['drama']"
+        },
+        "m561": {
+            "title": "le grand bleu",
+            "url": "http://www.dailyscript.com/scripts/thebigblue.html",
+            "release_year": "1988",
+            "rating": "7.40",
+            "votes": "18313",
+            "genre": "['adventure', 'drama', 'romance']"
+        },
+        "m562": {
+            "title": "the hebrew hammer",
+            "url": "http://www.dailyscript.com/scripts/thehebrewhammer.html",
+            "release_year": "2003",
+            "rating": "6.20",
+            "votes": "2900",
+            "genre": "['comedy']"
+        },
+        "m563": {
+            "title": "the leopard man",
+            "url": "http://www.dailyscript.com/scripts/theleopardman.htm",
+            "release_year": "1943",
+            "rating": "6.90",
+            "votes": "1518",
+            "genre": "['drama', 'horror', 'mystery', 'thriller']"
+        },
+        "m564": {
+            "title": "the lost son",
+            "url": "http://www.alibi-books.com/thelostson/thelostson.htm",
+            "release_year": "1999",
+            "rating": "6.50",
+            "votes": "911",
+            "genre": "['crime', 'drama', 'romance', 'thriller']"
+        },
+        "m565": {
+            "title": "the messenger",
+            "url": "http://www.awesomefilm.com/script/themessenger.txt",
+            "release_year": "2009/I",
+            "rating": "7.40",
+            "votes": "9224",
+            "genre": "['drama', 'romance', 'war']"
+        },
+        "m566": {
+            "title": "the pianist",
+            "url": "http://www.dailyscript.com/scripts/Pianist,%20The.txt",
+            "release_year": "2002",
+            "rating": "8.50",
+            "votes": "138080",
+            "genre": "['biography', 'drama', 'war']"
+        },
+        "m567": {
+            "title": "the piano",
+            "url": "http://www.dailyscript.com/scripts/thepianolesson.html",
+            "release_year": "1993",
+            "rating": "7.50",
+            "votes": "28525",
+            "genre": "['drama', 'romance']"
+        },
+        "m568": {
+            "title": "the sting",
+            "url": "http://www.dailyscript.com/scripts/Sting,%20The.txt",
+            "release_year": "1973",
+            "rating": "8.40",
+            "votes": "67231",
+            "genre": "['comedy', 'crime', 'drama']"
+        },
+        "m569": {
+            "title": "the thin man",
+            "url": "http://www.geocities.com/kingrr/thin.html",
+            "release_year": "1934",
+            "rating": "8.10",
+            "votes": "11936",
+            "genre": "['comedy', 'crime', 'drama', 'mystery', 'romance']"
+        },
+        "m570": {
+            "title": "three kings",
+            "url": "http://www.dailyscript.com/scripts/three-kings_unproduced.html",
+            "release_year": "1999",
+            "rating": "7.30",
+            "votes": "69757",
+            "genre": "['action', 'adventure', 'comedy', 'drama', 'war']"
+        },
+        "m571": {
+            "title": "thx 1138",
+            "url": "http://www.scifiscripts.com/scripts/thx1138.txt",
+            "release_year": "1971",
+            "rating": "6.80",
+            "votes": "15741",
+            "genre": "['drama', 'mystery', 'sci-fi', 'thriller']"
+        },
+        "m572": {
+            "title": "ticker",
+            "url": "http://www.dailyscript.com/scripts/ticker.html",
+            "release_year": "2001",
+            "rating": "3.30",
+            "votes": "3933",
+            "genre": "['action', 'thriller', 'crime']"
+        },
+        "m573": {
+            "title": "trouble in paradise",
+            "url": "http://www.aellea.com/emruf3/tip.html",
+            "release_year": "1932",
+            "rating": "8.20",
+            "votes": "4781",
+            "genre": "['comedy', 'crime', 'romance']"
+        },
+        "m574": {
+            "title": "titanic",
+            "url": "http://www.dailyscript.com/scripts/Titanic.txt",
+            "release_year": "1997",
+            "rating": "7.40",
+            "votes": "244771",
+            "genre": "['drama', 'history', 'romance']"
+        },
+        "m575": {
+            "title": "transatlantic merry-go-round",
+            "url": "http://www.aellea.com/emruf3/tm.html",
+            "release_year": "1934",
+            "rating": "6.90",
+            "votes": "53",
+            "genre": "['comedy', 'musical', 'mystery', 'romance']"
+        },
+        "m576": {
+            "title": "tombstone",
+            "url": "http://www.dailyscript.com/scripts/tomb_stone.html",
+            "release_year": "1993",
+            "rating": "7.70",
+            "votes": "44204",
+            "genre": "['action', 'drama', 'history', 'romance', 'western']"
+        },
+        "m577": {
+            "title": "tomorrow never dies",
+            "url": "http://www.awesomefilm.com/script/tomorrowneverdies.txt",
+            "release_year": "1997",
+            "rating": "6.40",
+            "votes": "47198",
+            "genre": "['action', 'adventure', 'thriller']"
+        },
+        "m578": {
+            "title": "to sleep with anger",
+            "url": "http://www.dailyscript.com/scripts/tosleepwithanger.html",
+            "release_year": "1990",
+            "rating": "6.80",
+            "votes": "490",
+            "genre": "['drama']"
+        },
+        "m579": {
+            "title": "toy story",
+            "url": "http://www.dailyscript.com/scripts/toy_story.html",
+            "release_year": "1995",
+            "rating": "8.20",
+            "votes": "156231",
+            "genre": "['animation', 'adventure', 'comedy', 'family', 'fantasy']"
+        },
+        "m580": {
+            "title": "the magic toyshop",
+            "url": "http://www.aellea.com/emruf3/toyshop.html",
+            "release_year": "1987",
+            "rating": "6.20",
+            "votes": "90",
+            "genre": "['fantasy']"
+        },
+        "m581": {
+            "title": "traffic",
+            "url": "http://www.dailyscript.com/scripts/Traffic.txt",
+            "release_year": "2000",
+            "rating": "7.80",
+            "votes": "86662",
+            "genre": "['crime', 'drama', 'thriller']"
+        },
+        "m582": {
+            "title": "trainspotting",
+            "url": "http://www.awesomefilm.com/script/trainspotting.html",
+            "release_year": "1996",
+            "rating": "8.20",
+            "votes": "153782",
+            "genre": "['crime', 'drama']"
+        },
+        "m583": {
+            "title": "star trek v: the final frontier",
+            "url": "http://www.scifiscripts.com/scripts/trek5.txt",
+            "release_year": "1989",
+            "rating": "5.00",
+            "votes": "20749",
+            "genre": "['action', 'adventure', 'sci-fi', 'thriller']"
+        },
+        "m584": {
+            "title": "tron",
+            "url": "http://www.scifiscripts.com/scripts/tron.txt",
+            "release_year": "1982",
+            "rating": "6.70",
+            "votes": "25903",
+            "genre": "['action', 'adventure', 'sci-fi', 'thriller', 'sci-fi']"
+        },
+        "m585": {
+            "title": "true lies",
+            "url": "http://www.awesomefilm.com/script/truelies.txt",
+            "release_year": "1994",
+            "rating": "7.20",
+            "votes": "81801",
+            "genre": "['action', 'thriller']"
+        },
+        "m586": {
+            "title": "true romance",
+            "url": "http://www.awesomefilm.com/script/trueromance.html",
+            "release_year": "1993",
+            "rating": "7.90",
+            "votes": "74762",
+            "genre": "['crime', 'romance', 'thriller']"
+        },
+        "m587": {
+            "title": "twelve monkeys",
+            "url": "http://www.horrorlair.com/scripts/twelvemonkeys.html",
+            "release_year": "1995",
+            "rating": "8.10",
+            "votes": "173320",
+            "genre": "['mystery', 'sci-fi', 'thriller']"
+        },
+        "m588": {
+            "title": "u-turn",
+            "url": "http://www.dailyscript.com/scripts/u-turn_early.html",
+            "release_year": "1973",
+            "rating": "5.80",
+            "votes": "37",
+            "genre": "['drama']"
+        },
+        "m589": {
+            "title": "u turn",
+            "url": "http://www.dailyscript.com/scripts/u-turn_shooting.html",
+            "release_year": "1997",
+            "rating": "6.70",
+            "votes": "25388",
+            "genre": "['crime', 'drama', 'thriller']"
+        },
+        "m590": {
+            "title": "unbreakable",
+            "url": "http://www.dailyscript.com/scripts/Unbreakable.txt",
+            "release_year": "2000",
+            "rating": "7.30",
+            "votes": "98767",
+            "genre": "['drama', 'fantasy', 'mystery', 'thriller']"
+        },
+        "m591": {
+            "title": "unforgiven",
+            "url": "http://www.dailyscript.com/scripts/Unforgiven.txt",
+            "release_year": "1992",
+            "rating": "8.30",
+            "votes": "101270",
+            "genre": "['drama', 'western']"
+        },
+        "m592": {
+            "title": "the usual suspects",
+            "url": "http://www.dailyscript.com/scripts/Usual%20Suspects,%20The.txt",
+            "release_year": "1995",
+            "rating": "8.70",
+            "votes": "272137",
+            "genre": "['crime', 'mystery', 'thriller']"
+        },
+        "m593": {
+            "title": "verdict",
+            "url": "http://www.scifiscripts.com/msol/verdict.txt",
+            "release_year": "1974",
+            "rating": "5.70",
+            "votes": "135",
+            "genre": "['drama']"
+        },
+        "m594": {
+            "title": "vertigo",
+            "url": "http://www.dailyscript.com/scripts/Vertigo.txt",
+            "release_year": "1958",
+            "rating": "8.60",
+            "votes": "93524",
+            "genre": "['crime', 'mystery', 'romance', 'thriller']"
+        },
+        "m595": {
+            "title": "very bad things",
+            "url": "http://www.dailyscript.com/scripts/Very+Bad+Things.txt",
+            "release_year": "1998",
+            "rating": "6.00",
+            "votes": "22977",
+            "genre": "['comedy', 'crime', 'thriller']"
+        },
+        "m596": {
+            "title": "viridiana",
+            "url": "http://www.aellea.com/script/viridiana.txt",
+            "release_year": "1961",
+            "rating": "8.20",
+            "votes": "6288",
+            "genre": "['drama']"
+        },
+        "m597": {
+            "title": "virtuosity",
+            "url": "http://www.dailyscript.com/scripts/virtuosity.html",
+            "release_year": "1995",
+            "rating": "5.30",
+            "votes": "11191",
+            "genre": "['action', 'crime', 'sci-fi', 'thriller']"
+        },
+        "m598": {
+            "title": "wag the dog",
+            "url": "http://www.dailyscript.com/scripts/wag-the-dog_production.html",
+            "release_year": "1997",
+            "rating": "7.10",
+            "votes": "36448",
+            "genre": "['comedy', 'drama']"
+        },
+        "m599": {
+            "title": "wall street",
+            "url": "http://www.dailyscript.com/scripts/wall_street.html",
+            "release_year": "1987",
+            "rating": "7.30",
+            "votes": "39082",
+            "genre": "['crime', 'drama']"
+        },
+        "m600": {
+            "title": "waxwork",
+            "url": "http://www.horrorlair.com/scripts/waxwork.txt",
+            "release_year": "1988",
+            "rating": "6.00",
+            "votes": "2596",
+            "genre": "['comedy', 'fantasy', 'horror']"
+        },
+        "m601": {
+            "title": "what lies beneath",
+            "url": "http://www.dailyscript.com/scripts/What+Lies+Beneath.txt",
+            "release_year": "2000",
+            "rating": "6.50",
+            "votes": "46195",
+            "genre": "['drama', 'horror', 'mystery', 'thriller']"
+        },
+        "m602": {
+            "title": "what women want",
+            "url": "http://www.awesomefilm.com/script/whatwomenwant.html",
+            "release_year": "2000",
+            "rating": "6.30",
+            "votes": "55269",
+            "genre": "['comedy', 'fantasy', 'romance']"
+        },
+        "m603": {
+            "title": "the witching hour",
+            "url": "http://www.scifiscripts.com/scripts/whitching_hour.txt",
+            "release_year": "1996",
+            "rating": "6.50",
+            "votes": "69",
+            "genre": "['documentary', 'short']"
+        },
+        "m604": {
+            "title": "white angel",
+            "url": "http://www.horrorlair.com/scripts/whiteang.txt",
+            "release_year": "1994",
+            "rating": "4.40",
+            "votes": "99",
+            "genre": "['drama', 'thriller']"
+        },
+        "m605": {
+            "title": "who's your daddy?",
+            "url": "http://www.cvisual.com/film-techniques/whos-your-daddy-by-maria-veltre-and-jack-sekowski.txt",
+            "release_year": "2003/I",
+            "rating": "4.50",
+            "votes": "2267",
+            "genre": "['comedy']"
+        },
+        "m606": {
+            "title": "wild things",
+            "url": "http://www.dailyscript.com/scripts/Wild+Things.txt",
+            "release_year": "1998",
+            "rating": "6.60",
+            "votes": "40523",
+            "genre": "['crime', 'mystery', 'thriller']"
+        },
+        "m607": {
+            "title": "wild wild west",
+            "url": "http://www.scifiscripts.com/scripts/wildwest.txt",
+            "release_year": "1999",
+            "rating": "4.30",
+            "votes": "54943",
+            "genre": "['action', 'western', 'comedy', 'sci-fi']"
+        },
+        "m608": {
+            "title": "willow",
+            "url": "http://www.scifiscripts.com/scripts/willow.txt",
+            "release_year": "1988",
+            "rating": "7.10",
+            "votes": "33506",
+            "genre": "['action', 'adventure', 'drama', 'fantasy', 'romance']"
+        },
+        "m609": {
+            "title": "witness",
+            "url": "http://www.dailyscript.com/scripts/Witness.txt",
+            "release_year": "1985",
+            "rating": "7.60",
+            "votes": "30705",
+            "genre": "['drama', 'romance', 'thriller']"
+        },
+        "m610": {
+            "title": "the wizard of oz",
+            "url": "http://www.scifiscripts.com/scripts/wizoz.txt",
+            "release_year": "1939",
+            "rating": "8.30",
+            "votes": "104873",
+            "genre": "['adventure', 'family', 'fantasy', 'musical']"
+        },
+        "m611": {
+            "title": "the world is not enough",
+            "url": "http://www.awesomefilm.com/script/worldisnotenough.txt",
+            "release_year": "1999",
+            "rating": "6.30",
+            "votes": "60047",
+            "genre": "['action', 'adventure', 'thriller']"
+        },
+        "m612": {
+            "title": "watchmen",
+            "url": "http://www.scifiscripts.com/scripts/wtchmn.txt",
+            "release_year": "2009",
+            "rating": "7.80",
+            "votes": "135229",
+            "genre": "['action', 'crime', 'fantasy', 'mystery', 'sci-fi', 'thriller']"
+        },
+        "m613": {
+            "title": "xxx",
+            "url": "http://www.dailyscript.com/scripts/xXx.txt",
+            "release_year": "2002",
+            "rating": "5.60",
+            "votes": "53505",
+            "genre": "['action', 'adventure', 'crime']"
+        },
+        "m614": {
+            "title": "x-men",
+            "url": "http://www.scifiscripts.com/scripts/xmenthing.txt",
+            "release_year": "2000",
+            "rating": "7.40",
+            "votes": "122149",
+            "genre": "['action', 'sci-fi']"
+        },
+        "m615": {
+            "title": "young frankenstein",
+            "url": "http://www.horrorlair.com/scripts/young.txt",
+            "release_year": "1974",
+            "rating": "8.00",
+            "votes": "57618",
+            "genre": "['comedy', 'sci-fi']"
+        },
+        "m616": {
+            "title": "zulu dawn",
+            "url": "http://www.aellea.com/script/zuludawn.txt",
+            "release_year": "1979",
+            "rating": "6.40",
+            "votes": "1911",
+            "genre": "['action', 'adventure', 'drama', 'history', 'war']"
+        }
+    },
+    "name": "Cornell Movie-Dialogs Corpus"
+}

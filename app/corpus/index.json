@@ -1,0 +1,18 @@
+{
+    "utterances-index": {
+        "movie_id": "<class 'str'>"
+    },
+    "users-index": {
+        "character_name": "<class 'str'>",
+        "movie_idx": "<class 'str'>",
+        "movie_name": "<class 'str'>",
+        "gender": "<class 'str'>",
+        "credit_pos": "<class 'str'>"
+    },
+    "conversations-index": {},
+    "overall-index": {
+        "movie_metadata": "<class 'dict'>",
+        "name": "<class 'str'>"
+    },
+    "version": 2
+}

@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+.button
+{
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.button-small
+{
+  background-color: #0476aa67;
+  padding: 4px 4px;
+}
+.button
+{
+  transition-duration: 0.4s;
+}
+.button:hover
+{
+  background-color: #04AA6D; /* Green */
+  color: white;
+}
+.button:active
+{
+  background-color: #3e8e41;
+  transform: translateY(1px);
+}
+.bc-1 {background-color: #04AA6D;} /* Green */
+.bc-2 {background-color: #008CBA;} /* Blue */
+.bc-3 {background-color: #f44336;} /* Red */
+.bc-4 {background-color: #e7e7e7; color: black;} /* Gray */
+.bc-5 {background-color: #dfddddde;} /* Black */
+.bc-6 {background-color: #ebe8e866;} /* Black */
+.br-4 {border-radius: 4px;}
+.br-8 {border-radius: 8px;}
+.br-12 {border-radius: 12px;}
+
+.ph-1 {padding-left: 1rem; padding-right: 1rem;}
+
+.before
+{
+  position: absolute;
+  z-index: -100;
+  width: 100%;
+  top: 0;
+}
+
+.font-normal
+{
+  font-weight: normal;
+}
+
+.opacity-30
+{
+  opacity: 30%;
+}
+
+.opacity-10
+{
+  opacity: 10%;
+}
+
+body
+{
+  overflow: hidden;
+}
+
+.bug
+{
+  position: absolute;
+}
