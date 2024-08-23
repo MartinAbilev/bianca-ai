@@ -1,6 +1,6 @@
 # Bianka AI
 
-[![Everything Is AWESOME]( https://bianca-ai.vercel.app/mqdefault.jpg )]( https://youtu.be/jN84WLWYTGY "BUGZ")
+[![Everything Is AWESOME]( https://bianca-ai.vercel.app/mqdefault.jpg )]( https://youtu.be/XthyUOB8wxs "BUGZ")
 
 [Bianka AI Client](https://bianca-ai.vercel.app/) | [BUGZ GitHub Repository](https://github.com/MartinAbilev/bugs)
 
