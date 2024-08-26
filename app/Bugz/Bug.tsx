@@ -2,6 +2,10 @@
 import { useState } from "react"
 import Save from "../buttons/Save"
 
+function handleHidClick(e:React.MouseEvent, hid: Object)
+{
+    e.stopPropagation()
+}
 
 export default function Bug(props: {state: any, i: number, activate: Function, isActive: any})
 {
@@ -71,17 +75,19 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
                 </div>
 
                 HIDDEN LAYER:
-                <div className="flex justify-center place-items-center">
+                <div className="justify-center place-items-center">
                 {
                     hidden.nurons.map((a: any, i: number)=>
                         {
-                            return <div className="button button-small" key={i} style={{opacity: a.neuronvalue}}>
+                            return <div className="button button-small" key={i} style={{opacity: a.neuronvalue}} onClick={(e)=>{handleHidClick(e, a)}}>
                                 :O:
                             </div>
                         })
                 }
                 </div>
-                <Save brain={bug.brain}/>
+                <div className="p-4">
+                    <Save brain={bug.brain}/>
+                </div>
             </div>
 
         }
