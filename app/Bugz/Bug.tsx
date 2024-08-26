@@ -68,7 +68,7 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
                 {
                     inputs.nurons.map((a: any, i: number)=>
                         {
-                            return <div className="button button-small bc-2" key={i} style={{opacity: a.neuronvalue + 0.1}} onClick={(e)=>{handleHidClick(e, a)}}>
+                            return <div className="button button-small bc-7" key={i} style={{opacity: a.neuronvalue + 0.1}} onClick={(e)=>{handleHidClick(e, a)}}>
                             :O:
                         </div>
                         })
