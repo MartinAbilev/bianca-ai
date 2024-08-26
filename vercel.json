@@ -6,12 +6,12 @@
             "use": "@vercel/node"
         }
     ],
-    "functions": {
-        "api/*": {
+    "routes": [
+        {
+            "src": "/api/*",
             "methods": [
-                "GET",
-                "POST"
+                "POST","GET"
             ]
         }
-    }
+    ]
 }
