@@ -29,8 +29,9 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
     async function loadHandler(data: JSON)
     {
         console.log(data)
-
-        const response = await fetch(API_URL + '/brain/upload',
+        // check environment mode
+        var environment = process.env.NODE_ENV === 'production' ? 'production' : 'development'
+        const response = await fetch(API_URL.environment + '/brain/upload',
             {
                 method: 'POST',
                 body: JSON.stringify(data),
