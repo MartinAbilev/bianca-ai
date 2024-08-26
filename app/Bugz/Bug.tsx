@@ -30,10 +30,14 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
     {
         console.log(data)
 
-        const response = await fetch(API_URL,
+        const response = await fetch(API_URL + '/brain/upload',
             {
                 method: 'POST',
-                body: JSON.stringify(data)
+                body: JSON.stringify(data),
+                headers:
+                {
+                    'Content-Type': 'application/json',
+                },
             })
 
             if (response.ok)
