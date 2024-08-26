@@ -1,7 +1,17 @@
 {
+    "version": 2,
+    "builds": [
+        {
+            "src": "api/**/*.js",
+            "use": "@vercel/node"
+        }
+    ],
     "functions": {
-      "api/*": {
-        "methods": ["POST"]
-      }
+        "api/*": {
+            "methods": [
+                "GET",
+                "POST"
+            ]
+        }
     }
-  }
+}
