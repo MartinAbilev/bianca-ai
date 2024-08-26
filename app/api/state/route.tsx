@@ -27,7 +27,7 @@ export async function GET(request: Request)
 //     body: '{"req":"false"}'
 //   }
 
-  const res = await fetch(API_URL[environment] + '/state', options)
+  const res = await fetch(API_URL[environment], options)
   const bug =await res.json()
   return Response.json( bug )
 }
