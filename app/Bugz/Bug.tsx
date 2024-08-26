@@ -13,7 +13,7 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
     const [isVisible, setIsVisible] = useState(true)
 
     const bug: any = state[i]
-    const {inputs, hidden} = bug.brain
+    const {inputs, hidden, outputs} = bug.brain
 
     // toggle isActive
     function activete()
@@ -65,12 +65,12 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
                 INPUTS LAYER:
                 <div className="flex justify-center place-items-center">
                 {
-                inputs.nurons.map((a: any, i: number)=>
-                    {
-                        return <div className="" key={i}>
-                            :{a.neuronvalue.toFixed(2)}:
+                    inputs.nurons.map((a: any, i: number)=>
+                        {
+                            return <div className="button button-small bc-2" key={i} style={{opacity: a.neuronvalue + 0.1}} onClick={(e)=>{handleHidClick(e, a)}}>
+                            :O:
                         </div>
-                    })
+                        })
                 }
                 </div>
 
@@ -79,12 +79,25 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
                 {
                     hidden.nurons.map((a: any, i: number)=>
                         {
-                            return <div className="button button-small" key={i} style={{opacity: a.neuronvalue}} onClick={(e)=>{handleHidClick(e, a)}}>
+                            return <div className="button button-small" key={i} style={{opacity: a.neuronvalue + 0.1}} onClick={(e)=>{handleHidClick(e, a)}}>
                                 :O:
                             </div>
                         })
                 }
                 </div>
+
+                OUTPUTS LAYER:
+                <div className="justify-center place-items-center">
+                {
+                    outputs.nurons.map((a: any, i: number)=>
+                        {
+                            return <div className="button button-small bc-3" key={i} style={{opacity: a.neuronvalue + 0.1}} onClick={(e)=>{handleHidClick(e, a)}}>
+                                :O:
+                            </div>
+                        })
+                }
+                </div>
+
                 <div className="p-4">
                     <Save brain={bug.brain}/>
                 </div>
