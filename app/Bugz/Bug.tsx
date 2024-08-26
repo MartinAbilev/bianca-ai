@@ -1,6 +1,5 @@
 'use client'
 import { useState } from "react"
-import API_URL from "../api/api_url";
 import Save from "../buttons/Save"
 import Load from "../buttons/Load"
 
@@ -26,15 +25,16 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
         activate(i)
     }
 
-    async function loadHandler(data: JSON)
+    async function loadHandler(data: string)
     {
-        console.log(data)
+        const jb = JSON.parse(data);
+        console.log(jb.brain)
         // check environment mode
-        const response = await fetch(API_URL.production + '/upload',
+        const response = await fetch('/api/state/upload',
             {
-                method: 'POST',
-                mode: 'no-cors',
-                body: JSON.stringify(data),
+                method: 'PUT',
+                // mode: 'no-cors',
+                body: jb.brain,
                 headers:
                 {
                     'Content-Type': 'application/json',
