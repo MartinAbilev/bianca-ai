@@ -12,6 +12,7 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
 {
     const {state, i, activate, isActive} = props
     const [isVisible, setIsVisible] = useState(true)
+    const [loadData, setLoadData] = useState()
 
     const bug: any = state[i]
     const {inputs, hidden, outputs} = bug.brain
@@ -22,6 +23,11 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
         console.log(isActive)
 
         activate(i)
+    }
+
+    function loadHandler(data: JSON)
+    {
+        console.log(data)
     }
 
     return(
@@ -101,7 +107,7 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
 
                 <div className="p-4 flex" style={{width: '100%'}}>
                     <div className="" style={{marginRight: 'auto'}}>
-                        <Load brain={bug.brain}/>
+                        <Load callback={loadHandler}/>
                     </div>
                     <div className="" style={{marginLeft: 'auto'}}>
                         <Save brain={bug.brain}/>
