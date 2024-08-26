@@ -1,6 +1,7 @@
 'use client'
 import { useState } from "react"
 import Save from "../buttons/Save"
+import Load from "../buttons/Load"
 
 function handleHidClick(e:React.MouseEvent, hid: Object)
 {
@@ -98,8 +99,13 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
                 }
                 </div>
 
-                <div className="p-4">
-                    <Save brain={bug.brain}/>
+                <div className="p-4 flex" style={{width: '100%'}}>
+                    <div className="" style={{marginRight: 'auto'}}>
+                        <Load brain={bug.brain}/>
+                    </div>
+                    <div className="" style={{marginLeft: 'auto'}}>
+                        <Save brain={bug.brain}/>
+                    </div>
                 </div>
             </div>
 
