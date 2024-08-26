@@ -7,7 +7,7 @@ export default  function Comments()
 
     useEffect(()=>
     {
-        fetch('/api/db', {cache: 'no-cache'}).then(res=>res.json()).then(json=>
+        fetch('/api/db/comments/getAll', {cache: 'no-cache'}).then(res=>res.json()).then(json=>
             {
                 setComments(json.rows)
                 // console.log(json)

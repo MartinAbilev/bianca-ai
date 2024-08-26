@@ -1,5 +1,6 @@
 'use client'
 import { useState } from "react"
+import Save from "../buttons/Save"
 
 
 export default function Bug(props: {state: any, i: number, activate: Function, isActive: any})
@@ -80,7 +81,9 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
                         })
                 }
                 </div>
+                <Save brain={bug.brain}/>
             </div>
+
         }
 
 
