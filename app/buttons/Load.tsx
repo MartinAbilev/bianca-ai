@@ -1,7 +1,3 @@
-function handleClick(brain: Object)
-{
-
-}
 export default function Load(props:{callback: Function})
 {
     const {callback} = props

@@ -1,13 +1,8 @@
 import { revalidatePath } from "next/cache";
+import API_URL from "../api_url";
 
 export const fetchCache = 'force-no-store';
-var API_URL:any =
-{
-  production: 'http://77.38.218.82:3000/api/state', // uncoment this for prod
-//   production: 'http://localhost:3001/api', // uncoment this for local build
-//   development:'http://localhost:3001/api'// uncoment this for local
-  development: 'http://77.38.218.82:3000/api/state', // uncoment this for prod
-}
+
 // check environment mode
 var environment = process.env.NODE_ENV === 'production' ? 'production' : 'development'
 

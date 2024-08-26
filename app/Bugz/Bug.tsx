@@ -1,5 +1,6 @@
 'use client'
 import { useState } from "react"
+import API_URL from "../api/api_url";
 import Save from "../buttons/Save"
 import Load from "../buttons/Load"
 
@@ -25,9 +26,25 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
         activate(i)
     }
 
-    function loadHandler(data: JSON)
+    async function loadHandler(data: JSON)
     {
         console.log(data)
+
+        const response = await fetch(API_URL,
+            {
+                method: 'POST',
+                body: JSON.stringify(data)
+            })
+
+            if (response.ok)
+                {
+                    const data = await response.text()
+                    console.log(`Success: ${data}`)
+                }
+                else
+                {
+                    console.log('Failed to insert data')
+                }
     }
 
     return(
