@@ -133,22 +133,20 @@ export default  function Page()
 
       </div>
 
-
-
       {/* ***BACKGROUND*** */}
-      <div className="before"  style={{width: "width:100%"}}>
+      <div className="before"  style={{width: "100%", bottom: "0px", overflow: "hidden"}}>
 
         {/* just divider */}
         <div className="font-mono p-4"></div>
 
         {/* cool matrix fx in background */}
-        <div className="font-mono p-4 before opacity-10"  style={{width: "width:100%", wordBreak: "break-all"}}>
+        <div className="font-mono p-4 before opacity-10"  style={{width: "100%", wordBreak: "break-all", overflow: "hidden"}}>
           state: {JSON.stringify(data)}
         </div>
 
         {/* cool bug fx */}
         {
-          <div style={{display: "block", width: "width:100%", wordBreak: "break-all"}}>
+          <div style={{display: "block", position: "absolute", width: "100%", wordBreak: "break-all", overflow: "hidden"}}>
 
             {data && data.bugz.map(((a:any, i: number)=>
             {
@@ -163,6 +161,7 @@ export default  function Page()
                 left: `${data.bugz[i].x/8}%`,
                 right: '10px',
                 height: '24px',
+                width: "100%",
                 zIndex: -10,
                 padding: 0,
                 backgroundBlendMode: 'owerlay',
@@ -176,9 +175,6 @@ export default  function Page()
           }
           </div>}
         </div>
-
-
-
     </div>
   )
 }
