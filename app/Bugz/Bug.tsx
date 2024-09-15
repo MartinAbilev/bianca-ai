@@ -3,7 +3,7 @@ import { useState } from "react"
 import Save from "../buttons/Save"
 import Load from "../buttons/Load"
 
-async function handleInpClick(e:React.MouseEvent, bugid:number, inp: Object)
+async function handleNuronClick(e:React.MouseEvent, bugid:number, inp: Object)
 {
     e.stopPropagation()
     console.log("INPUT BUG WITH ID", bugid, "NURON FIRED:", inp)
@@ -123,7 +123,7 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
                 {
                     inputs.nurons.map((a: any, i: number)=>
                         {
-                            return <div className="button button-small bc-7" key={i} style={{opacity: a.neuronvalue + 0.1}} onClick={(e)=>{handleInpClick(e, bug.id, a)}}>
+                            return <div className="button button-small bc-7" key={i} style={{opacity: a.neuronvalue + 0.1}} onClick={(e)=>{handleNuronClick(e, bug.id, a)}}>
                             :O:
                         </div>
                         })
@@ -135,7 +135,7 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
                 {
                     hidden.nurons.map((a: any, i: number)=>
                         {
-                            return <div className="button button-small" key={i} style={{opacity: a.neuronvalue + 0.1}} onClick={(e)=>{handleHidClick(e, a)}}>
+                            return <div className="button button-small" key={i} style={{opacity: a.neuronvalue + 0.1}} onClick={(e)=>{handleNuronClick(e, bug.id, a)}}>
                                 :O:
                             </div>
                         })
@@ -147,7 +147,7 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
                 {
                     outputs.nurons.map((a: any, i: number)=>
                         {
-                            return <div className="button button-small bc-3" key={i} style={{opacity: a.neuronvalue + 0.1}} onClick={(e)=>{handleHidClick(e, a)}}>
+                            return <div className="button button-small bc-3" key={i} style={{opacity: a.neuronvalue + 0.1}} onClick={(e)=>{handleNuronClick(e, bug.id, a)}}>
                                 :O:
                             </div>
                         })
