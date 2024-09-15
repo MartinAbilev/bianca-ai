@@ -3,6 +3,33 @@ import { useState } from "react"
 import Save from "../buttons/Save"
 import Load from "../buttons/Load"
 
+async function handleInpClick(e:React.MouseEvent, bugid:number, inp: Object)
+{
+    e.stopPropagation()
+    console.log("INPUT BUG WITH ID", bugid, "NURON FIRED:", inp)
+    try
+    {
+        const response = await fetch('/api/state/firenuron',
+        {
+            method: 'POST',
+            body: JSON.stringify({bugid: bugid, inp: inp})
+        })
+
+        if (response.ok)
+        {
+            const data = await response.text()
+            console.log(`Success: ${data}`)
+        }
+        else
+        {
+            console.log('Failed to fire input')
+        }
+    }
+    catch (error)
+    {
+      console.error('Error:', error)
+    }
+}
 function handleHidClick(e:React.MouseEvent, hid: Object)
 {
     e.stopPropagation()
@@ -96,7 +123,7 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
                 {
                     inputs.nurons.map((a: any, i: number)=>
                         {
-                            return <div className="button button-small bc-7" key={i} style={{opacity: a.neuronvalue + 0.1}} onClick={(e)=>{handleHidClick(e, a)}}>
+                            return <div className="button button-small bc-7" key={i} style={{opacity: a.neuronvalue + 0.1}} onClick={(e)=>{handleInpClick(e, bug.id, a)}}>
                             :O:
                         </div>
                         })
