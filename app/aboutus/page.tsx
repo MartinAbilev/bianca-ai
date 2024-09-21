@@ -65,6 +65,15 @@ export default function Page()
                     >
                         git for THIS: https://github.com/MartinAbilev/bianca-ai
                     </a>
+                    <br />
+                    <a
+                        className="pointer-events-none font-normal flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
+                        href="https://gdshop.vercel.app/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        GD SHOP: https://gdshop.vercel.app
+                    </a>
                 </div>
                 <div><Back/></div>
             </div>
