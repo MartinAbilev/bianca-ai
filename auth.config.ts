@@ -25,7 +25,7 @@ export const authConfig = {
       else if (isLoggedIn)
       {
         console.log('IS LOGED IN AND NOT DASHBOARD', nextUrl)
-        return Response.redirect(new URL('/dashboard' + nextUrl.pathname, nextUrl));
+        return Response.redirect(new URL('/dashboard', nextUrl));
       }
       return true;
     },
