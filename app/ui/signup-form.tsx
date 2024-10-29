@@ -115,7 +115,7 @@ export default function SignInForm() {
           <span>
             Already have an account?
           </span>
-          <span className='font-semibold text-cyan-500'>
+          <span className='font-semibold text-black-500'>
             <Link href="/login">
               Sign in
             </Link>
