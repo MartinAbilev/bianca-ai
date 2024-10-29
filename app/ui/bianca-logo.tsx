@@ -8,11 +8,10 @@ export default function BiancaLogo() {
     >
           <Image
               className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert opacity-100 z-10"
-              src="/biai.svg"
+              src="/logos/biailogo.svg"
               alt="Bi.AI Logo"
               width={280*2}
               height={137*2}
-              priority
           />
     </div>
   );
