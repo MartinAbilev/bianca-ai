@@ -60,7 +60,7 @@ export default  function Page()
 
       {/* ***FOREGROUND*** */}
       <div className="flex min-h-screen flex-col items-center p-8">
-
+        <></>
         <div className="flex flex-col items-center">
           {/* Bugz Powered and about us */}
           <div className="font-mono font-bold flex items-center p-4">
