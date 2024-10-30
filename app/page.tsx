@@ -3,6 +3,7 @@ import { useState, useEffect } from "react"
 import { useRouter } from "next/navigation"
 import Bug from "./Bugz/Bug"
 import Image from "next/image"
+import BiDashButt from "./_components/dashbutton"
 
 export default  function Page()
 {
@@ -60,7 +61,9 @@ export default  function Page()
 
       {/* ***FOREGROUND*** */}
       <div className="flex min-h-screen flex-col items-center p-8">
-        <></>
+        <>
+          <BiDashButt />
+        </>
         <div className="flex flex-col items-center">
           {/* Bugz Powered and about us */}
           <div className="font-mono font-bold flex items-center p-4">
