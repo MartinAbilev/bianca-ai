@@ -1,17 +1,38 @@
-import BiancaLogo from '@/app/ui/bianca-logo';
-import LoginForm from '@/app/ui/login-form';
+import Link from 'next/link';
+import { Form } from '../form';
+import { signIn } from '../auth';
+import { SubmitButton } from '../submit-button';
 
-export default function LoginPage() {
+export default function Login() {
   return (
-    <main className="flex items-center justify-center md:h-screen">
-      <div className="relative mx-auto flex w-full max-w-[400px] flex-col space-y-2.5 p-4 md:-mt-32">
-        <div className="flex h-14 w-full items-end rounded-lg bg-slate-200 p-3 md:h-14">
-          <div className="w-32 text-white md:w-36">
-            <BiancaLogo />
-          </div>
+    <div className="flex h-screen w-screen items-center justify-center bg-gray-50">
+      <div className="z-10 w-full max-w-md overflow-hidden rounded-2xl border border-gray-100 shadow-xl">
+        <div className="flex flex-col items-center justify-center space-y-3 border-b border-gray-200 bg-white px-4 py-6 pt-8 text-center sm:px-16">
+          <h3 className="text-xl font-semibold">Sign In</h3>
+          <p className="text-sm text-gray-500">
+            Use your email and password to sign in
+          </p>
         </div>
-        <LoginForm />
+        <Form
+          action={async (formData: FormData) => {
+            'use server';
+            await signIn('credentials', {
+              redirectTo: '/protected',
+              email: formData.get('email') as string,
+              password: formData.get('password') as string,
+            });
+          }}
+        >
+          <SubmitButton>Sign in</SubmitButton>
+          <p className="text-center text-sm text-gray-600">
+            {"Don't have an account? "}
+            <Link href="/signup" className="font-semibold text-gray-800">
+              Sign up
+            </Link>
+            {' for free.'}
+          </p>
+        </Form>
       </div>
-    </main>
+    </div>
   );
 }

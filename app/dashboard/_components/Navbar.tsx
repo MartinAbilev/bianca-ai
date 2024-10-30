@@ -1,5 +1,5 @@
 import BiancaLogo from "@/app/ui/bianca-logo";
-import { signOut } from "@/auth";
+import { signOut } from "@/app/auth";
 import Link from "next/link";
 
 
