@@ -7,6 +7,7 @@
     "dev2": "next dev -p 3003",
     "build": "next build",
     "start": "next start",
+    "start2": "next start -p 3003",
     "lint": "next lint"
   },
   "dependencies": {
