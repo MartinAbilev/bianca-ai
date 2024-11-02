@@ -11,7 +11,7 @@ export default function Navbar()
                 <Link href="#" className="mr-auto w-32">
                     <BiancaLogo />
                 </Link>
-                <Link href="#">Edit</Link>
+                <Link href="/dashboard/edit">Edit</Link>
                 <Link href="/dashboard/stats">Stats</Link>
                 <form
                 action={async () => {
