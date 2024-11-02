@@ -16,7 +16,7 @@ export default function StatsPage()
                 })
         },[])
     return (
-        <div className="container min-h-screen">
+        <div className="container p-8 flex flex-col">
                 Statistics
 
                 {stats.map((stat, key)=>
