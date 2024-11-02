@@ -88,7 +88,7 @@ const TableRenderer: React.FC<TableProps> = ({ data }) => {
         </tr>
       </thead>
       <tbody className="divide-y divide-gray-200">
-        {sortedData.map((item, index) => (
+        {sortedData.map((item: unknown, index: React.Key | null | undefined) => (
           <TableRow key={index} data={item} />
         ))}
       </tbody>
