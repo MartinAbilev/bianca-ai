@@ -159,7 +159,7 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
                         <Load callback={loadHandler}/>
                     </div>
                     <div className="" style={{marginLeft: 'auto'}}>
-                        <Save brain={bug.brain}/>
+                        <Save bug={bug}/>
                     </div>
                 </div>
             </div>
