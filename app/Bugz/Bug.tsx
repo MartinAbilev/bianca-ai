@@ -54,14 +54,14 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
 
     async function loadHandler(data: string)
     {
-        const jb = JSON.parse(data);
-        console.log(jb.brain)
+        const jb = await JSON.parse(data);
+        console.log('JB DATA:', jb.brain)
         // check environment mode
         const response = await fetch('/api/state/upload',
             {
                 method: 'PUT',
                 // mode: 'no-cors',
-                body: jb.brain,
+                body: JSON.stringify(jb.brain),
                 headers:
                 {
                     'Content-Type': 'application/json',

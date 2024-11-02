@@ -8,13 +8,16 @@ export default function Load(props:{callback: Function})
                 const response = await fetch('/api/db/brainz/load',
                 {
                     cache: 'no-cache',
+                    headers: {
+                        'Content-Type': 'application/json',  // Add this line
+                      },
                 })
 
                 if (response.ok)
                 {
-                    const data = await response.text()
-                    callback(data)
-                    alert(`Success: ${data}`)
+                    const data = await response.json()
+                    callback( JSON.stringify(data) )
+                    alert(`Success: ${JSON.stringify(data)}`)
                 }
                 else
                 {
