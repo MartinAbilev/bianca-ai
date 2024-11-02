@@ -4,7 +4,7 @@ import { useEffect, useState } from "react"
 
 export default function StatsPage()
 {
-    const [stats, setStats] = useState([{id: 0, created_at: 0, stats: {ct: 0}}])
+    const [stats, setStats] = useState([{id: 0, created_at: 0, stats: {ct: 0, bestTime: 0, bestestTime: 0}}])
 
     useEffect(()=>
         {
@@ -18,10 +18,19 @@ export default function StatsPage()
     return (
         <div className="container min-h-screen">
                 Statistics
+
                 {stats.map((stat, key)=>
                     {
                         const {id, stats} = stat
-                        return <div key={key}>id={id} ct={stats.ct}</div>
+                        return <div key={key}>
+                            id={id}
+                            {" "}
+                            ct={stats && stats.ct}
+                            {" "}
+                            bestTime={stats && stats.bestTime}
+                            {" "}
+                            bestestTime={stats && stats.bestestTime}
+                            </div>
                     })}
         </div>
     )
