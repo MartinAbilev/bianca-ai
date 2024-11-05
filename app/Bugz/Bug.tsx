@@ -112,7 +112,7 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
             }}
         >
 
-        BUG: id {bug.id} is active: {JSON.stringify(isActive)}
+        BUG: id {bug.id}, time alive: {bug.ct && bug.ct}, best time: {bug.bestTime && bug.bestTime}, bestest time: {bug.bestestTime && bug.bestestTime}
         <br />
         {
             isActive

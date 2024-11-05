@@ -20,15 +20,18 @@ export async function GET(request: Request)
     cache: 'no-cache',
     method: 'GET'
   }
-//   :
-//   {
-//     cache: 'no-cache',
-//     method: 'POST',
-//     body: '{"req":"false"}'
-//   }
 
   const res = await fetch(API_URL[environment], options)
-  const bug =await res.json()
-  return Response.json( bug )
+
+    if (res.ok)
+    {
+      const bug =await res.json()
+      return Response.json( bug )
+    }
+    else
+    {
+      console.log('Failed to fetch data: get state')
+      return Response.json( {state: "no state server down"} )
+    }
 }
 

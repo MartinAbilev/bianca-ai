@@ -31,7 +31,7 @@ export default  function Page()
   // on load get state every 1s or use fake data
   useEffect( () =>
   {
-    setInterval(()=>
+    var interval = setInterval(()=>
     {
 
       fetch('/api/state',
@@ -50,17 +50,18 @@ export default  function Page()
         .then((res) => res.json())
         .then((data) =>
         {
+          clearInterval(interval)
           setData(data)
         })
       })
-    }, 500)
+    }, 1000)
   },[])
 
   return(
     <div id="app">
 
       {/* ***FOREGROUND*** */}
-      <div className="flex min-h-screen flex-col items-center p-8">
+      <div className="flex h-screen flex-col items-center p-8 overflow-auto">
         <>
           <BiDashButt />
         </>
@@ -116,23 +117,22 @@ export default  function Page()
                             <div className="" key={i}>
                             {
                               activeBug === i && (
-                                <div>
-                                  The active bug!
+                                <div className="py-0 bg-slate-300 rounded-xl key={i}">
+                                  The current bug!
                                   <Bug   state={data.bugz} i={i} activate={deActivateBug} isActive={true}/>
                                 </div>
                               )
                             }
                             </div>
                             ||
-                            <div className="p-8" key={i}>
-                              There no active bug click one to activate.
+                            <div className="py-0 bg-slate-300 rounded-xl" key={i}>
+                              Click to expand.
                               <Bug   state={data.bugz} i={i} activate={activateBug} isActive={false}/>
                             </div>
             }))
 
         }
         </div>
-
 
       </div>
 
