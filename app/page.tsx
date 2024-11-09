@@ -46,14 +46,15 @@ export default  function Page()
       })
       .catch(err=>
       {
-        fetch('/api/fakestate')
-        .then((res) => res.json())
-        .then((data) =>
-        {
-          clearInterval(interval)
-          setData(data)
-        })
+        // fetch('/api/fakestate')
+        // .then((res) => res.json())
+        // .then((data) =>
+        // {
+        //   clearInterval(interval)
+        //   setData(data)
+        // })
       })
+      // setData();
     }, 1000)
   },[])
 
