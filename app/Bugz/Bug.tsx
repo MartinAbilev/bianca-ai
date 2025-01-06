@@ -72,6 +72,7 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
                 {
                     const data = await response.text()
                     console.log(`Success: BUG LOADED`)
+                    alert("BUG Loaded!!! \n" + data)
                 }
                 else
                 {
