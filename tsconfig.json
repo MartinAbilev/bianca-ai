@@ -8,6 +8,7 @@
     "paths": {
       "@/pages/*": ["pages/*"],
       "@/app/*": ["app/*"],
+      "@/buttons/*": ["app/buttons/*"],
       "@/components/*": ["app/components/*"],
       "@/ui/*": ["app/ui/*"],
       "@/lib/*": ["lib/*"],
