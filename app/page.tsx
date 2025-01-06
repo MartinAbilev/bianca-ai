@@ -3,7 +3,7 @@ import { useState, useEffect } from "react"
 import { useRouter } from "next/navigation"
 import Bug from "./Bugz/Bug"
 import Image from "next/image"
-import BiDashButt from "@/buttons/dashbutton"
+import BiDashButt from "./ui/dashbutton"
 
 export default  function Page()
 {
