@@ -16,7 +16,7 @@ export async function PUT(request: Request)
     {
       cache: 'no-cache',
       method: 'PUT',
-      body: brain,
+      body: JSON.stringify(brain),
       headers:
       {
         'Content-Type': 'application/json',  // Add this line
