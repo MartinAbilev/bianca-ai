@@ -1,0 +1,4 @@
+POSTGRES_URL="postgresql://username:password@host/neondb?sslmode=require"
+
+AUTH_SECRET=NTWJu7FmDURMVMWFERskXF+28QfW7mOE57nrrdatQt0=
+

@@ -20,10 +20,11 @@ export default function Load(props:{callback: Function})
 
                     console.log('Bug from DB retrievied', data)
                     callback( data )
+                    alert('Bug Loaded')
                 }
                 else
                 {
-                    alert('Failed to insert data')
+                    alert('Failed to upload data')
                 }
             }
             catch (error)
