@@ -5,5 +5,7 @@ export async function GET(request: Request)
 {
   revalidatePath('/api/db/getAll')
 
-  return Response.json( await sql`SELECT * from COMMENTS` )
+  const comments = await sql`SELECT * from COMMENTS`
+
+  return Response.json( comments ? comments : "no comments" )
 }

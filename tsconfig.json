@@ -6,9 +6,10 @@
     "skipLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@/components/*": ["components/*"],
       "@/pages/*": ["pages/*"],
       "@/app/*": ["app/*"],
+      "@/components/*": ["app/components/*"],
+      "@/ui/*": ["app/ui/*"],
       "@/lib/*": ["lib/*"],
       "@/styles/*": ["styles/*"]
     },
