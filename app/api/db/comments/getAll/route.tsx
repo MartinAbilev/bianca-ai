@@ -5,7 +5,16 @@ export async function GET(request: Request)
 {
   revalidatePath('/api/db/getAll')
 
-  const comments = await sql`SELECT * from COMMENTS`
+  let comments;
 
-  return Response.json( comments ? comments : "no comments" )
+  try
+  {
+    comments = await sql`SELECT * from COMMENTS`
+  }
+  catch (error)
+  {
+    comments = { status: "no comments" }
+  }
+
+  return Response.json(comments)
 }

@@ -7,20 +7,37 @@ export default  function Comments()
 
     useEffect(()=>
     {
-        fetch('/api/db/comments/getAll', {cache: 'no-cache'}).then(res=>res.json()).then(json=>
+        fetch('/api/db/comments/getAll',
+        {
+            cache: 'no-cache',
+            headers:
             {
-                setComments(json.rows)
-                // console.log(json)
-            })
+              'Content-Type': 'application/json',
+            },
+        })
+        .then(res=>res.json())
+        .then(json=>
+        {
+            console.log('comments: ', json)
+            setComments(json)
+        })
     }, [])
     return (
     <div className="flex  flex-col items-center justify-top">
         <div>
             COMMENTS
         </div>
-        {comments  && comments.map((row:any , key: number)=>
+        {
+            comments.rows ?  comments.rows.map((row:any , key: number)=>
             {
                 return (<div key={key} className="p-2">{key}: {JSON.stringify(row)} </div>)
-            })}
+            })
+            :
+            <div className="p-4">
+                {JSON.stringify(comments)}
+            </div>
+
+
+        }
     </div>)
 }
