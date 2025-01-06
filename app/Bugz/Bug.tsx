@@ -1,7 +1,7 @@
 'use client'
 import { useState } from "react"
-import Save from "../buttons/Save"
-import Load from "../buttons/Load"
+import Save from "@/buttons/save"
+import Load from "@/buttons/load"
 
 async function handleNuronClick(e:React.MouseEvent, bugid:number, inp: Object)
 {

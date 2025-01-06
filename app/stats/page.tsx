@@ -1,7 +1,7 @@
 "use client"
 import { useRouter } from "next/navigation"
-import Back from "../buttons/Back"
-import Comments from "../Comments/Comments"
+import Back from "../buttons/back"
+import Comments from "../components/comments"
 
 
 export default function Page()
