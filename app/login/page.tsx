@@ -1,9 +1,10 @@
 import Link from 'next/link';
 import { Form } from '@/form';
-import { signIn } from '@/auth';
 import { SubmitButton } from '../submit-button';
+import { formHandler } from './handler'
 
-export default function Login() {
+export default function Login()
+{
   return (
     <div className="flex h-screen w-screen items-center justify-center bg-gray-50">
       <div className="z-10 w-full max-w-md overflow-hidden rounded-2xl border border-gray-100 shadow-xl">
@@ -14,13 +15,10 @@ export default function Login() {
           </p>
         </div>
         <Form
-          action={async (formData: FormData) => {
-            'use server';
-            await signIn('credentials', {
-              redirectTo: '/dashboard',
-              email: formData.get('email') as string,
-              password: formData.get('password') as string,
-            });
+          action={async (formData: FormData) =>
+          {
+            'use server'
+            await formHandler(formData)
           }}
         >
           <SubmitButton>Sign in</SubmitButton>
