@@ -6,10 +6,16 @@ import { signIn } from '@/auth'
 import { AuthError } from 'next-auth'
 import { v4 as uuidv4 } from 'uuid'
 
+
+async function fsing(): Promise<void | undefined>
+{
+  console.log('')
+}
 export async function authenticate(prevState: string | undefined, formData: FormData)
 {
   try
   {
+    await fsing()
     // await signIn('credentials', formData)
   } catch (error) {
     // if (error instanceof AuthError) {
