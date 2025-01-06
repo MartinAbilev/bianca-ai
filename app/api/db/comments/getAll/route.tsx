@@ -7,15 +7,15 @@ export async function GET(request: Request) {
   let comments;
 
   try {
-    // Get comments from the database
-    comments = await sql`
-      SELECT c.uid, c.message, c.created_at, c.userid, u.username
-      FROM COMMENTS c
+    // Get comments from the database with username
+    const result = await sql`
+      SELECT c.uid, c.message, c.created_at, c.userid, u.name as username
+      FROM comments c
       LEFT JOIN users u ON c.userid = u.id
     `;
 
-    // Format the comments array
-    comments = comments.rows.map((comment) => {
+    // Format the comments array from result.rows
+    comments = result.rows.map((comment) => {
       const createdAt = new Date(comment.created_at);
       const formattedTime = createdAt.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
 
@@ -27,7 +27,7 @@ export async function GET(request: Request) {
       };
     });
   } catch (error) {
-    comments = { status: "no comments" };
+    comments = { status: "no comments", error: error };
   }
 
   return Response.json(comments);

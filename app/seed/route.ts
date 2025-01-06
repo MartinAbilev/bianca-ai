@@ -48,9 +48,9 @@ async function seedComments() {
   await client.sql`
     CREATE TABLE IF NOT EXISTS comments (
       id SERIAL PRIMARY KEY,
-      uid TEXT NOT NULL UNIQUE,
+      uid UUID NOT NULL UNIQUE,
       message TEXT NOT NULL,
-      userid TEXT NOT NULL,
+      userid UUID NOT NULL,
       created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP NOT NULL
     )
   `;
