@@ -6,13 +6,7 @@
     "skipLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@/pages/*": ["pages/*"],
-      "@/app/*": ["app/*"],
-      "@/buttons/*": ["app/buttons/*"],
-      "@/components/*": ["app/components/*"],
-      "@/ui/*": ["app/ui/*"],
-      "@/lib/*": ["lib/*"],
-      "@/styles/*": ["styles/*"]
+      "@/*": ["./app/*"],
     },
     "strict": true,
     "forceConsistentCasingInFileNames": true,

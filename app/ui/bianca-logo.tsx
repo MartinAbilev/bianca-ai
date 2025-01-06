@@ -1,5 +1,5 @@
 import Image from "next/image"
-import { lusitana } from '@/app/ui/fonts';
+import { lusitana } from '@/ui/fonts';
 
 export default function BiancaLogo() {
   return (

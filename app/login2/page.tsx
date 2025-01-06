@@ -1,5 +1,5 @@
-import BiancaLogo from '@/app/ui/bianca-logo';
-import LoginForm from '@/app/ui/login-form';
+import BiancaLogo from '@/ui/bianca-logo';
+import LoginForm from '@/ui/login-form';
 
 export default function LoginPage() {
   return (

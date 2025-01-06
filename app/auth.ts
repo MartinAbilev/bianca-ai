@@ -1,6 +1,6 @@
 import NextAuth from 'next-auth';
 
-import type { User } from '@/app/lib/definitions';
+import type { User } from '@/lib/definitions';
 import Credentials from 'next-auth/providers/credentials';
 import { compare } from 'bcrypt-ts';
 // import { getUser } from 'app/db';

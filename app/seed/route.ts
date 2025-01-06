@@ -1,6 +1,6 @@
 import bcrypt from 'bcrypt'
 import { db } from '@vercel/postgres'
-import { users, comments } from '../lib/placeholder-data'
+import { users, comments } from '@/lib/placeholder-data'
 
 console.log('CONECTING TO DB')
 const client = await db.connect()

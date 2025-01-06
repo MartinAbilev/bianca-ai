@@ -1,5 +1,5 @@
 
-import { auth, signOut } from '../auth';
+import { auth, signOut } from '@/auth';
 import { headers } from 'next/headers';
 
 export default async function ProtectedPage()

@@ -1,6 +1,6 @@
 import { revalidatePath } from 'next/cache'
 export const fetchCache = 'force-no-store'
-import API_URL from '../../api_url'
+import API_URL from '@/api/api_url'
 
 // check environment mode
 var environment = process.env.NODE_ENV === 'production' ? 'production' : 'development'

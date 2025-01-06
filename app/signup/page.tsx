@@ -1,5 +1,5 @@
-import BiancaLogo from "../ui/bianca-logo";
-import SignUpForm from "../ui/signup-form";
+import BiancaLogo from "@/ui/bianca-logo";
+import SignUpForm from "@/ui/signup-form";
 
 export default function SignUpPage()
 {
