@@ -1,6 +1,6 @@
 import bcrypt from 'bcrypt'
 import { db } from '@vercel/postgres'
-import { users } from '../lib/placeholder-data'
+import { users, comments } from '../lib/placeholder-data'
 
 console.log('CONECTING TO DB')
 const client = await db.connect()
@@ -34,13 +34,39 @@ async function seedUsers()
 async function seedBugz()
 {
   await client.sql`
-    CREATE TABLE IF NOT EXISTS BRAINZ (
+    CREATE TABLE IF NOT EXISTS brainz (
       id SERIAL PRIMARY KEY,
       brain JSON NOT NULL,
       stats JSON NOT NULL,
       created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP NOT NULL
     )
   `;
+}
+
+async function seedComments() {
+  // Create the comments table if it doesn't exist
+  await client.sql`
+    CREATE TABLE IF NOT EXISTS comments (
+      id SERIAL PRIMARY KEY,
+      uid TEXT NOT NULL UNIQUE,
+      message TEXT NOT NULL,
+      userid TEXT NOT NULL,
+      created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP NOT NULL
+    )
+  `;
+
+  // Insert comments, ensuring each comment is inserted only once based on the unique 'uid'
+  const insertedComments = await Promise.all(
+    comments.map(async (comment) => {
+      return client.sql`
+        INSERT INTO comments (uid, message, userid)
+        VALUES (${comment.uid}, ${comment.message}, ${comment.userid})
+        ON CONFLICT (uid) DO NOTHING
+      `;
+    }),
+  );
+
+  return insertedComments;
 }
 
 export async function GET()
@@ -52,6 +78,7 @@ export async function GET()
 
     await seedUsers()
     await seedBugz()
+    await seedComments()
 
     await client.sql`COMMIT`
 
