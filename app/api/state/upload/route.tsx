@@ -11,18 +11,20 @@ export async function PUT(request: Request)
 
 
   const brain  =  await request.json()
-  console.log('REQUEST BRAIN', brain)
-
+  console.log('Uploading Start')
   const res = await fetch(API_URL[environment] + '/upload',
     {
       cache: 'no-cache',
       method: 'PUT',
-      body: JSON.stringify(brain),
-      headers: {
+      body: brain,
+      headers:
+      {
         'Content-Type': 'application/json',  // Add this line
       },
     })
   const e =await res.json()
+  console.log('Uploading Done', e)
+
   return Response.json( {res: e} )
 }
 

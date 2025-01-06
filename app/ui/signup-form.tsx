@@ -12,7 +12,8 @@ import { Button } from './button';
 import { useActionState } from 'react';
 import Link from 'next/link';
 
-export default function SignInForm() {
+export default function SignInForm()
+{
   const [errorMessage, formAction, isPending] = useActionState(
     signup,
     undefined,

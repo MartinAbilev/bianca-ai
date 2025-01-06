@@ -55,7 +55,7 @@ export default  function Page()
         // })
       })
       // setData();
-    }, 1000)
+    }, 5000)
   },[])
 
   return(

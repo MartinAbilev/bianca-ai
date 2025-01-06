@@ -19,6 +19,8 @@ export async function POST(request: Request)
     const statsJson = {...rest}
     const statsJsonStr = JSON.stringify(statsJson)
 
+    var date = '' + new Date();
+
     // Insert the stringified JSON into the BRAINZ table
     await sql`INSERT INTO BRAINZ (brain, stats) VALUES (${brainJsonStr}, ${statsJsonStr})`
 

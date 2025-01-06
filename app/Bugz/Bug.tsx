@@ -52,9 +52,9 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
         activate(i)
     }
 
-    async function loadHandler(data: string)
+    async function loadHandler(data: any)
     {
-        const jb = await JSON.parse(data);
+        const jb = data; //await JSON.parse(data);
         console.log('JB DATA:', jb.brain)
         // check environment mode
         const response = await fetch('/api/state/upload',
@@ -71,7 +71,7 @@ export default function Bug(props: {state: any, i: number, activate: Function, i
             if (response.ok)
                 {
                     const data = await response.text()
-                    console.log(`Success: ${data}`)
+                    console.log(`Success: BUG LOADED`)
                 }
                 else
                 {

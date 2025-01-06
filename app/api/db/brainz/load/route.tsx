@@ -1,7 +1,7 @@
 import { sql } from "@vercel/postgres"
 import { revalidatePath } from "next/cache"
 
-export async function GET(request: Request)
+export async function POST(request: Request)
 {
   revalidatePath('/api/db/brainz/load')
 
