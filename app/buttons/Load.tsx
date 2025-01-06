@@ -20,7 +20,6 @@ export default function Load(props:{callback: Function})
 
                     console.log('Bug from DB retrievied', data)
                     callback( data )
-                    alert('Bug Loaded')
                 }
                 else
                 {
