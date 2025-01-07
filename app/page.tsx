@@ -109,7 +109,7 @@ export default  function Page()
         {/* list of bug component */}
         <div className="font-mono text-center p-8">
         {
-          data && data.bugz.map(((a:any, i: number)=>
+          data ? data.bugz.map(((a:any, i: number)=>
             {
               return data
               &&
@@ -131,6 +131,8 @@ export default  function Page()
                               <Bug   state={data.bugz} i={i} activate={activateBug} isActive={false}/>
                             </div>
             }))
+          :
+          <div>Loading...</div>
 
         }
         </div>
