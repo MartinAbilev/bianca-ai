@@ -132,7 +132,14 @@ export default  function Page()
                             </div>
             }))
           :
-          <div>Loading...</div>
+          <div className="center-container">
+            <div className="block">
+              <span className="loader block"></span>
+            </div>
+            <div className="py-4">
+              ...Loading...
+            </div>
+          </div>
 
         }
         </div>
